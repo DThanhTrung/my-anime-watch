@@ -1,0 +1,2311 @@
+{
+  "season_id": 2699,
+  "title": "Pokemon: Advanced",
+  "description": "After participating in the Johto League, Satoshi decides to begin anew in yet another journey; this time by himself and Pikachu, in the land of Houen. Though he isn't alone for long, as 10-year-old Haruka (whom dislikes Pokemon, but just wants to come along to see the world) travels with him after Pikachu destroys her bicycle. Satoshi also meets up with his old companion, Takeshi, and Haruka's younger brother, Masato. Together, they travel along in Houen, battling Gym Leaders, entering Contests, and other events on the way to the Houen League.\r\n\r\n(Source: ANN, edited)",
+  "episodes": [
+    {
+      "id": 47011,
+      "title": "A New Land! A New Adventure!!",
+      "jp_title": "Aratanaru Daichi! Aratanaru Bouken!!",
+      "number": 1,
+      "episode_embed_id": "32095",
+      "embed_url": {
+        "dub": "https://megaplay.buzz/stream/s-2/32095/dub",
+        "sub": "https://megaplay.buzz/stream/s-2/32095/sub"
+      },
+      "updated_at": "2024-10-18 00:50:09"
+    },
+    {
+      "id": 47012,
+      "title": "Ancient Pokémon and Mysterious Teams!",
+      "jp_title": "Kodai Pokemon to Nazo no Gundan!",
+      "number": 2,
+      "episode_embed_id": "32096",
+      "embed_url": {
+        "dub": "https://megaplay.buzz/stream/s-2/32096/dub",
+        "sub": "https://megaplay.buzz/stream/s-2/32096/sub"
+      },
+      "updated_at": "2024-10-18 00:50:09"
+    },
+    {
+      "id": 47013,
+      "title": "Touka Gym! vs. Yarukimono!",
+      "jp_title": "Touka Gym! vs Yarukimono!",
+      "number": 3,
+      "episode_embed_id": "32097",
+      "embed_url": {
+        "dub": "https://megaplay.buzz/stream/s-2/32097/dub",
+        "sub": "https://megaplay.buzz/stream/s-2/32097/sub"
+      },
+      "updated_at": "2024-10-18 00:50:09"
+    },
+    {
+      "id": 47014,
+      "title": "Full of Subame, Full of Danger! Got it in Touka Woods!",
+      "jp_title": "Subame ga Ippai, Kiken ga Ippai! Touka no Mori de Get da ze!!",
+      "number": 4,
+      "episode_embed_id": "32098",
+      "embed_url": {
+        "dub": "https://megaplay.buzz/stream/s-2/32098/dub",
+        "sub": "https://megaplay.buzz/stream/s-2/32098/sub"
+      },
+      "updated_at": "2024-10-18 00:50:09"
+    },
+    {
+      "id": 47015,
+      "title": "Ziguzaguma and Short-Pantsed Boy! Haruka",
+      "jp_title": "Ziguzaguma to Tanpan-kozou! Haruka Hajimete no Battle!!",
+      "number": 5,
+      "episode_embed_id": "32099",
+      "embed_url": {
+        "dub": "https://megaplay.buzz/stream/s-2/32099/dub",
+        "sub": "https://megaplay.buzz/stream/s-2/32099/sub"
+      },
+      "updated_at": "2024-10-18 00:50:09"
+    },
+    {
+      "id": 47016,
+      "title": "Team Rocket! Goodbye to a Disturbed Scratch!!",
+      "jp_title": "Roket-dan! Midare Hikkagi de Sayounara!!",
+      "number": 6,
+      "episode_embed_id": "32100",
+      "embed_url": {
+        "dub": "https://megaplay.buzz/stream/s-2/32100/dub",
+        "sub": "https://megaplay.buzz/stream/s-2/32100/sub"
+      },
+      "updated_at": "2024-10-18 00:50:09"
+    },
+    {
+      "id": 47017,
+      "title": "Forest of Kimori! Protect the Giant Tree!!",
+      "jp_title": "Kimori no Mori! Kyodaiju wo Mamore!!",
+      "number": 7,
+      "episode_embed_id": "32101",
+      "embed_url": {
+        "dub": "https://megaplay.buzz/stream/s-2/32101/dub",
+        "sub": "https://megaplay.buzz/stream/s-2/32101/sub"
+      },
+      "updated_at": "2024-10-18 00:50:09"
+    },
+    {
+      "id": 47018,
+      "title": "Habunaki vs. Kimori! Strike of Death!!",
+      "jp_title": "Habuneku vs Kimori! Hissatsu no Hataku Kougeki!!",
+      "number": 8,
+      "episode_embed_id": "32102",
+      "embed_url": {
+        "dub": "https://megaplay.buzz/stream/s-2/32102/dub",
+        "sub": "https://megaplay.buzz/stream/s-2/32102/sub"
+      },
+      "updated_at": "2024-10-18 00:50:09"
+    },
+    {
+      "id": 47019,
+      "title": "Bizarre! Mystery of the Kinococo Mansion!",
+      "jp_title": "Kaiki! Kinokoko Yashiki no Nazo!",
+      "number": 9,
+      "episode_embed_id": "32103",
+      "embed_url": {
+        "dub": "https://megaplay.buzz/stream/s-2/32103/dub",
+        "sub": "https://megaplay.buzz/stream/s-2/32103/sub"
+      },
+      "updated_at": "2024-10-18 00:50:09"
+    },
+    {
+      "id": 47020,
+      "title": "The Strongest Pelipper in History Appears!!",
+      "jp_title": "Shijou Saikyou no Pelipper Arawareru!!",
+      "number": 10,
+      "episode_embed_id": "32104",
+      "embed_url": {
+        "dub": "https://megaplay.buzz/stream/s-2/32104/dub",
+        "sub": "https://megaplay.buzz/stream/s-2/32104/sub"
+      },
+      "updated_at": "2024-10-18 00:50:09"
+    },
+    {
+      "id": 47021,
+      "title": "Guraena and Pochiena! Mystery of Evolution!!",
+      "jp_title": "Guraena to Pochiena! Shinka no Shinpi!!",
+      "number": 11,
+      "episode_embed_id": "32105",
+      "embed_url": {
+        "dub": "https://megaplay.buzz/stream/s-2/32105/dub",
+        "sub": "https://megaplay.buzz/stream/s-2/32105/sub"
+      },
+      "updated_at": "2024-10-18 00:50:09"
+    },
+    {
+      "id": 47022,
+      "title": "Hassboh and the Three Sisters of the Flower Shop!",
+      "jp_title": "Hassboh to Flower Shop no San-Shimai!",
+      "number": 12,
+      "episode_embed_id": "32106",
+      "embed_url": {
+        "dub": "https://megaplay.buzz/stream/s-2/32106/dub",
+        "sub": "https://megaplay.buzz/stream/s-2/32106/sub"
+      },
+      "updated_at": "2024-10-18 00:50:09"
+    },
+    {
+      "id": 47023,
+      "title": "Pokémon Contest! Agehunt",
+      "jp_title": "Pokemon Contest! Agehanto no Karei na Battle!!",
+      "number": 13,
+      "episode_embed_id": "32107",
+      "embed_url": {
+        "dub": "https://megaplay.buzz/stream/s-2/32107/dub",
+        "sub": "https://megaplay.buzz/stream/s-2/32107/sub"
+      },
+      "updated_at": "2024-10-18 00:50:09"
+    },
+    {
+      "id": 47024,
+      "title": "Double Battle and Double Kemusso!?",
+      "jp_title": "Double Battle to Double de Kemusso!?",
+      "number": 14,
+      "episode_embed_id": "32108",
+      "embed_url": {
+        "dub": "https://megaplay.buzz/stream/s-2/32108/dub",
+        "sub": "https://megaplay.buzz/stream/s-2/32108/sub"
+      },
+      "updated_at": "2024-10-18 00:50:09"
+    },
+    {
+      "id": 47025,
+      "title": "Try to Study! Pokémon Trainer",
+      "jp_title": "Benkyou-shimasu! Pokemon Trainer School!!",
+      "number": 15,
+      "episode_embed_id": "32109",
+      "embed_url": {
+        "dub": "https://megaplay.buzz/stream/s-2/32109/dub",
+        "sub": "https://megaplay.buzz/stream/s-2/32109/sub"
+      },
+      "updated_at": "2024-10-18 00:50:09"
+    },
+    {
+      "id": 47026,
+      "title": "Kanazumi Gym! Nosepass",
+      "jp_title": "Kanazumi Gym! Nosepass no Himitsu Heiki!!",
+      "number": 16,
+      "episode_embed_id": "32110",
+      "embed_url": {
+        "dub": "https://megaplay.buzz/stream/s-2/32110/dub",
+        "sub": "https://megaplay.buzz/stream/s-2/32110/sub"
+      },
+      "updated_at": "2024-10-18 00:50:09"
+    },
+    {
+      "id": 47027,
+      "title": "Devon Corporation! Shadow of Team Aqua!!",
+      "jp_title": "Devon Corporation! Akua-dan no Kage!!",
+      "number": 17,
+      "episode_embed_id": "32111",
+      "embed_url": {
+        "dub": "https://megaplay.buzz/stream/s-2/32111/dub",
+        "sub": "https://megaplay.buzz/stream/s-2/32111/sub"
+      },
+      "updated_at": "2024-10-18 00:50:09"
+    },
+    {
+      "id": 47028,
+      "title": "Old Man Hagi and Peeko the Camome!",
+      "jp_title": "Hagi-roujin to Camome no Peeko-chan!",
+      "number": 18,
+      "episode_embed_id": "32112",
+      "embed_url": {
+        "dub": "https://megaplay.buzz/stream/s-2/32112/dub",
+        "sub": "https://megaplay.buzz/stream/s-2/32112/sub"
+      },
+      "updated_at": "2024-10-18 00:50:09"
+    },
+    {
+      "id": 47029,
+      "title": "Escape! Samehader",
+      "jp_title": "Dasshutsu! Samehader no Shima!!",
+      "number": 19,
+      "episode_embed_id": "32113",
+      "embed_url": {
+        "dub": "https://megaplay.buzz/stream/s-2/32113/dub",
+        "sub": "https://megaplay.buzz/stream/s-2/32113/sub"
+      },
+      "updated_at": "2024-10-18 00:50:09"
+    },
+    {
+      "id": 47030,
+      "title": "Muro Gym! The Surfing Leader – Touki Appears!",
+      "jp_title": "Muro Gym! Naminori Gym Leader, Touki Toujou!",
+      "number": 20,
+      "episode_embed_id": "32114",
+      "embed_url": {
+        "dub": "https://megaplay.buzz/stream/s-2/32114/dub",
+        "sub": "https://megaplay.buzz/stream/s-2/32114/sub"
+      },
+      "updated_at": "2024-10-18 00:50:09"
+    },
+    {
+      "id": 47031,
+      "title": "Kemusso vs. Kemusso! Which is Which!?",
+      "jp_title": "Kemusso vs Kemusso! Dotchi ga Dotchi!?",
+      "number": 21,
+      "episode_embed_id": "32115",
+      "embed_url": {
+        "dub": "https://megaplay.buzz/stream/s-2/32115/dub",
+        "sub": "https://megaplay.buzz/stream/s-2/32115/sub"
+      },
+      "updated_at": "2024-10-18 00:50:09"
+    },
+    {
+      "id": 47032,
+      "title": "Daigo, Cockodora and Bossgodora!",
+      "jp_title": "Daigo, Cockodora, Bossgodora!",
+      "number": 22,
+      "episode_embed_id": "32116",
+      "embed_url": {
+        "dub": "https://megaplay.buzz/stream/s-2/32116/dub",
+        "sub": "https://megaplay.buzz/stream/s-2/32116/sub"
+      },
+      "updated_at": "2024-10-18 00:50:09"
+    },
+    {
+      "id": 47033,
+      "title": "Roughneck of the Sea, Heigami Appears!",
+      "jp_title": "Umibe no Abare Mono, Heigami Toujou!",
+      "number": 23,
+      "episode_embed_id": "32117",
+      "embed_url": {
+        "dub": "https://megaplay.buzz/stream/s-2/32117/dub",
+        "sub": "https://megaplay.buzz/stream/s-2/32117/sub"
+      },
+      "updated_at": "2024-10-18 00:50:09"
+    },
+    {
+      "id": 47034,
+      "title": "Run Satoshi! Cross the Kibania River!",
+      "jp_title": "Hashire Satoshi! Kibania no Kawa wo Koe!",
+      "number": 24,
+      "episode_embed_id": "32118",
+      "embed_url": {
+        "dub": "https://megaplay.buzz/stream/s-2/32118/dub",
+        "sub": "https://megaplay.buzz/stream/s-2/32118/sub"
+      },
+      "updated_at": "2024-10-18 00:50:09"
+    },
+    {
+      "id": 47035,
+      "title": "The Secret Pond! Full of Mizugorou!?",
+      "jp_title": "Himitsu no Ike! Mizugorou Ga Ippai!?",
+      "number": 25,
+      "episode_embed_id": "32119",
+      "embed_url": {
+        "dub": "https://megaplay.buzz/stream/s-2/32119/dub",
+        "sub": "https://megaplay.buzz/stream/s-2/32119/sub"
+      },
+      "updated_at": "2024-10-18 00:50:09"
+    },
+    {
+      "id": 47036,
+      "title": "Attack of the Konohana Tribe!!",
+      "jp_title": "Konohana-zoku no Shuugeki!!",
+      "number": 26,
+      "episode_embed_id": "32120",
+      "embed_url": {
+        "dub": "https://megaplay.buzz/stream/s-2/32120/dub",
+        "sub": "https://megaplay.buzz/stream/s-2/32120/sub"
+      },
+      "updated_at": "2024-10-18 00:50:09"
+    },
+    {
+      "id": 47037,
+      "title": "Team Magma vs. Team Aqua! Secret Base Battle!",
+      "jp_title": "Maguma-dan tai Akua-dan! Himitsu Kichi no Tatakai!",
+      "number": 27,
+      "episode_embed_id": "32121",
+      "embed_url": {
+        "dub": "https://megaplay.buzz/stream/s-2/32121/dub",
+        "sub": "https://megaplay.buzz/stream/s-2/32121/sub"
+      },
+      "updated_at": "2024-10-18 00:50:09"
+    },
+    {
+      "id": 47038,
+      "title": "Agehunt and Dokucale! The Final Evolution!",
+      "jp_title": "Agehunt to Dokucale! Shinka no Hate ni!",
+      "number": 28,
+      "episode_embed_id": "32122",
+      "embed_url": {
+        "dub": "https://megaplay.buzz/stream/s-2/32122/dub",
+        "sub": "https://megaplay.buzz/stream/s-2/32122/sub"
+      },
+      "updated_at": "2024-10-18 00:50:09"
+    },
+    {
+      "id": 47039,
+      "title": "The Startling Yamirami!",
+      "jp_title": "Yamirami de Tokkiri!",
+      "number": 29,
+      "episode_embed_id": "32123",
+      "embed_url": {
+        "dub": "https://megaplay.buzz/stream/s-2/32123/dub",
+        "sub": "https://megaplay.buzz/stream/s-2/32123/sub"
+      },
+      "updated_at": "2024-10-18 00:50:09"
+    },
+    {
+      "id": 47040,
+      "title": "Asanan and the Battle Girl! In the Middle of a Storm!",
+      "jp_title": "Battle Girl to Asanan! Arashi no Naka de!",
+      "number": 30,
+      "episode_embed_id": "32124",
+      "embed_url": {
+        "dub": "https://megaplay.buzz/stream/s-2/32124/dub",
+        "sub": "https://megaplay.buzz/stream/s-2/32124/sub"
+      },
+      "updated_at": "2024-10-18 00:50:09"
+    },
+    {
+      "id": 47041,
+      "title": "Muro Gym Rematch! Surfing Battlefield!",
+      "jp_title": "Muro Gym Saisen! Naminori Battlefield!",
+      "number": 31,
+      "episode_embed_id": "32125",
+      "embed_url": {
+        "dub": "https://megaplay.buzz/stream/s-2/32125/dub",
+        "sub": "https://megaplay.buzz/stream/s-2/32125/sub"
+      },
+      "updated_at": "2024-10-18 00:50:09"
+    },
+    {
+      "id": 47042,
+      "title": "The Abandoned Ship! The Creeping Shadow!!",
+      "jp_title": "Suterare Fune! Shinobiyoru Kage!!",
+      "number": 32,
+      "episode_embed_id": "32126",
+      "embed_url": {
+        "dub": "https://megaplay.buzz/stream/s-2/32126/dub",
+        "sub": "https://megaplay.buzz/stream/s-2/32126/sub"
+      },
+      "updated_at": "2024-10-18 00:50:09"
+    },
+    {
+      "id": 47043,
+      "title": "A New Rival for Haruka! Intensive Pokémon Contest Training!!",
+      "jp_title": "Haruka ni Rival! Tokkun Pokemon Contest!!",
+      "number": 33,
+      "episode_embed_id": "32127",
+      "embed_url": {
+        "dub": "https://megaplay.buzz/stream/s-2/32127/dub",
+        "sub": "https://megaplay.buzz/stream/s-2/32127/sub"
+      },
+      "updated_at": "2024-10-18 00:50:09"
+    },
+    {
+      "id": 47044,
+      "title": "The Big Starter Pokémon Panic!!",
+      "jp_title": "Hajimete no Pokemon de dai Panic!!",
+      "number": 34,
+      "episode_embed_id": "32128",
+      "embed_url": {
+        "dub": "https://megaplay.buzz/stream/s-2/32128/dub",
+        "sub": "https://megaplay.buzz/stream/s-2/32128/sub"
+      },
+      "updated_at": "2024-10-18 00:50:09"
+    },
+    {
+      "id": 47045,
+      "title": "Haruka! The First Pokémon Contest Challenge!!",
+      "jp_title": "Haruka! Pokemon Contest Hatsu Chousen!!",
+      "number": 35,
+      "episode_embed_id": "32129",
+      "embed_url": {
+        "dub": "https://megaplay.buzz/stream/s-2/32129/dub",
+        "sub": "https://megaplay.buzz/stream/s-2/32129/sub"
+      },
+      "updated_at": "2024-10-18 00:50:09"
+    },
+    {
+      "id": 47046,
+      "title": "Protect the Ocean Museum! Attack of Team Magma!!",
+      "jp_title": "Umi no Hakubutsukan wo Mamore! Maguma-dan no Shuugeki!!",
+      "number": 36,
+      "episode_embed_id": "32130",
+      "embed_url": {
+        "dub": "https://megaplay.buzz/stream/s-2/32130/dub",
+        "sub": "https://megaplay.buzz/stream/s-2/32130/sub"
+      },
+      "updated_at": "2024-10-18 00:50:09"
+    },
+    {
+      "id": 47047,
+      "title": "Beauty and the Beast!? Dirteng and Nurse Joy!",
+      "jp_title": "Bijo to Yajuu!? Dirteng to Joy-san!",
+      "number": 37,
+      "episode_embed_id": "32131",
+      "embed_url": {
+        "dub": "https://megaplay.buzz/stream/s-2/32131/dub",
+        "sub": "https://megaplay.buzz/stream/s-2/32131/sub"
+      },
+      "updated_at": "2024-10-18 00:50:09"
+    },
+    {
+      "id": 47048,
+      "title": "Prasle and Minun! The Mountain Lighthouse!!",
+      "jp_title": "Prasle and Minun! Yama no Toudai!!",
+      "number": 38,
+      "episode_embed_id": "32132",
+      "embed_url": {
+        "dub": "https://megaplay.buzz/stream/s-2/32132/dub",
+        "sub": "https://megaplay.buzz/stream/s-2/32132/sub"
+      },
+      "updated_at": "2024-10-18 00:50:09"
+    },
+    {
+      "id": 47049,
+      "title": "Sing! Pokémon Trick House!!",
+      "jp_title": "Utau! Pokemon Karakuri Yashiki!!",
+      "number": 39,
+      "episode_embed_id": "32133",
+      "embed_url": {
+        "dub": "https://megaplay.buzz/stream/s-2/32133/dub",
+        "sub": "https://megaplay.buzz/stream/s-2/32133/sub"
+      },
+      "updated_at": "2024-10-18 00:50:09"
+    },
+    {
+      "id": 47050,
+      "title": "Kinsetsu Gym! Tessen",
+      "jp_title": "Kinsetsu Gym! Tessen no Dengeki Battle!!",
+      "number": 40,
+      "episode_embed_id": "32134",
+      "embed_url": {
+        "dub": "https://megaplay.buzz/stream/s-2/32134/dub",
+        "sub": "https://megaplay.buzz/stream/s-2/32134/sub"
+      },
+      "updated_at": "2024-10-18 00:50:09"
+    },
+    {
+      "id": 47051,
+      "title": "Kimori",
+      "jp_title": "Kimori no Shinwaza!! Suika Hatake no Tane Machine Gun!",
+      "number": 41,
+      "episode_embed_id": "32135",
+      "embed_url": {
+        "dub": "https://megaplay.buzz/stream/s-2/32135/dub",
+        "sub": "https://megaplay.buzz/stream/s-2/32135/sub"
+      },
+      "updated_at": "2024-10-18 00:50:09"
+    },
+    {
+      "id": 47052,
+      "title": "Barubeat and Illumise! Dance of Love!",
+      "jp_title": "Barubeat to Illumise! Ai no Dance!",
+      "number": 42,
+      "episode_embed_id": "32136",
+      "embed_url": {
+        "dub": "https://megaplay.buzz/stream/s-2/32136/dub",
+        "sub": "https://megaplay.buzz/stream/s-2/32136/sub"
+      },
+      "updated_at": "2024-10-18 00:50:09"
+    },
+    {
+      "id": 47053,
+      "title": "Fly Tatsubay! Towards the Future!!",
+      "jp_title": "Tobe, Tatsubei! Ashita ni Mukatte!!",
+      "number": 43,
+      "episode_embed_id": "32137",
+      "embed_url": {
+        "dub": "https://megaplay.buzz/stream/s-2/32137/dub",
+        "sub": "https://megaplay.buzz/stream/s-2/32137/sub"
+      },
+      "updated_at": "2024-10-18 00:50:09"
+    },
+    {
+      "id": 47054,
+      "title": "Kasumi Appears! Togepi and the Mirage Kingdom!",
+      "jp_title": "Kasumi Toujou! Togepi to Maboroshi no Oukoku!",
+      "number": 44,
+      "episode_embed_id": "32138",
+      "embed_url": {
+        "dub": "https://megaplay.buzz/stream/s-2/32138/dub",
+        "sub": "https://megaplay.buzz/stream/s-2/32138/sub"
+      },
+      "updated_at": "2024-10-18 00:50:09"
+    },
+    {
+      "id": 47055,
+      "title": "Beyond the Mirage! Togepi",
+      "jp_title": "Shinkirou no Kanata ni! Togepi no Rakuen!",
+      "number": 45,
+      "episode_embed_id": "32139",
+      "embed_url": {
+        "dub": "https://megaplay.buzz/stream/s-2/32139/dub",
+        "sub": "https://megaplay.buzz/stream/s-2/32139/sub"
+      },
+      "updated_at": "2024-10-18 00:50:09"
+    },
+    {
+      "id": 47056,
+      "title": "Kachinuki Family! 4 vs. 4!!",
+      "jp_title": "Kachinuki Family! 4 vs 4!!",
+      "number": 46,
+      "episode_embed_id": "32140",
+      "embed_url": {
+        "dub": "https://megaplay.buzz/stream/s-2/32140/dub",
+        "sub": "https://megaplay.buzz/stream/s-2/32140/sub"
+      },
+      "updated_at": "2024-10-18 00:50:09"
+    },
+    {
+      "id": 47057,
+      "title": "Eneko and Aromatherapy!",
+      "jp_title": "Eneko to Aromatherapy!",
+      "number": 47,
+      "episode_embed_id": "32141",
+      "embed_url": {
+        "dub": "https://megaplay.buzz/stream/s-2/32141/dub",
+        "sub": "https://megaplay.buzz/stream/s-2/32141/sub"
+      },
+      "updated_at": "2024-10-18 00:50:09"
+    },
+    {
+      "id": 47058,
+      "title": "Zangoose vs. Habunake! Rivals Showdown!!",
+      "jp_title": "Zangoose vs Habunake! Rival Taiketsu!!",
+      "number": 48,
+      "episode_embed_id": "32142",
+      "embed_url": {
+        "dub": "https://megaplay.buzz/stream/s-2/32142/dub",
+        "sub": "https://megaplay.buzz/stream/s-2/32142/sub"
+      },
+      "updated_at": "2024-10-18 00:50:09"
+    },
+    {
+      "id": 47059,
+      "title": "Masato and Masato! Protect Ametama!",
+      "jp_title": "Masato to Masato! Ametama wo Mamore!",
+      "number": 49,
+      "episode_embed_id": "32143",
+      "embed_url": {
+        "dub": "https://megaplay.buzz/stream/s-2/32143/dub",
+        "sub": "https://megaplay.buzz/stream/s-2/32143/sub"
+      },
+      "updated_at": "2024-10-18 00:50:09"
+    },
+    {
+      "id": 47060,
+      "title": "Pokémon Contest – Hajitsuge Tournament!!",
+      "jp_title": "Pokemon Contest, Hajitsuge Taikai!!",
+      "number": 50,
+      "episode_embed_id": "32144",
+      "embed_url": {
+        "dub": "https://megaplay.buzz/stream/s-2/32144/dub",
+        "sub": "https://megaplay.buzz/stream/s-2/32144/sub"
+      },
+      "updated_at": "2024-10-18 00:50:09"
+    },
+    {
+      "id": 47061,
+      "title": "VS Charem! Contest Battle!!",
+      "jp_title": "vs Charem! Contest Battle!!",
+      "number": 51,
+      "episode_embed_id": "32145",
+      "embed_url": {
+        "dub": "https://megaplay.buzz/stream/s-2/32145/dub",
+        "sub": "https://megaplay.buzz/stream/s-2/32145/sub"
+      },
+      "updated_at": "2024-10-18 00:50:09"
+    },
+    {
+      "id": 47062,
+      "title": "Prasle and Minun! Road of Cheering!?",
+      "jp_title": "Prasle to Minun! Ouen no Michi!?",
+      "number": 52,
+      "episode_embed_id": "32146",
+      "embed_url": {
+        "dub": "https://megaplay.buzz/stream/s-2/32146/dub",
+        "sub": "https://megaplay.buzz/stream/s-2/32146/sub"
+      },
+      "updated_at": "2024-10-18 00:50:09"
+    },
+    {
+      "id": 47063,
+      "title": "Eneco and Cat",
+      "jp_title": "Eneko to Neko no te! Donmel no Bokujou!",
+      "number": 53,
+      "episode_embed_id": "32147",
+      "embed_url": {
+        "dub": "https://megaplay.buzz/stream/s-2/32147/dub",
+        "sub": "https://megaplay.buzz/stream/s-2/32147/sub"
+      },
+      "updated_at": "2024-10-18 00:50:09"
+    },
+    {
+      "id": 47064,
+      "title": "Team Aqua vs. Team Magma Again! Battle of Mt. Chimney!!",
+      "jp_title": "Magma-dan Tai Aqua-dan, Futatabi! Entotsu Yama no Tatakai!!",
+      "number": 54,
+      "episode_embed_id": "32148",
+      "embed_url": {
+        "dub": "https://megaplay.buzz/stream/s-2/32148/dub",
+        "sub": "https://megaplay.buzz/stream/s-2/32148/sub"
+      },
+      "updated_at": "2024-10-18 00:50:09"
+    },
+    {
+      "id": 47065,
+      "title": "The New Gym Leader – Asuna! The Hole-Filled Battlefield!",
+      "jp_title": "Shinjin Gym Leader, Asuna! Anadarake no Battlefield!",
+      "number": 55,
+      "episode_embed_id": "32149",
+      "embed_url": {
+        "dub": "https://megaplay.buzz/stream/s-2/32149/dub",
+        "sub": "https://megaplay.buzz/stream/s-2/32149/sub"
+      },
+      "updated_at": "2024-10-18 00:50:09"
+    },
+    {
+      "id": 47066,
+      "title": "Heat Badge! Win the Blazing Battle!!",
+      "jp_title": "Heat Badge! Moeru Battle de Get da ze!!",
+      "number": 56,
+      "episode_embed_id": "32150",
+      "embed_url": {
+        "dub": "https://megaplay.buzz/stream/s-2/32150/dub",
+        "sub": "https://megaplay.buzz/stream/s-2/32150/sub"
+      },
+      "updated_at": "2024-10-18 00:50:09"
+    },
+    {
+      "id": 47067,
+      "title": "Full of Patcheel! Beyound the Mountains in Search of Happiness!",
+      "jp_title": "Patcheel Ga Ippai! Shiawase Sagashite Yama no Kanata ni!",
+      "number": 57,
+      "episode_embed_id": "32151",
+      "embed_url": {
+        "dub": "https://megaplay.buzz/stream/s-2/32151/dub",
+        "sub": "https://megaplay.buzz/stream/s-2/32151/sub"
+      },
+      "updated_at": "2024-10-18 00:50:09"
+    },
+    {
+      "id": 47068,
+      "title": "Breakthrough Valley of Steel! Cotoise vs. Haganeil!!",
+      "jp_title": "Hagane no Tani wo Toppa se yo! Cotoise vs Haganeil!!",
+      "number": 58,
+      "episode_embed_id": "32152",
+      "embed_url": {
+        "dub": "https://megaplay.buzz/stream/s-2/32152/dub",
+        "sub": "https://megaplay.buzz/stream/s-2/32152/sub"
+      },
+      "updated_at": "2024-10-18 00:50:09"
+    },
+    {
+      "id": 47069,
+      "title": "Kinetsu Gym Returns! vs. Livolt!!",
+      "jp_title": "Kinsetsu Gym Futatabi! vs Livolt!!",
+      "number": 59,
+      "episode_embed_id": "32153",
+      "embed_url": {
+        "dub": "https://megaplay.buzz/stream/s-2/32153/dub",
+        "sub": "https://megaplay.buzz/stream/s-2/32153/sub"
+      },
+      "updated_at": "2024-10-18 00:50:09"
+    },
+    {
+      "id": 47070,
+      "title": "Eneko and Enekororo! The Legendary Pokémon Coordinator Appears!!",
+      "jp_title": "Eneko to Enekororo! Densetsu no Coordinator Toujou!!",
+      "number": 60,
+      "episode_embed_id": "32154",
+      "embed_url": {
+        "dub": "https://megaplay.buzz/stream/s-2/32154/dub",
+        "sub": "https://megaplay.buzz/stream/s-2/32154/sub"
+      },
+      "updated_at": "2024-10-18 00:50:09"
+    },
+    {
+      "id": 47071,
+      "title": "The Masked Coordinator – Phantom Appears!!",
+      "jp_title": "Kamen no Coordinator,  Phantom Toujou!!",
+      "number": 61,
+      "episode_embed_id": "32155",
+      "embed_url": {
+        "dub": "https://megaplay.buzz/stream/s-2/32155/dub",
+        "sub": "https://megaplay.buzz/stream/s-2/32155/sub"
+      },
+      "updated_at": "2024-10-18 00:50:09"
+    },
+    {
+      "id": 47072,
+      "title": "Shidake Town! Pokémon Contest!!",
+      "jp_title": "Shidake Town! Pokemon Contest!!",
+      "number": 62,
+      "episode_embed_id": "32156",
+      "embed_url": {
+        "dub": "https://megaplay.buzz/stream/s-2/32156/dub",
+        "sub": "https://megaplay.buzz/stream/s-2/32156/sub"
+      },
+      "updated_at": "2024-10-18 00:50:09"
+    },
+    {
+      "id": 47073,
+      "title": "Solrock and Hasubrero! Legend of the Sacred Forest!",
+      "jp_title": "Solrock to Hasubrero! Seinaru Mori no Densetsu!",
+      "number": 63,
+      "episode_embed_id": "32157",
+      "embed_url": {
+        "dub": "https://megaplay.buzz/stream/s-2/32157/dub",
+        "sub": "https://megaplay.buzz/stream/s-2/32157/sub"
+      },
+      "updated_at": "2024-10-18 00:50:09"
+    },
+    {
+      "id": 47074,
+      "title": "Sky of Tyltto! Heart of Haruka!!",
+      "jp_title": "Tyltto no Sora! Haruka no Kokoro!!",
+      "number": 64,
+      "episode_embed_id": "32158",
+      "embed_url": {
+        "dub": "https://megaplay.buzz/stream/s-2/32158/dub",
+        "sub": "https://megaplay.buzz/stream/s-2/32158/sub"
+      },
+      "updated_at": "2024-10-18 00:50:09"
+    },
+    {
+      "id": 47075,
+      "title": "The Great Gokulin Repelling Strategy!!",
+      "jp_title": "Gokurin Gekitai Daisakusen!!",
+      "number": 65,
+      "episode_embed_id": "32159",
+      "embed_url": {
+        "dub": "https://megaplay.buzz/stream/s-2/32159/dub",
+        "sub": "https://megaplay.buzz/stream/s-2/32159/sub"
+      },
+      "updated_at": "2024-10-18 00:50:09"
+    },
+    {
+      "id": 47076,
+      "title": "Critical Situation! Bakuong vs. Juptile!!",
+      "jp_title": "Isshokusokuhatsu! Bakuong vs Juptile!!",
+      "number": 66,
+      "episode_embed_id": "32160",
+      "embed_url": {
+        "dub": "https://megaplay.buzz/stream/s-2/32160/dub",
+        "sub": "https://megaplay.buzz/stream/s-2/32160/sub"
+      },
+      "updated_at": "2024-10-18 00:50:09"
+    },
+    {
+      "id": 47077,
+      "title": "Dancing Battle! Runpappa!!",
+      "jp_title": "Odoru Battle da! Runpappa!!",
+      "number": 67,
+      "episode_embed_id": "32161",
+      "embed_url": {
+        "dub": "https://megaplay.buzz/stream/s-2/32161/dub",
+        "sub": "https://megaplay.buzz/stream/s-2/32161/sub"
+      },
+      "updated_at": "2024-10-18 00:50:09"
+    },
+    {
+      "id": 47078,
+      "title": "Papa is Idol!? Fake Gym Leader!!",
+      "jp_title": "Papa wa Idol!? Itsuwari no Gym Leader!!",
+      "number": 68,
+      "episode_embed_id": "32162",
+      "embed_url": {
+        "dub": "https://megaplay.buzz/stream/s-2/32162/dub",
+        "sub": "https://megaplay.buzz/stream/s-2/32162/sub"
+      },
+      "updated_at": "2024-10-18 00:50:09"
+    },
+    {
+      "id": 47079,
+      "title": "Touka Gym Crisis! Household Crisis!!",
+      "jp_title": "Touka Gym no Kiki! Katei no Kiki!!",
+      "number": 69,
+      "episode_embed_id": "32163",
+      "embed_url": {
+        "dub": "https://megaplay.buzz/stream/s-2/32163/dub",
+        "sub": "https://megaplay.buzz/stream/s-2/32163/sub"
+      },
+      "updated_at": "2024-10-18 00:50:09"
+    },
+    {
+      "id": 47080,
+      "title": "Touka Gym! The Fifth Badge!!",
+      "jp_title": "Touka Gym Sen! Itsutsu me no Badge!!",
+      "number": 70,
+      "episode_embed_id": "32164",
+      "embed_url": {
+        "dub": "https://megaplay.buzz/stream/s-2/32164/dub",
+        "sub": "https://megaplay.buzz/stream/s-2/32164/sub"
+      },
+      "updated_at": "2024-10-18 00:50:09"
+    },
+    {
+      "id": 47081,
+      "title": "Professor Okido and Professor Odamaki! Secret Base Battle!!",
+      "jp_title": "Okido-hakase to Odamaki-hakase! Himitsukichi no Tatakai!!",
+      "number": 71,
+      "episode_embed_id": "32165",
+      "embed_url": {
+        "dub": "https://megaplay.buzz/stream/s-2/32165/dub",
+        "sub": "https://megaplay.buzz/stream/s-2/32165/sub"
+      },
+      "updated_at": "2024-10-18 00:50:09"
+    },
+    {
+      "id": 47082,
+      "title": "Tag Battle! Satoshi vs. Haruka!?",
+      "jp_title": "Tag Battle! Satoshi vs Haruka!?",
+      "number": 72,
+      "episode_embed_id": "32166",
+      "embed_url": {
+        "dub": "https://megaplay.buzz/stream/s-2/32166/dub",
+        "sub": "https://megaplay.buzz/stream/s-2/32166/sub"
+      },
+      "updated_at": "2024-10-18 00:50:09"
+    },
+    {
+      "id": 47083,
+      "title": "King of the Forbidden Forest! Fushigibana!!",
+      "jp_title": "Kindan no Mori no Ouja! Fushigibana!!",
+      "number": 73,
+      "episode_embed_id": "32167",
+      "embed_url": {
+        "dub": "https://megaplay.buzz/stream/s-2/32167/dub",
+        "sub": "https://megaplay.buzz/stream/s-2/32167/sub"
+      },
+      "updated_at": "2024-10-18 00:50:09"
+    },
+    {
+      "id": 47084,
+      "title": "Fushigidane and Fushigidane! Regaining the Monster Balls!!",
+      "jp_title": "Fushigidane to Fushigidane! Monster Ball wo Torikaese!!",
+      "number": 74,
+      "episode_embed_id": "32168",
+      "embed_url": {
+        "dub": "https://megaplay.buzz/stream/s-2/32168/dub",
+        "sub": "https://megaplay.buzz/stream/s-2/32168/sub"
+      },
+      "updated_at": "2024-10-18 00:50:09"
+    },
+    {
+      "id": 47085,
+      "title": "Showdown! The Fishing Master and the Giant Namazun!!",
+      "jp_title": "Taiketsu! Kyodai Namazun to Tsuri Meijin!!",
+      "number": 75,
+      "episode_embed_id": "32169",
+      "embed_url": {
+        "dub": "https://megaplay.buzz/stream/s-2/32169/dub",
+        "sub": "https://megaplay.buzz/stream/s-2/32169/sub"
+      },
+      "updated_at": "2024-10-18 00:50:09"
+    },
+    {
+      "id": 47086,
+      "title": "Yajilon and the Ruins in the Mist!",
+      "jp_title": "Yajiron to Kiri no Naka no Iseki!",
+      "number": 76,
+      "episode_embed_id": "32170",
+      "embed_url": {
+        "dub": "https://megaplay.buzz/stream/s-2/32170/dub",
+        "sub": "https://megaplay.buzz/stream/s-2/32170/sub"
+      },
+      "updated_at": "2024-10-18 00:50:09"
+    },
+    {
+      "id": 47087,
+      "title": "Forbidable Enemy!? Mother Coordinator Appears!",
+      "jp_title": "Kyoouteki!? Mama-san Coordinator Toujou!",
+      "number": 77,
+      "episode_embed_id": "32171",
+      "embed_url": {
+        "dub": "https://megaplay.buzz/stream/s-2/32171/dub",
+        "sub": "https://megaplay.buzz/stream/s-2/32171/sub"
+      },
+      "updated_at": "2024-10-18 00:50:09"
+    },
+    {
+      "id": 47088,
+      "title": "Pokémon Contest! Ruibosu Tournament!!",
+      "jp_title": "Pokemon Contest! Ruibosu Taikai!!",
+      "number": 78,
+      "episode_embed_id": "32172",
+      "embed_url": {
+        "dub": "https://megaplay.buzz/stream/s-2/32172/dub",
+        "sub": "https://megaplay.buzz/stream/s-2/32172/sub"
+      },
+      "updated_at": "2024-10-18 00:50:09"
+    },
+    {
+      "id": 47089,
+      "title": "Baneboo",
+      "jp_title": "Baneboo no Sagashimono!?",
+      "number": 79,
+      "episode_embed_id": "32173",
+      "embed_url": {
+        "dub": "https://megaplay.buzz/stream/s-2/32173/dub",
+        "sub": "https://megaplay.buzz/stream/s-2/32173/sub"
+      },
+      "updated_at": "2024-10-18 00:50:09"
+    },
+    {
+      "id": 47090,
+      "title": "Beginning Challenge! Sky Match – PokéRinger!!",
+      "jp_title": "Hatsu Chousen! Kuuchuu Kyiugi, PokeRinger!!",
+      "number": 80,
+      "episode_embed_id": "32174",
+      "embed_url": {
+        "dub": "https://megaplay.buzz/stream/s-2/32174/dub",
+        "sub": "https://megaplay.buzz/stream/s-2/32174/sub"
+      },
+      "updated_at": "2024-10-18 00:50:09"
+    },
+    {
+      "id": 47091,
+      "title": "The Mansion of Kagebouzu!",
+      "jp_title": "Kagebouzu no Kan!",
+      "number": 81,
+      "episode_embed_id": "32175",
+      "embed_url": {
+        "dub": "https://megaplay.buzz/stream/s-2/32175/dub",
+        "sub": "https://megaplay.buzz/stream/s-2/32175/sub"
+      },
+      "updated_at": "2024-10-18 00:50:09"
+    },
+    {
+      "id": 47092,
+      "title": "The Fighting King of the Forest!? Wakasyamo vs. Kinogassa!",
+      "jp_title": "Mori no Kakutou Ou!? Wakashamo vs Kinogassa!",
+      "number": 82,
+      "episode_embed_id": "32176",
+      "embed_url": {
+        "dub": "https://megaplay.buzz/stream/s-2/32176/dub",
+        "sub": "https://megaplay.buzz/stream/s-2/32176/sub"
+      },
+      "updated_at": "2024-10-18 00:50:09"
+    },
+    {
+      "id": 47093,
+      "title": "Powalen of the Weather Research Institute!",
+      "jp_title": "Otenki Kenkyuusho no Powalen!",
+      "number": 83,
+      "episode_embed_id": "32177",
+      "embed_url": {
+        "dub": "https://megaplay.buzz/stream/s-2/32177/dub",
+        "sub": "https://megaplay.buzz/stream/s-2/32177/sub"
+      },
+      "updated_at": "2024-10-18 00:50:09"
+    },
+    {
+      "id": 47094,
+      "title": "Hiwamaki City",
+      "jp_title": "Hiwamaki City no Feather Carnival!!",
+      "number": 84,
+      "episode_embed_id": "32178",
+      "embed_url": {
+        "dub": "https://megaplay.buzz/stream/s-2/32178/dub",
+        "sub": "https://megaplay.buzz/stream/s-2/32178/sub"
+      },
+      "updated_at": "2024-10-18 00:50:09"
+    },
+    {
+      "id": 47095,
+      "title": "Hiwamaki Gym! Battle in the Sky!!",
+      "jp_title": "Hiwamaki Gym! Oozora no Tatakai!!",
+      "number": 85,
+      "episode_embed_id": "32179",
+      "embed_url": {
+        "dub": "https://megaplay.buzz/stream/s-2/32179/dub",
+        "sub": "https://megaplay.buzz/stream/s-2/32179/sub"
+      },
+      "updated_at": "2024-10-18 00:50:09"
+    },
+    {
+      "id": 47096,
+      "title": "The Film",
+      "jp_title": "Eiga wa Bakuuda ni Notte!!",
+      "number": 86,
+      "episode_embed_id": "32180",
+      "embed_url": {
+        "dub": "https://megaplay.buzz/stream/s-2/32180/dub",
+        "sub": "https://megaplay.buzz/stream/s-2/32180/sub"
+      },
+      "updated_at": "2024-10-18 00:50:09"
+    },
+    {
+      "id": 47097,
+      "title": "Mystery! A Pokémon from Space!?",
+      "jp_title": "Shinpi! Uchuu kara Kita Pokemon!?",
+      "number": 87,
+      "episode_embed_id": "32181",
+      "embed_url": {
+        "dub": "https://megaplay.buzz/stream/s-2/32181/dub",
+        "sub": "https://megaplay.buzz/stream/s-2/32181/sub"
+      },
+      "updated_at": "2024-10-18 00:50:09"
+    },
+    {
+      "id": 47098,
+      "title": "Kabigon of the Banana Namakero Park!!",
+      "jp_title": "Banana Namakero en no Kabigon!!",
+      "number": 88,
+      "episode_embed_id": "32182",
+      "embed_url": {
+        "dub": "https://megaplay.buzz/stream/s-2/32182/dub",
+        "sub": "https://megaplay.buzz/stream/s-2/32182/sub"
+      },
+      "updated_at": "2024-10-18 00:50:09"
+    },
+    {
+      "id": 47099,
+      "title": "Pikachu, Joining Team Rocket!?",
+      "jp_title": "Pikachuu, Roket-dan ni Iru!?",
+      "number": 89,
+      "episode_embed_id": "32183",
+      "embed_url": {
+        "dub": "https://megaplay.buzz/stream/s-2/32183/dub",
+        "sub": "https://megaplay.buzz/stream/s-2/32183/sub"
+      },
+      "updated_at": "2024-10-18 00:50:09"
+    },
+    {
+      "id": 47100,
+      "title": "Arrival in Minamo City! Polocks and Swallow",
+      "jp_title": "Minamo City Touchaku! Polocks to Tsubamegaeshi!",
+      "number": 90,
+      "episode_embed_id": "32184",
+      "embed_url": {
+        "dub": "https://megaplay.buzz/stream/s-2/32184/dub",
+        "sub": "https://megaplay.buzz/stream/s-2/32184/sub"
+      },
+      "updated_at": "2024-10-18 00:50:09"
+    },
+    {
+      "id": 47101,
+      "title": "Pokémon Contest! Minamo Tournament!!",
+      "jp_title": "Pokemon Contest! Minamo Taikai!!",
+      "number": 91,
+      "episode_embed_id": "32185",
+      "embed_url": {
+        "dub": "https://megaplay.buzz/stream/s-2/32185/dub",
+        "sub": "https://megaplay.buzz/stream/s-2/32185/sub"
+      },
+      "updated_at": "2024-10-18 00:50:09"
+    },
+    {
+      "id": 47102,
+      "title": "Those Three Appear! The Referee School Island!",
+      "jp_title": "Ano Sanbiki Toujou! Shinpan Gakkou no Shima!",
+      "number": 92,
+      "episode_embed_id": "32186",
+      "embed_url": {
+        "dub": "https://megaplay.buzz/stream/s-2/32186/dub",
+        "sub": "https://megaplay.buzz/stream/s-2/32186/sub"
+      },
+      "updated_at": "2024-10-18 00:50:09"
+    },
+    {
+      "id": 47103,
+      "title": "Pearlulu and Baneboo! Seek the Pearl!",
+      "jp_title": "Pearlulu to Baneboo! Shinju wo Sagase!",
+      "number": 93,
+      "episode_embed_id": "32187",
+      "embed_url": {
+        "dub": "https://megaplay.buzz/stream/s-2/32187/dub",
+        "sub": "https://megaplay.buzz/stream/s-2/32187/sub"
+      },
+      "updated_at": "2024-10-18 00:50:09"
+    },
+    {
+      "id": 47104,
+      "title": "Glanth and the Deep Sea Treasure!",
+      "jp_title": "Jiiransu to Shinkai no Hihou!",
+      "number": 94,
+      "episode_embed_id": "32188",
+      "embed_url": {
+        "dub": "https://megaplay.buzz/stream/s-2/32188/dub",
+        "sub": "https://megaplay.buzz/stream/s-2/32188/sub"
+      },
+      "updated_at": "2024-10-18 00:50:09"
+    },
+    {
+      "id": 47105,
+      "title": "Huntail and Sakurabyss! Mystery of Evolution!",
+      "jp_title": "Huntail to Sakurabyss! Shinka no Nazo!",
+      "number": 95,
+      "episode_embed_id": "32189",
+      "embed_url": {
+        "dub": "https://megaplay.buzz/stream/s-2/32189/dub",
+        "sub": "https://megaplay.buzz/stream/s-2/32189/sub"
+      },
+      "updated_at": "2024-10-18 00:50:09"
+    },
+    {
+      "id": 47106,
+      "title": "Muscle Battle!? Double Battle!!",
+      "jp_title": "Kinniku Battle!? Double Battle!!",
+      "number": 96,
+      "episode_embed_id": "32190",
+      "embed_url": {
+        "dub": "https://megaplay.buzz/stream/s-2/32190/dub",
+        "sub": "https://megaplay.buzz/stream/s-2/32190/sub"
+      },
+      "updated_at": "2024-10-18 00:50:09"
+    },
+    {
+      "id": 47107,
+      "title": "Groudon vs. Kyogre [Part 1]",
+      "jp_title": "Groudon vs Kaiouga! (Zenpen)",
+      "number": 97,
+      "episode_embed_id": "32191",
+      "embed_url": {
+        "dub": "https://megaplay.buzz/stream/s-2/32191/dub",
+        "sub": "https://megaplay.buzz/stream/s-2/32191/sub"
+      },
+      "updated_at": "2024-10-18 00:50:09"
+    },
+    {
+      "id": 47108,
+      "title": "Groudon vs. Kyogre [Part 2]",
+      "jp_title": "Groudon vs Kaiouga! (Kouhen)",
+      "number": 98,
+      "episode_embed_id": "32192",
+      "embed_url": {
+        "dub": "https://megaplay.buzz/stream/s-2/32192/dub",
+        "sub": "https://megaplay.buzz/stream/s-2/32192/sub"
+      },
+      "updated_at": "2024-10-18 00:50:09"
+    },
+    {
+      "id": 47109,
+      "title": "Fuu and Ran! Space Center Battle!",
+      "jp_title": "Fuu to Ran! Uchuu Center no Tatakai!",
+      "number": 99,
+      "episode_embed_id": "32193",
+      "embed_url": {
+        "dub": "https://megaplay.buzz/stream/s-2/32193/dub",
+        "sub": "https://megaplay.buzz/stream/s-2/32193/sub"
+      },
+      "updated_at": "2024-10-18 00:50:09"
+    },
+    {
+      "id": 47110,
+      "title": "Tokusane Gym! Solrock and Lunatone!",
+      "jp_title": "Tokusane Gym! Solrock to Lunatone",
+      "number": 100,
+      "episode_embed_id": "32194",
+      "embed_url": {
+        "dub": "https://megaplay.buzz/stream/s-2/32194/dub",
+        "sub": "https://megaplay.buzz/stream/s-2/32194/sub"
+      },
+      "updated_at": "2024-10-18 00:50:09"
+    },
+    {
+      "id": 47111,
+      "title": "Seaman! Elite Four Genji Appears!!",
+      "jp_title": "Umi no Otoko! Shitennou Genji Toujou!!",
+      "number": 101,
+      "episode_embed_id": "32195",
+      "embed_url": {
+        "dub": "https://megaplay.buzz/stream/s-2/32195/dub",
+        "sub": "https://megaplay.buzz/stream/s-2/32195/sub"
+      },
+      "updated_at": "2024-10-18 00:50:09"
+    },
+    {
+      "id": 47112,
+      "title": "Island of Dr. Moroboshi! Fossil Pokémon Appear!!",
+      "jp_title": "Doctor Moroboshi no Shima! Kaseki Pokemon Arawareru!!",
+      "number": 102,
+      "episode_embed_id": "32196",
+      "embed_url": {
+        "dub": "https://megaplay.buzz/stream/s-2/32196/dub",
+        "sub": "https://megaplay.buzz/stream/s-2/32196/sub"
+      },
+      "updated_at": "2024-10-18 00:50:09"
+    },
+    {
+      "id": 47113,
+      "title": "Izabe Island Pokémon Contest! Beware of the Rival!!",
+      "jp_title": "Izabe Shima Pokemon Contest! Rival Nikio Tsukero!!",
+      "number": 103,
+      "episode_embed_id": "32197",
+      "embed_url": {
+        "dub": "https://megaplay.buzz/stream/s-2/32197/dub",
+        "sub": "https://megaplay.buzz/stream/s-2/32197/sub"
+      },
+      "updated_at": "2024-10-18 00:50:09"
+    },
+    {
+      "id": 47114,
+      "title": "Sealed the Huge Nendoll!!",
+      "jp_title": "Kyodai Nendouru wo Fuuin se yo!!",
+      "number": 104,
+      "episode_embed_id": "32198",
+      "embed_url": {
+        "dub": "https://megaplay.buzz/stream/s-2/32198/dub",
+        "sub": "https://megaplay.buzz/stream/s-2/32198/sub"
+      },
+      "updated_at": "2024-10-18 00:50:09"
+    },
+    {
+      "id": 47115,
+      "title": "Falling in Love with Kucheat! Hasubrero",
+      "jp_title": "Koi Suru Kucheat! Hasuburero no Hanamichi!!",
+      "number": 105,
+      "episode_embed_id": "32199",
+      "embed_url": {
+        "dub": "https://megaplay.buzz/stream/s-2/32199/dub",
+        "sub": "https://megaplay.buzz/stream/s-2/32199/sub"
+      },
+      "updated_at": "2024-10-18 00:50:09"
+    },
+    {
+      "id": 47116,
+      "title": "Nuckrar and Vibrava! Lake of Illusion!!",
+      "jp_title": "Nuckrar to Vibrava! Maboroshi no Mizuumi!!",
+      "number": 106,
+      "episode_embed_id": "32200",
+      "embed_url": {
+        "dub": "https://megaplay.buzz/stream/s-2/32200/dub",
+        "sub": "https://megaplay.buzz/stream/s-2/32200/sub"
+      },
+      "updated_at": "2024-10-18 00:50:09"
+    },
+    {
+      "id": 47117,
+      "title": "Absol! Creeping Shadow of Disaster",
+      "jp_title": "Absol! Shinobi Yoru Wazawai no Kage",
+      "number": 107,
+      "episode_embed_id": "32201",
+      "embed_url": {
+        "dub": "https://megaplay.buzz/stream/s-2/32201/dub",
+        "sub": "https://megaplay.buzz/stream/s-2/32201/sub"
+      },
+      "updated_at": "2024-10-18 00:50:09"
+    },
+    {
+      "id": 47118,
+      "title": "Catch Yukiwarashi!",
+      "jp_title": "Yukiwarashi wo Tsukamaero!",
+      "number": 108,
+      "episode_embed_id": "32202",
+      "embed_url": {
+        "dub": "https://megaplay.buzz/stream/s-2/32202/dub",
+        "sub": "https://megaplay.buzz/stream/s-2/32202/sub"
+      },
+      "updated_at": "2024-10-18 00:50:09"
+    },
+    {
+      "id": 47119,
+      "title": "Rescue Ralts! Rush Masato!",
+      "jp_title": "Ralts wo Sukue! Isoge Masato!",
+      "number": 109,
+      "episode_embed_id": "32203",
+      "embed_url": {
+        "dub": "https://megaplay.buzz/stream/s-2/32203/dub",
+        "sub": "https://megaplay.buzz/stream/s-2/32203/sub"
+      },
+      "updated_at": "2024-10-18 00:50:09"
+    },
+    {
+      "id": 47120,
+      "title": "Rune Gym! Artist of Water – Adan! [Part 1]",
+      "jp_title": "Rune  Gym! Mizu no Artist, Adan! (Zenpen)",
+      "number": 110,
+      "episode_embed_id": "32204",
+      "embed_url": {
+        "dub": "https://megaplay.buzz/stream/s-2/32204/dub",
+        "sub": "https://megaplay.buzz/stream/s-2/32204/sub"
+      },
+      "updated_at": "2024-10-18 00:50:09"
+    },
+    {
+      "id": 47121,
+      "title": "Rune Gym! Artist of Water – Adan! [Part 2]",
+      "jp_title": "Rune Gym! Mizu no Artist, Adan! (Kouhen)",
+      "number": 111,
+      "episode_embed_id": "32205",
+      "embed_url": {
+        "dub": "https://megaplay.buzz/stream/s-2/32205/dub",
+        "sub": "https://megaplay.buzz/stream/s-2/32205/sub"
+      },
+      "updated_at": "2024-10-18 00:50:09"
+    },
+    {
+      "id": 47122,
+      "title": "Massaguma! The Shape of Friendship!?",
+      "jp_title": "Massuguma! Yuujou no Katachi!?",
+      "number": 112,
+      "episode_embed_id": "32206",
+      "embed_url": {
+        "dub": "https://megaplay.buzz/stream/s-2/32206/dub",
+        "sub": "https://megaplay.buzz/stream/s-2/32206/sub"
+      },
+      "updated_at": "2024-10-18 00:50:09"
+    },
+    {
+      "id": 47123,
+      "title": "Sohnano of Illusion Island!",
+      "jp_title": "Maboroshi Shima no Sohnano!",
+      "number": 113,
+      "episode_embed_id": "32207",
+      "embed_url": {
+        "dub": "https://megaplay.buzz/stream/s-2/32207/dub",
+        "sub": "https://megaplay.buzz/stream/s-2/32207/sub"
+      },
+      "updated_at": "2024-10-18 00:50:09"
+    },
+    {
+      "id": 47124,
+      "title": "Rollout! Loving Donfan!",
+      "jp_title": "Korogare! Koi Suru Donfan!",
+      "number": 114,
+      "episode_embed_id": "32208",
+      "embed_url": {
+        "dub": "https://megaplay.buzz/stream/s-2/32208/dub",
+        "sub": "https://megaplay.buzz/stream/s-2/32208/sub"
+      },
+      "updated_at": "2024-10-18 00:50:09"
+    },
+    {
+      "id": 47125,
+      "title": "Disorderly Melee! Pokémon Contest – Kinagi Tournament! [Part 1]",
+      "jp_title": "Konsen, Konran! Pokemon Contest, Kinagi Taikai! (Zenpen)",
+      "number": 115,
+      "episode_embed_id": "32209",
+      "embed_url": {
+        "dub": "https://megaplay.buzz/stream/s-2/32209/dub",
+        "sub": "https://megaplay.buzz/stream/s-2/32209/sub"
+      },
+      "updated_at": "2024-10-18 00:50:09"
+    },
+    {
+      "id": 47126,
+      "title": "Disorderly Melee! Pokémon Contest – Kinagi Tournament! [Part 2]",
+      "jp_title": "Konsen, Konran! Pokemon Contest, Kinagi Taikai! (Kouhen)",
+      "number": 116,
+      "episode_embed_id": "32210",
+      "embed_url": {
+        "dub": "https://megaplay.buzz/stream/s-2/32210/dub",
+        "sub": "https://megaplay.buzz/stream/s-2/32210/sub"
+      },
+      "updated_at": "2024-10-18 00:50:09"
+    },
+    {
+      "id": 47127,
+      "title": "Get Gonbe with Haruka Delicious!!",
+      "jp_title": "Haruka Delicious de, Gonbe Get Kamo!!",
+      "number": 117,
+      "episode_embed_id": "32211",
+      "embed_url": {
+        "dub": "https://megaplay.buzz/stream/s-2/32211/dub",
+        "sub": "https://megaplay.buzz/stream/s-2/32211/sub"
+      },
+      "updated_at": "2024-10-18 00:50:09"
+    },
+    {
+      "id": 47128,
+      "title": "The Rivals Appears! Masamune and the Dumbber!!",
+      "jp_title": "Rivals Toujou! Masamune to Dumbber!!",
+      "number": 118,
+      "episode_embed_id": "32212",
+      "embed_url": {
+        "dub": "https://megaplay.buzz/stream/s-2/32212/dub",
+        "sub": "https://megaplay.buzz/stream/s-2/32212/sub"
+      },
+      "updated_at": "2024-10-18 00:50:09"
+    },
+    {
+      "id": 47129,
+      "title": "Mysterious Thief Bannai and the Ribbon Cup!!",
+      "jp_title": "Kaitou Bannai to Ribbon Cup!!",
+      "number": 119,
+      "episode_embed_id": "32213",
+      "embed_url": {
+        "dub": "https://megaplay.buzz/stream/s-2/32213/dub",
+        "sub": "https://megaplay.buzz/stream/s-2/32213/sub"
+      },
+      "updated_at": "2024-10-18 00:50:09"
+    },
+    {
+      "id": 47130,
+      "title": "Satoshi and Haruka! Heated Battles in Hoenn!!",
+      "jp_title": "Satoshi to Haruka! Houen de no Atsuki Battle!!",
+      "number": 120,
+      "episode_embed_id": "32214",
+      "embed_url": {
+        "dub": "https://megaplay.buzz/stream/s-2/32214/dub",
+        "sub": "https://megaplay.buzz/stream/s-2/32214/sub"
+      },
+      "updated_at": "2024-10-18 00:50:09"
+    },
+    {
+      "id": 47131,
+      "title": "Begin! Grand Festival [1]!!",
+      "jp_title": "Kaimaku! Grand Festival, 1!!",
+      "number": 121,
+      "episode_embed_id": "32215",
+      "embed_url": {
+        "dub": "https://megaplay.buzz/stream/s-2/32215/dub",
+        "sub": "https://megaplay.buzz/stream/s-2/32215/sub"
+      },
+      "updated_at": "2024-10-18 00:50:09"
+    },
+    {
+      "id": 47132,
+      "title": "Fierce Fighting! Grand Festival [2]!!",
+      "jp_title": "Nettou! Grand Festival, 2!!",
+      "number": 122,
+      "episode_embed_id": "32216",
+      "embed_url": {
+        "dub": "https://megaplay.buzz/stream/s-2/32216/dub",
+        "sub": "https://megaplay.buzz/stream/s-2/32216/sub"
+      },
+      "updated_at": "2024-10-18 00:50:09"
+    },
+    {
+      "id": 47133,
+      "title": "Deciding Match! Grand Festival [3]!!",
+      "jp_title": "Kessen! Grand Festival, 3!!",
+      "number": 123,
+      "episode_embed_id": "32217",
+      "embed_url": {
+        "dub": "https://megaplay.buzz/stream/s-2/32217/dub",
+        "sub": "https://megaplay.buzz/stream/s-2/32217/sub"
+      },
+      "updated_at": "2024-10-18 00:50:09"
+    },
+    {
+      "id": 47134,
+      "title": "Let",
+      "jp_title": "Survival de Ikou!",
+      "number": 124,
+      "episode_embed_id": "32218",
+      "embed_url": {
+        "dub": "https://megaplay.buzz/stream/s-2/32218/dub",
+        "sub": "https://megaplay.buzz/stream/s-2/32218/sub"
+      },
+      "updated_at": "2024-10-18 00:50:09"
+    },
+    {
+      "id": 47135,
+      "title": "Arrival in Saiyuu City! Nyarth in Boots!?",
+      "jp_title": "Saiyuu City Touchaku! Nagagutsu wo Haita Nyarth!?",
+      "number": 125,
+      "episode_embed_id": "32219",
+      "embed_url": {
+        "dub": "https://megaplay.buzz/stream/s-2/32219/dub",
+        "sub": "https://megaplay.buzz/stream/s-2/32219/sub"
+      },
+      "updated_at": "2024-10-18 00:50:09"
+    },
+    {
+      "id": 47136,
+      "title": "Start the Prelimaries! Masamune Appears!!",
+      "jp_title": "Yobisen Start! Masamune Toujou!!",
+      "number": 126,
+      "episode_embed_id": "32220",
+      "embed_url": {
+        "dub": "https://megaplay.buzz/stream/s-2/32220/dub",
+        "sub": "https://megaplay.buzz/stream/s-2/32220/sub"
+      },
+      "updated_at": "2024-10-18 00:50:09"
+    },
+    {
+      "id": 47137,
+      "title": "Begin! Saiyuu Tournament!!",
+      "jp_title": "Kaimaku! Saiyuu Taikai!!",
+      "number": 127,
+      "episode_embed_id": "32221",
+      "embed_url": {
+        "dub": "https://megaplay.buzz/stream/s-2/32221/dub",
+        "sub": "https://megaplay.buzz/stream/s-2/32221/sub"
+      },
+      "updated_at": "2024-10-18 00:50:09"
+    },
+    {
+      "id": 47138,
+      "title": "Towards the Tournament Finals! Everyday a Heated Battle!",
+      "jp_title": "Kesshou Tournament e! Atsuki Tatakai no Hibi!",
+      "number": 128,
+      "episode_embed_id": "32222",
+      "embed_url": {
+        "dub": "https://megaplay.buzz/stream/s-2/32222/dub",
+        "sub": "https://megaplay.buzz/stream/s-2/32222/sub"
+      },
+      "updated_at": "2024-10-18 00:50:09"
+    },
+    {
+      "id": 47139,
+      "title": "And... Continue the Battle That Cannot Be Lost!!",
+      "jp_title": "Soshite... Makerarenai Tatakai wa Tsuzuku!!",
+      "number": 129,
+      "episode_embed_id": "32223",
+      "embed_url": {
+        "dub": "https://megaplay.buzz/stream/s-2/32223/dub",
+        "sub": "https://megaplay.buzz/stream/s-2/32223/sub"
+      },
+      "updated_at": "2024-10-18 00:50:09"
+    },
+    {
+      "id": 47140,
+      "title": "Rival Showdown! Vs. Masamune!",
+      "jp_title": "Rival Taiketsu! vs Masamune!",
+      "number": 130,
+      "episode_embed_id": "32224",
+      "embed_url": {
+        "dub": "https://megaplay.buzz/stream/s-2/32224/dub",
+        "sub": "https://megaplay.buzz/stream/s-2/32224/sub"
+      },
+      "updated_at": "2024-10-18 00:50:09"
+    },
+    {
+      "id": 47141,
+      "title": "The Last Fierce Fighting! The Road to the Championship!!",
+      "jp_title": "Saigo no Gekitou! Yuushou e no Michi!!",
+      "number": 131,
+      "episode_embed_id": "32225",
+      "embed_url": {
+        "dub": "https://megaplay.buzz/stream/s-2/32225/dub",
+        "sub": "https://megaplay.buzz/stream/s-2/32225/sub"
+      },
+      "updated_at": "2024-10-18 00:50:09"
+    },
+    {
+      "id": 47142,
+      "title": "Enishida and the Battle Frontier!",
+      "jp_title": "Enishida to Battle Frontier!",
+      "number": 132,
+      "episode_embed_id": "32226",
+      "embed_url": {
+        "dub": "https://megaplay.buzz/stream/s-2/32226/dub",
+        "sub": "https://megaplay.buzz/stream/s-2/32226/sub"
+      },
+      "updated_at": "2024-10-18 00:50:09"
+    },
+    {
+      "id": 47143,
+      "title": "Okido",
+      "jp_title": "Okido Kenkyuusho! Zenin Shuugou!!",
+      "number": 133,
+      "episode_embed_id": "32227",
+      "embed_url": {
+        "dub": "https://megaplay.buzz/stream/s-2/32227/dub",
+        "sub": "https://megaplay.buzz/stream/s-2/32227/sub"
+      },
+      "updated_at": "2024-10-18 00:50:09"
+    },
+    {
+      "id": 47144,
+      "title": "Mt. Otsukimi! With Py, Pippi and Pixy!",
+      "jp_title": "Otsuki Miyama! Pii to Pippi to Pixy to!",
+      "number": 134,
+      "episode_embed_id": "32228",
+      "embed_url": {
+        "dub": "https://megaplay.buzz/stream/s-2/32228/dub",
+        "sub": "https://megaplay.buzz/stream/s-2/32228/sub"
+      },
+      "updated_at": "2024-10-18 00:50:09"
+    },
+    {
+      "id": 47145,
+      "title": "First Battle! Battle Factory!! [Part 1]",
+      "jp_title": "Uijin! Battle Factory!! (Zenpen)",
+      "number": 135,
+      "episode_embed_id": "32229",
+      "embed_url": {
+        "dub": "https://megaplay.buzz/stream/s-2/32229/dub",
+        "sub": "https://megaplay.buzz/stream/s-2/32229/sub"
+      },
+      "updated_at": "2024-10-18 00:50:09"
+    },
+    {
+      "id": 47146,
+      "title": "First Battle! Battle Factory [Part 2]",
+      "jp_title": "Uijin! Battle Factory!! (Kouhen)",
+      "number": 136,
+      "episode_embed_id": "32230",
+      "embed_url": {
+        "dub": "https://megaplay.buzz/stream/s-2/32230/dub",
+        "sub": "https://megaplay.buzz/stream/s-2/32230/sub"
+      },
+      "updated_at": "2024-10-18 00:50:09"
+    },
+    {
+      "id": 47147,
+      "title": "The Kingdom of Iwark!!",
+      "jp_title": "Iwark no Oukoku!!",
+      "number": 137,
+      "episode_embed_id": "32231",
+      "embed_url": {
+        "dub": "https://megaplay.buzz/stream/s-2/32231/dub",
+        "sub": "https://megaplay.buzz/stream/s-2/32231/sub"
+      },
+      "updated_at": "2024-10-18 00:50:09"
+    },
+    {
+      "id": 47148,
+      "title": "Purin",
+      "jp_title": "Purin no Uta, Papa no Uta!",
+      "number": 138,
+      "episode_embed_id": "32232",
+      "embed_url": {
+        "dub": "https://megaplay.buzz/stream/s-2/32232/dub",
+        "sub": "https://megaplay.buzz/stream/s-2/32232/sub"
+      },
+      "updated_at": "2024-10-18 00:50:09"
+    },
+    {
+      "id": 47149,
+      "title": "Rival Showdown! Get Windie!",
+      "jp_title": "Rival Taiketsu! Windie wo Get Kamo!",
+      "number": 139,
+      "episode_embed_id": "32233",
+      "embed_url": {
+        "dub": "https://megaplay.buzz/stream/s-2/32233/dub",
+        "sub": "https://megaplay.buzz/stream/s-2/32233/sub"
+      },
+      "updated_at": "2024-10-18 00:50:09"
+    },
+    {
+      "id": 47150,
+      "title": "Koduck",
+      "jp_title": "Koduck no Yuuutsu!",
+      "number": 140,
+      "episode_embed_id": "32234",
+      "embed_url": {
+        "dub": "https://megaplay.buzz/stream/s-2/32234/dub",
+        "sub": "https://megaplay.buzz/stream/s-2/32234/sub"
+      },
+      "updated_at": "2024-10-18 00:50:09"
+    },
+    {
+      "id": 47151,
+      "title": "Nyula and Barrierd! Whose Restaurant!?",
+      "jp_title": "Nyula to Barrierd! Dotchi no Restaurant!?",
+      "number": 141,
+      "episode_embed_id": "32235",
+      "embed_url": {
+        "dub": "https://megaplay.buzz/stream/s-2/32235/dub",
+        "sub": "https://megaplay.buzz/stream/s-2/32235/sub"
+      },
+      "updated_at": "2024-10-18 00:50:09"
+    },
+    {
+      "id": 47152,
+      "title": "Evolution! That Mystery and Wonder!!",
+      "jp_title": "Shinka! Sono Shinpi to Kiseki!!",
+      "number": 142,
+      "episode_embed_id": "32236",
+      "embed_url": {
+        "dub": "https://megaplay.buzz/stream/s-2/32236/dub",
+        "sub": "https://megaplay.buzz/stream/s-2/32236/sub"
+      },
+      "updated_at": "2024-10-18 00:50:09"
+    },
+    {
+      "id": 47153,
+      "title": "Pokémon Contest – Yamabuki Tournament!! [Part 1]",
+      "jp_title": "Pokemon Contest, Yamabuki Taikai!! (Zenpen)",
+      "number": 143,
+      "episode_embed_id": "32237",
+      "embed_url": {
+        "dub": "https://megaplay.buzz/stream/s-2/32237/dub",
+        "sub": "https://megaplay.buzz/stream/s-2/32237/sub"
+      },
+      "updated_at": "2024-10-18 00:50:09"
+    },
+    {
+      "id": 47154,
+      "title": "Pokémon Contest – Yamabuki Tournament!! [Part 2]",
+      "jp_title": "Pokemon Contest, Yamabuki Taikai!! (Kouhen)",
+      "number": 144,
+      "episode_embed_id": "32238",
+      "embed_url": {
+        "dub": "https://megaplay.buzz/stream/s-2/32238/dub",
+        "sub": "https://megaplay.buzz/stream/s-2/32238/sub"
+      },
+      "updated_at": "2024-10-18 00:50:09"
+    },
+    {
+      "id": 47155,
+      "title": "Fighting Dojo! Satoshi vs. Haruka!",
+      "jp_title": "Kakutou Doujou! Satoshi vs Haruka!",
+      "number": 145,
+      "episode_embed_id": "32239",
+      "embed_url": {
+        "dub": "https://megaplay.buzz/stream/s-2/32239/dub",
+        "sub": "https://megaplay.buzz/stream/s-2/32239/sub"
+      },
+      "updated_at": "2024-10-18 00:50:09"
+    },
+    {
+      "id": 47156,
+      "title": "Esper vs. Ghost! Midnight Duel!?",
+      "jp_title": "Esper vs Ghost! Mayonaka no Kettou!?",
+      "number": 146,
+      "episode_embed_id": "32240",
+      "embed_url": {
+        "dub": "https://megaplay.buzz/stream/s-2/32240/dub",
+        "sub": "https://megaplay.buzz/stream/s-2/32240/sub"
+      },
+      "updated_at": "2024-10-18 00:50:09"
+    },
+    {
+      "id": 47157,
+      "title": "Manene Appears! Mansion of Rest!",
+      "jp_title": "Manene Toujou! Kyuusoku no Yakata!",
+      "number": 147,
+      "episode_embed_id": "32241",
+      "embed_url": {
+        "dub": "https://megaplay.buzz/stream/s-2/32241/dub",
+        "sub": "https://megaplay.buzz/stream/s-2/32241/sub"
+      },
+      "updated_at": "2024-10-18 00:50:09"
+    },
+    {
+      "id": 47158,
+      "title": "Mizugorou and Mokoko! Wonder Drug of Love!?",
+      "jp_title": "Mizugorou to Mokoko! Koi no Tokkouyaku!?",
+      "number": 148,
+      "episode_embed_id": "32242",
+      "embed_url": {
+        "dub": "https://megaplay.buzz/stream/s-2/32242/dub",
+        "sub": "https://megaplay.buzz/stream/s-2/32242/sub"
+      },
+      "updated_at": "2024-10-18 00:50:09"
+    },
+    {
+      "id": 47159,
+      "title": "Battle Arena! Fighting Showdown!!",
+      "jp_title": "Battle Arena! Kakutou Taiketsu!!",
+      "number": 149,
+      "episode_embed_id": "32243",
+      "embed_url": {
+        "dub": "https://megaplay.buzz/stream/s-2/32243/dub",
+        "sub": "https://megaplay.buzz/stream/s-2/32243/sub"
+      },
+      "updated_at": "2024-10-18 00:50:09"
+    },
+    {
+      "id": 47160,
+      "title": "The Breeding Center and the Pokémon Egg!",
+      "jp_title": "Sodateyasan to Pokemon no Tamago!",
+      "number": 150,
+      "episode_embed_id": "32244",
+      "embed_url": {
+        "dub": "https://megaplay.buzz/stream/s-2/32244/dub",
+        "sub": "https://megaplay.buzz/stream/s-2/32244/sub"
+      },
+      "updated_at": "2024-10-18 00:50:09"
+    },
+    {
+      "id": 47161,
+      "title": "The Rival is a Salaryman!?",
+      "jp_title": "Rival wa Salaryman!?",
+      "number": 151,
+      "episode_embed_id": "32245",
+      "embed_url": {
+        "dub": "https://megaplay.buzz/stream/s-2/32245/dub",
+        "sub": "https://megaplay.buzz/stream/s-2/32245/sub"
+      },
+      "updated_at": "2024-10-18 00:50:09"
+    },
+    {
+      "id": 47162,
+      "title": "The Lake of Hakuryu!",
+      "jp_title": "Hakuryuu no Mizuumi!",
+      "number": 152,
+      "episode_embed_id": "32246",
+      "embed_url": {
+        "dub": "https://megaplay.buzz/stream/s-2/32246/dub",
+        "sub": "https://megaplay.buzz/stream/s-2/32246/sub"
+      },
+      "updated_at": "2024-10-18 00:50:09"
+    },
+    {
+      "id": 47163,
+      "title": "Battle Dome! Fusion of Fire and Water!!",
+      "jp_title": "Battle Dome! Honou to Mizu no Fyuujon!!",
+      "number": 153,
+      "episode_embed_id": "32247",
+      "embed_url": {
+        "dub": "https://megaplay.buzz/stream/s-2/32247/dub",
+        "sub": "https://megaplay.buzz/stream/s-2/32247/sub"
+      },
+      "updated_at": "2024-10-18 00:50:09"
+    },
+    {
+      "id": 47164,
+      "title": "Startling! Frightening! Elekid!!",
+      "jp_title": "Dokkiri! Bikkuri! Elekid!!",
+      "number": 154,
+      "episode_embed_id": "32248",
+      "embed_url": {
+        "dub": "https://megaplay.buzz/stream/s-2/32248/dub",
+        "sub": "https://megaplay.buzz/stream/s-2/32248/sub"
+      },
+      "updated_at": "2024-10-18 00:50:09"
+    },
+    {
+      "id": 47165,
+      "title": "Pokémon Ranger Appears! Celebi Rescue Operation!!",
+      "jp_title": "Pokemon Ranger Toujou! Celebi Kyuushutsu Sakusen!!",
+      "number": 155,
+      "episode_embed_id": "32249",
+      "embed_url": {
+        "dub": "https://megaplay.buzz/stream/s-2/32249/dub",
+        "sub": "https://megaplay.buzz/stream/s-2/32249/sub"
+      },
+      "updated_at": "2024-10-18 00:50:09"
+    },
+    {
+      "id": 47166,
+      "title": "Usohachi and the Ninja School!!",
+      "jp_title": "Usohachi to Ninja School!!",
+      "number": 156,
+      "episode_embed_id": "32250",
+      "embed_url": {
+        "dub": "https://megaplay.buzz/stream/s-2/32250/dub",
+        "sub": "https://megaplay.buzz/stream/s-2/32250/sub"
+      },
+      "updated_at": "2024-10-18 00:50:09"
+    },
+    {
+      "id": 47167,
+      "title": "Haruka Travels Through Time!!",
+      "jp_title": "Toki wo Koeru Haruka!!",
+      "number": 157,
+      "episode_embed_id": "32251",
+      "embed_url": {
+        "dub": "https://megaplay.buzz/stream/s-2/32251/dub",
+        "sub": "https://megaplay.buzz/stream/s-2/32251/sub"
+      },
+      "updated_at": "2024-10-18 00:50:09"
+    },
+    {
+      "id": 47168,
+      "title": "Fierce Fighting at The Battle Tube! Vs. Tube Queen Azami!!",
+      "jp_title": "Nettou Battle Tube! vs Tube Queen Azami!!",
+      "number": 158,
+      "episode_embed_id": "32252",
+      "embed_url": {
+        "dub": "https://megaplay.buzz/stream/s-2/32252/dub",
+        "sub": "https://megaplay.buzz/stream/s-2/32252/sub"
+      },
+      "updated_at": "2024-10-18 00:50:09"
+    },
+    {
+      "id": 47169,
+      "title": "Who Single Handedly Has the Victory!? Pokémon Orienteering!!",
+      "jp_title": "Yuushou wa Dare no Te ni!? Pokemon Orienteering!!",
+      "number": 159,
+      "episode_embed_id": "32253",
+      "embed_url": {
+        "dub": "https://megaplay.buzz/stream/s-2/32253/dub",
+        "sub": "https://megaplay.buzz/stream/s-2/32253/sub"
+      },
+      "updated_at": "2024-10-18 00:50:09"
+    },
+    {
+      "id": 47170,
+      "title": "Gonbe",
+      "jp_title": "Gonbe no Debut-sen! Harley to Shinken Shoubu!!",
+      "number": 160,
+      "episode_embed_id": "32254",
+      "embed_url": {
+        "dub": "https://megaplay.buzz/stream/s-2/32254/dub",
+        "sub": "https://megaplay.buzz/stream/s-2/32254/sub"
+      },
+      "updated_at": "2024-10-18 00:50:09"
+    },
+    {
+      "id": 47171,
+      "title": "Juptile vs. Tropius! Grassland Duel!!",
+      "jp_title": "Juptile vs Tropius! Sougen no Kettou!!",
+      "number": 161,
+      "episode_embed_id": "32255",
+      "embed_url": {
+        "dub": "https://megaplay.buzz/stream/s-2/32255/dub",
+        "sub": "https://megaplay.buzz/stream/s-2/32255/sub"
+      },
+      "updated_at": "2024-10-18 00:50:09"
+    },
+    {
+      "id": 47172,
+      "title": "Pokémon Contest! Yuzuriha Tournament!!",
+      "jp_title": "Pokemon Contest! Yuzuriha Taikai!!",
+      "number": 162,
+      "episode_embed_id": "32256",
+      "embed_url": {
+        "dub": "https://megaplay.buzz/stream/s-2/32256/dub",
+        "sub": "https://megaplay.buzz/stream/s-2/32256/sub"
+      },
+      "updated_at": "2024-10-18 00:50:09"
+    },
+    {
+      "id": 47173,
+      "title": "Jukain! Dawn of Revival!!",
+      "jp_title": "Jukain! Fukkatsu no Yoake!!",
+      "number": 163,
+      "episode_embed_id": "32257",
+      "embed_url": {
+        "dub": "https://megaplay.buzz/stream/s-2/32257/dub",
+        "sub": "https://megaplay.buzz/stream/s-2/32257/sub"
+      },
+      "updated_at": "2024-10-18 00:50:09"
+    },
+    {
+      "id": 47174,
+      "title": "Fierce Fighting! Jungle Battle at the Battle Palace!!",
+      "jp_title": "Gekitou! Battle Palace de Jungle Battle!!",
+      "number": 164,
+      "episode_embed_id": "32258",
+      "embed_url": {
+        "dub": "https://megaplay.buzz/stream/s-2/32258/dub",
+        "sub": "https://megaplay.buzz/stream/s-2/32258/sub"
+      },
+      "updated_at": "2024-10-18 00:50:09"
+    },
+    {
+      "id": 47175,
+      "title": "Usohachi King and Manene Queen!?",
+      "jp_title": "Usohachi King to Manene Queen!?",
+      "number": 165,
+      "episode_embed_id": "32259",
+      "embed_url": {
+        "dub": "https://megaplay.buzz/stream/s-2/32259/dub",
+        "sub": "https://megaplay.buzz/stream/s-2/32259/sub"
+      },
+      "updated_at": "2024-10-18 00:50:09"
+    },
+    {
+      "id": 47176,
+      "title": "The Red Lightning of Skyscrapers!",
+      "jp_title": "Matenrou no Akai Inazuma!",
+      "number": 166,
+      "episode_embed_id": "32260",
+      "embed_url": {
+        "dub": "https://megaplay.buzz/stream/s-2/32260/dub",
+        "sub": "https://megaplay.buzz/stream/s-2/32260/sub"
+      },
+      "updated_at": "2024-10-18 00:50:09"
+    },
+    {
+      "id": 47177,
+      "title": "Decisive Game! Haruka vs. Takeshi!!",
+      "jp_title": "Dai Ichiban! Haruka vs Takeshi!!",
+      "number": 167,
+      "episode_embed_id": "32261",
+      "embed_url": {
+        "dub": "https://megaplay.buzz/stream/s-2/32261/dub",
+        "sub": "https://megaplay.buzz/stream/s-2/32261/sub"
+      },
+      "updated_at": "2024-10-18 00:50:09"
+    },
+    {
+      "id": 47178,
+      "title": "Muchul and the Three Rougela Sisters!!",
+      "jp_title": "Muchul to Rougela San-Shimai!!",
+      "number": 168,
+      "episode_embed_id": "32262",
+      "embed_url": {
+        "dub": "https://megaplay.buzz/stream/s-2/32262/dub",
+        "sub": "https://megaplay.buzz/stream/s-2/32262/sub"
+      },
+      "updated_at": "2024-10-18 00:50:09"
+    },
+    {
+      "id": 47179,
+      "title": "Tower Tycoon, Lila Appears!",
+      "jp_title": "Tower Tycoon, Lila Toujou!",
+      "number": 169,
+      "episode_embed_id": "32263",
+      "embed_url": {
+        "dub": "https://megaplay.buzz/stream/s-2/32263/dub",
+        "sub": "https://megaplay.buzz/stream/s-2/32263/sub"
+      },
+      "updated_at": "2024-10-18 00:50:09"
+    },
+    {
+      "id": 47180,
+      "title": "Battle Tower! Telepathy Battle!!",
+      "jp_title": "Battle Tower! Ishindenshin Battle!!",
+      "number": 170,
+      "episode_embed_id": "32264",
+      "embed_url": {
+        "dub": "https://megaplay.buzz/stream/s-2/32264/dub",
+        "sub": "https://megaplay.buzz/stream/s-2/32264/sub"
+      },
+      "updated_at": "2024-10-18 00:50:09"
+    },
+    {
+      "id": 47181,
+      "title": "Pokémon Ranger! Deoxys Crisis!! [Part 1]",
+      "jp_title": "Pokemon Ranger! Deoxys, Crisis!! (Zenpen)",
+      "number": 171,
+      "episode_embed_id": "32265",
+      "embed_url": {
+        "dub": "https://megaplay.buzz/stream/s-2/32265/dub",
+        "sub": "https://megaplay.buzz/stream/s-2/32265/sub"
+      },
+      "updated_at": "2024-10-18 00:50:09"
+    },
+    {
+      "id": 47182,
+      "title": "Pokémon Ranger! Deoxys Crisis!! [Part 2]",
+      "jp_title": "Pokemon Ranger! Deoxys, Crisis!! (Kouhen)",
+      "number": 172,
+      "episode_embed_id": "32266",
+      "embed_url": {
+        "dub": "https://megaplay.buzz/stream/s-2/32266/dub",
+        "sub": "https://megaplay.buzz/stream/s-2/32266/sub"
+      },
+      "updated_at": "2024-10-18 00:50:09"
+    },
+    {
+      "id": 47183,
+      "title": "Usokkie! Gold Legend!?",
+      "jp_title": "Usokkie! Ougon Densetsu!?",
+      "number": 173,
+      "episode_embed_id": "32267",
+      "embed_url": {
+        "dub": "https://megaplay.buzz/stream/s-2/32267/dub",
+        "sub": "https://megaplay.buzz/stream/s-2/32267/sub"
+      },
+      "updated_at": "2024-10-18 00:50:09"
+    },
+    {
+      "id": 47184,
+      "title": "Harley &amp; Team Rocket! The Formation of the Villainous Alliance!?",
+      "jp_title": "Harley &amp; Roket-dan! Akuyaku Doumei Kessei!?",
+      "number": 174,
+      "episode_embed_id": "32268",
+      "embed_url": {
+        "dub": "https://megaplay.buzz/stream/s-2/32268/dub",
+        "sub": "https://megaplay.buzz/stream/s-2/32268/sub"
+      },
+      "updated_at": "2024-10-18 00:50:09"
+    },
+    {
+      "id": 47185,
+      "title": "Haruka vs. Musashi! The Final Contest!",
+      "jp_title": "Haruka vs Musashi! Saigo no Contest!!",
+      "number": 175,
+      "episode_embed_id": "32269",
+      "embed_url": {
+        "dub": "https://megaplay.buzz/stream/s-2/32269/dub",
+        "sub": "https://megaplay.buzz/stream/s-2/32269/sub"
+      },
+      "updated_at": "2024-10-18 00:50:09"
+    },
+    {
+      "id": 47186,
+      "title": "Team Rocket Breakup!? Respective Roads!",
+      "jp_title": "Roket-dan Kaisan!? Sorezore no Michi!",
+      "number": 176,
+      "episode_embed_id": "32270",
+      "embed_url": {
+        "dub": "https://megaplay.buzz/stream/s-2/32270/dub",
+        "sub": "https://megaplay.buzz/stream/s-2/32270/sub"
+      },
+      "updated_at": "2024-10-18 00:50:09"
+    },
+    {
+      "id": 47187,
+      "title": "Takeshi &amp; Satoshi! Defend Nibi Gym in a Tag Battle!!",
+      "jp_title": "Takeshi &amp; Satoshi! Tag Battle de Nibi Gym wo Mamore!!",
+      "number": 177,
+      "episode_embed_id": "32271",
+      "embed_url": {
+        "dub": "https://megaplay.buzz/stream/s-2/32271/dub",
+        "sub": "https://megaplay.buzz/stream/s-2/32271/sub"
+      },
+      "updated_at": "2024-10-18 00:50:09"
+    },
+    {
+      "id": 47188,
+      "title": "Battle Pyramid! Vs. Regirock!!",
+      "jp_title": "Battle Pyramid! vs Regirock!!",
+      "number": 178,
+      "episode_embed_id": "32272",
+      "embed_url": {
+        "dub": "https://megaplay.buzz/stream/s-2/32272/dub",
+        "sub": "https://megaplay.buzz/stream/s-2/32272/sub"
+      },
+      "updated_at": "2024-10-18 00:50:09"
+    },
+    {
+      "id": 47189,
+      "title": "Miracle! Mountain of the Giant Kekking!!",
+      "jp_title": "Kyoui! Kyodai Kekking no Yama!!",
+      "number": 179,
+      "episode_embed_id": "32273",
+      "embed_url": {
+        "dub": "https://megaplay.buzz/stream/s-2/32273/dub",
+        "sub": "https://megaplay.buzz/stream/s-2/32273/sub"
+      },
+      "updated_at": "2024-10-18 00:50:09"
+    },
+    {
+      "id": 47190,
+      "title": "Begin! Pokémon Contest – Grand Festival!!",
+      "jp_title": "Kaimaku! Pokemon Contest, Grand Festival!!",
+      "number": 180,
+      "episode_embed_id": "32274",
+      "embed_url": {
+        "dub": "https://megaplay.buzz/stream/s-2/32274/dub",
+        "sub": "https://megaplay.buzz/stream/s-2/32274/sub"
+      },
+      "updated_at": "2024-10-18 00:50:09"
+    },
+    {
+      "id": 47191,
+      "title": "Haruka vs. Harley! Stage On with a Double Battle!!",
+      "jp_title": "Haruka vs Harley! Double Battle de Stage On!!",
+      "number": 181,
+      "episode_embed_id": "32275",
+      "embed_url": {
+        "dub": "https://megaplay.buzz/stream/s-2/32275/dub",
+        "sub": "https://megaplay.buzz/stream/s-2/32275/sub"
+      },
+      "updated_at": "2024-10-18 00:50:09"
+    },
+    {
+      "id": 47192,
+      "title": "Haruka vs. Shuu! The Final Battle!",
+      "jp_title": "Haruka vs Shuu! Saigo no Tatakai!!",
+      "number": 182,
+      "episode_embed_id": "32276",
+      "embed_url": {
+        "dub": "https://megaplay.buzz/stream/s-2/32276/dub",
+        "sub": "https://megaplay.buzz/stream/s-2/32276/sub"
+      },
+      "updated_at": "2024-10-18 00:50:09"
+    },
+    {
+      "id": 47193,
+      "title": "Aipom and the King!",
+      "jp_title": "Aipam to Ousama!",
+      "number": 183,
+      "episode_embed_id": "32277",
+      "embed_url": {
+        "dub": "https://megaplay.buzz/stream/s-2/32277/dub",
+        "sub": "https://megaplay.buzz/stream/s-2/32277/sub"
+      },
+      "updated_at": "2024-10-18 00:50:09"
+    },
+    {
+      "id": 47194,
+      "title": "Perap and the Pokémon Comedian!",
+      "jp_title": "Perap to Pokemon Manzai!",
+      "number": 184,
+      "episode_embed_id": "32278",
+      "embed_url": {
+        "dub": "https://megaplay.buzz/stream/s-2/32278/dub",
+        "sub": "https://megaplay.buzz/stream/s-2/32278/sub"
+      },
+      "updated_at": "2024-10-18 00:50:09"
+    },
+    {
+      "id": 47195,
+      "title": "Attack! The Stray Manyula!!",
+      "jp_title": "Shuugeki! Hagure Manyula!!",
+      "number": 185,
+      "episode_embed_id": "32279",
+      "embed_url": {
+        "dub": "https://megaplay.buzz/stream/s-2/32279/dub",
+        "sub": "https://megaplay.buzz/stream/s-2/32279/sub"
+      },
+      "updated_at": "2024-10-18 00:50:09"
+    },
+    {
+      "id": 47196,
+      "title": "Battle Pyramid Again! Vs. Registeel!",
+      "jp_title": "Battle Pyramid Futatabi! vs Registee!!",
+      "number": 186,
+      "episode_embed_id": "32280",
+      "embed_url": {
+        "dub": "https://megaplay.buzz/stream/s-2/32280/dub",
+        "sub": "https://megaplay.buzz/stream/s-2/32280/sub"
+      },
+      "updated_at": "2024-10-18 00:50:09"
+    },
+    {
+      "id": 47197,
+      "title": "Haruka vs. Shuu! Rivals Forever!!",
+      "jp_title": "Haruka vs Shuu! Rivals yo Eien ni!!",
+      "number": 187,
+      "episode_embed_id": "32281",
+      "embed_url": {
+        "dub": "https://megaplay.buzz/stream/s-2/32281/dub",
+        "sub": "https://megaplay.buzz/stream/s-2/32281/sub"
+      },
+      "updated_at": "2024-10-18 00:50:09"
+    },
+    {
+      "id": 47198,
+      "title": "The Pokémon Center is Very Busy!",
+      "jp_title": "Pokemon Center wa Ooisogashi!",
+      "number": 188,
+      "episode_embed_id": "32282",
+      "embed_url": {
+        "dub": "https://megaplay.buzz/stream/s-2/32282/dub",
+        "sub": "https://megaplay.buzz/stream/s-2/32282/sub"
+      },
+      "updated_at": "2024-10-18 00:50:09"
+    },
+    {
+      "id": 47199,
+      "title": "First Pokémon! The Final Battle!!",
+      "jp_title": "Saisho no Pokemon! Saigo no Tatakai!!",
+      "number": 189,
+      "episode_embed_id": "32283",
+      "embed_url": {
+        "dub": "https://megaplay.buzz/stream/s-2/32283/dub",
+        "sub": "https://megaplay.buzz/stream/s-2/32283/sub"
+      },
+      "updated_at": "2024-10-18 00:50:09"
+    },
+    {
+      "id": 47200,
+      "title": "Deciding Battle! Vs. Regice!!",
+      "jp_title": "Kessen! vs Regice!!",
+      "number": 190,
+      "episode_embed_id": "32284",
+      "embed_url": {
+        "dub": "https://megaplay.buzz/stream/s-2/32284/dub",
+        "sub": "https://megaplay.buzz/stream/s-2/32284/sub"
+      },
+      "updated_at": "2024-10-18 00:50:09"
+    },
+    {
+      "id": 47201,
+      "title": "Satoshi vs. Haruka! The Last Battle!!",
+      "jp_title": "Satoshi vs Haruka! Last Battle!!",
+      "number": 191,
+      "episode_embed_id": "32285",
+      "embed_url": {
+        "dub": "https://megaplay.buzz/stream/s-2/32285/dub",
+        "sub": "https://megaplay.buzz/stream/s-2/32285/sub"
+      },
+      "updated_at": "2024-10-18 00:50:09"
+    },
+    {
+      "id": 47202,
+      "title": "End of a Journey, Yet Beginning of a Journey!",
+      "jp_title": "Tabi no Owari, Soshite Tabi no Hajimari!",
+      "number": 192,
+      "episode_embed_id": "32286",
+      "embed_url": {
+        "dub": "https://megaplay.buzz/stream/s-2/32286/dub",
+        "sub": "https://megaplay.buzz/stream/s-2/32286/sub"
+      },
+      "updated_at": "2024-10-18 00:50:09"
+    }
+  ]
+}

@@ -1,0 +1,1735 @@
+{
+  "season_id": 3087,
+  "title": "Pokémon the Series: Sun &amp; Moon",
+  "description": "After his mother wins a free trip to the islands, Pokemon trainer Satoshi and his partner Pikachu head for Melemele Island of the beautiful Alola region, which is filled with lots of new Pokemon and even variations of familiar faces. Eager to explore the island, Satoshi and Pikachu run wild with excitement, quickly losing their way while chasing after a Pokemon. The pair eventually stumbles upon the Pokemon School, an institution where students come to learn more about these fascinating creatures.\r\n\r\nAt the school, when he and one of the students—the no-nonsense Kaki—have a run-in with the nefarious thugs of Team Skull, Satoshi discovers the overwhelming might of the Z-Moves, powerful attacks originating from the Alola region that require the trainer and Pokemon to be in sync. Later that night, he and Pikachu have an encounter with the guardian deity Pokemon of Melemele Island, the mysterious Kapu Kokeko. The Pokemon of legend bestows upon them a Z-Ring, a necessary tool in using the Z-Moves. Dazzled by his earlier battle and now in possession of a Z-Ring, Satoshi and Pikachu decide to stay behind in the Alola Region to learn and master the strength of these powerful new attacks.\r\n\r\nEnrolling in the Pokemon School, Satoshi is joined by classmates such as Lillie, who loves Pokemon but cannot bring herself to touch them, Kaki, and many others. Between attending classes, fending off the pesky Team Rocket—who themselves have arrived in Alola to pave the way for their organization's future plans—and taking on the Island Challenge that is necessary to master the Z-Moves, Satoshi and Pikachu are in for an exciting new adventure.\r\n\r\n[Written by MAL Rewrite]",
+  "episodes": [
+    {
+      "id": 52851,
+      "title": "Episode 1",
+      "jp_title": "Episode 1",
+      "number": 1,
+      "episode_embed_id": "62496",
+      "embed_url": {
+        "sub": "https://megaplay.buzz/stream/s-2/62496/sub",
+        "dub": "https://megaplay.buzz/stream/s-2/62496/dub"
+      },
+      "updated_at": "2024-10-18 01:45:15"
+    },
+    {
+      "id": 52852,
+      "title": "Episode 2",
+      "jp_title": "Episode 2",
+      "number": 2,
+      "episode_embed_id": "62497",
+      "embed_url": {
+        "sub": "https://megaplay.buzz/stream/s-2/62497/sub",
+        "dub": "https://megaplay.buzz/stream/s-2/62497/dub"
+      },
+      "updated_at": "2024-10-18 01:45:15"
+    },
+    {
+      "id": 52853,
+      "title": "Episode 3",
+      "jp_title": "Episode 3",
+      "number": 3,
+      "episode_embed_id": "62498",
+      "embed_url": {
+        "dub": "https://megaplay.buzz/stream/s-2/62498/dub",
+        "sub": "https://megaplay.buzz/stream/s-2/62498/sub"
+      },
+      "updated_at": "2024-10-18 01:45:15"
+    },
+    {
+      "id": 52854,
+      "title": "Episode 4",
+      "jp_title": "Episode 4",
+      "number": 4,
+      "episode_embed_id": "62499",
+      "embed_url": {
+        "dub": "https://megaplay.buzz/stream/s-2/62499/dub",
+        "sub": "https://megaplay.buzz/stream/s-2/62499/sub"
+      },
+      "updated_at": "2024-10-18 01:45:15"
+    },
+    {
+      "id": 52855,
+      "title": "Episode 5",
+      "jp_title": "Episode 5",
+      "number": 5,
+      "episode_embed_id": "62500",
+      "embed_url": {
+        "dub": "https://megaplay.buzz/stream/s-2/62500/dub",
+        "sub": "https://megaplay.buzz/stream/s-2/62500/sub"
+      },
+      "updated_at": "2024-10-18 01:45:15"
+    },
+    {
+      "id": 52856,
+      "title": "Episode 7",
+      "jp_title": "Episode 7",
+      "number": 7,
+      "episode_embed_id": "62502",
+      "embed_url": {
+        "sub": "https://megaplay.buzz/stream/s-2/62502/sub",
+        "dub": "https://megaplay.buzz/stream/s-2/62502/dub"
+      },
+      "updated_at": "2024-10-18 01:45:15"
+    },
+    {
+      "id": 52857,
+      "title": "Episode 8",
+      "jp_title": "Episode 8",
+      "number": 8,
+      "episode_embed_id": "62503",
+      "embed_url": {
+        "dub": "https://megaplay.buzz/stream/s-2/62503/dub",
+        "sub": "https://megaplay.buzz/stream/s-2/62503/sub"
+      },
+      "updated_at": "2024-10-18 01:45:15"
+    },
+    {
+      "id": 52858,
+      "title": "Episode 9",
+      "jp_title": "Episode 9",
+      "number": 9,
+      "episode_embed_id": "62504",
+      "embed_url": {
+        "dub": "https://megaplay.buzz/stream/s-2/62504/dub",
+        "sub": "https://megaplay.buzz/stream/s-2/62504/sub"
+      },
+      "updated_at": "2024-10-18 01:45:15"
+    },
+    {
+      "id": 52859,
+      "title": "Episode 10",
+      "jp_title": "Episode 10",
+      "number": 10,
+      "episode_embed_id": "62505",
+      "embed_url": {
+        "sub": "https://megaplay.buzz/stream/s-2/62505/sub",
+        "dub": "https://megaplay.buzz/stream/s-2/62505/dub"
+      },
+      "updated_at": "2024-10-18 01:45:15"
+    },
+    {
+      "id": 52860,
+      "title": "Episode 11",
+      "jp_title": "Episode 11",
+      "number": 11,
+      "episode_embed_id": "62506",
+      "embed_url": {
+        "sub": "https://megaplay.buzz/stream/s-2/62506/sub",
+        "dub": "https://megaplay.buzz/stream/s-2/62506/dub"
+      },
+      "updated_at": "2024-10-18 01:45:15"
+    },
+    {
+      "id": 52861,
+      "title": "Episode 12",
+      "jp_title": "Episode 12",
+      "number": 12,
+      "episode_embed_id": "62507",
+      "embed_url": {
+        "dub": "https://megaplay.buzz/stream/s-2/62507/dub",
+        "sub": "https://megaplay.buzz/stream/s-2/62507/sub"
+      },
+      "updated_at": "2024-10-18 01:45:15"
+    },
+    {
+      "id": 52862,
+      "title": "Episode 13",
+      "jp_title": "Episode 13",
+      "number": 13,
+      "episode_embed_id": "62508",
+      "embed_url": {
+        "dub": "https://megaplay.buzz/stream/s-2/62508/dub",
+        "sub": "https://megaplay.buzz/stream/s-2/62508/sub"
+      },
+      "updated_at": "2024-10-18 01:45:15"
+    },
+    {
+      "id": 52863,
+      "title": "Episode 14",
+      "jp_title": "Episode 14",
+      "number": 14,
+      "episode_embed_id": "62509",
+      "embed_url": {
+        "dub": "https://megaplay.buzz/stream/s-2/62509/dub",
+        "sub": "https://megaplay.buzz/stream/s-2/62509/sub"
+      },
+      "updated_at": "2024-10-18 01:45:15"
+    },
+    {
+      "id": 52864,
+      "title": "Episode 15",
+      "jp_title": "Episode 15",
+      "number": 15,
+      "episode_embed_id": "62510",
+      "embed_url": {
+        "sub": "https://megaplay.buzz/stream/s-2/62510/sub",
+        "dub": "https://megaplay.buzz/stream/s-2/62510/dub"
+      },
+      "updated_at": "2024-10-18 01:45:15"
+    },
+    {
+      "id": 52865,
+      "title": "Episode 16",
+      "jp_title": "Episode 16",
+      "number": 16,
+      "episode_embed_id": "62511",
+      "embed_url": {
+        "dub": "https://megaplay.buzz/stream/s-2/62511/dub",
+        "sub": "https://megaplay.buzz/stream/s-2/62511/sub"
+      },
+      "updated_at": "2024-10-18 01:45:15"
+    },
+    {
+      "id": 52866,
+      "title": "Episode 17",
+      "jp_title": "Episode 17",
+      "number": 17,
+      "episode_embed_id": "62512",
+      "embed_url": {
+        "dub": "https://megaplay.buzz/stream/s-2/62512/dub",
+        "sub": "https://megaplay.buzz/stream/s-2/62512/sub"
+      },
+      "updated_at": "2024-10-18 01:45:15"
+    },
+    {
+      "id": 52867,
+      "title": "Episode 18",
+      "jp_title": "Episode 18",
+      "number": 18,
+      "episode_embed_id": "62513",
+      "embed_url": {
+        "sub": "https://megaplay.buzz/stream/s-2/62513/sub",
+        "dub": "https://megaplay.buzz/stream/s-2/62513/dub"
+      },
+      "updated_at": "2024-10-18 01:45:15"
+    },
+    {
+      "id": 52868,
+      "title": "Episode 19",
+      "jp_title": "Episode 19",
+      "number": 19,
+      "episode_embed_id": "62514",
+      "embed_url": {
+        "sub": "https://megaplay.buzz/stream/s-2/62514/sub",
+        "dub": "https://megaplay.buzz/stream/s-2/62514/dub"
+      },
+      "updated_at": "2024-10-18 01:45:15"
+    },
+    {
+      "id": 52869,
+      "title": "Episode 20",
+      "jp_title": "Episode 20",
+      "number": 20,
+      "episode_embed_id": "62515",
+      "embed_url": {
+        "dub": "https://megaplay.buzz/stream/s-2/62515/dub",
+        "sub": "https://megaplay.buzz/stream/s-2/62515/sub"
+      },
+      "updated_at": "2024-10-18 01:45:15"
+    },
+    {
+      "id": 52870,
+      "title": "Episode 21",
+      "jp_title": "Episode 21",
+      "number": 21,
+      "episode_embed_id": "62516",
+      "embed_url": {
+        "dub": "https://megaplay.buzz/stream/s-2/62516/dub",
+        "sub": "https://megaplay.buzz/stream/s-2/62516/sub"
+      },
+      "updated_at": "2024-10-18 01:45:15"
+    },
+    {
+      "id": 52871,
+      "title": "Episode 22",
+      "jp_title": "Episode 22",
+      "number": 22,
+      "episode_embed_id": "62517",
+      "embed_url": {
+        "sub": "https://megaplay.buzz/stream/s-2/62517/sub",
+        "dub": "https://megaplay.buzz/stream/s-2/62517/dub"
+      },
+      "updated_at": "2024-10-18 01:45:15"
+    },
+    {
+      "id": 52872,
+      "title": "Episode 23",
+      "jp_title": "Episode 23",
+      "number": 23,
+      "episode_embed_id": "62518",
+      "embed_url": {
+        "sub": "https://megaplay.buzz/stream/s-2/62518/sub",
+        "dub": "https://megaplay.buzz/stream/s-2/62518/dub"
+      },
+      "updated_at": "2024-10-18 01:45:15"
+    },
+    {
+      "id": 52873,
+      "title": "Episode 24",
+      "jp_title": "Episode 24",
+      "number": 24,
+      "episode_embed_id": "62519",
+      "embed_url": {
+        "dub": "https://megaplay.buzz/stream/s-2/62519/dub",
+        "sub": "https://megaplay.buzz/stream/s-2/62519/sub"
+      },
+      "updated_at": "2024-10-18 01:45:15"
+    },
+    {
+      "id": 52874,
+      "title": "Episode 25",
+      "jp_title": "Episode 25",
+      "number": 25,
+      "episode_embed_id": "62520",
+      "embed_url": {
+        "sub": "https://megaplay.buzz/stream/s-2/62520/sub",
+        "dub": "https://megaplay.buzz/stream/s-2/62520/dub"
+      },
+      "updated_at": "2024-10-18 01:45:15"
+    },
+    {
+      "id": 52875,
+      "title": "Episode 26",
+      "jp_title": "Episode 26",
+      "number": 26,
+      "episode_embed_id": "62521",
+      "embed_url": {
+        "dub": "https://megaplay.buzz/stream/s-2/62521/dub",
+        "sub": "https://megaplay.buzz/stream/s-2/62521/sub"
+      },
+      "updated_at": "2024-10-18 01:45:15"
+    },
+    {
+      "id": 52876,
+      "title": "Episode 27",
+      "jp_title": "Episode 27",
+      "number": 27,
+      "episode_embed_id": "62522",
+      "embed_url": {
+        "sub": "https://megaplay.buzz/stream/s-2/62522/sub",
+        "dub": "https://megaplay.buzz/stream/s-2/62522/dub"
+      },
+      "updated_at": "2024-10-18 01:45:15"
+    },
+    {
+      "id": 52877,
+      "title": "Episode 28",
+      "jp_title": "Episode 28",
+      "number": 28,
+      "episode_embed_id": "62523",
+      "embed_url": {
+        "sub": "https://megaplay.buzz/stream/s-2/62523/sub",
+        "dub": "https://megaplay.buzz/stream/s-2/62523/dub"
+      },
+      "updated_at": "2024-10-18 01:45:15"
+    },
+    {
+      "id": 52878,
+      "title": "Episode 29",
+      "jp_title": "Episode 29",
+      "number": 29,
+      "episode_embed_id": "62524",
+      "embed_url": {
+        "sub": "https://megaplay.buzz/stream/s-2/62524/sub",
+        "dub": "https://megaplay.buzz/stream/s-2/62524/dub"
+      },
+      "updated_at": "2024-10-18 01:45:15"
+    },
+    {
+      "id": 52879,
+      "title": "Episode 30",
+      "jp_title": "Episode 30",
+      "number": 30,
+      "episode_embed_id": "62525",
+      "embed_url": {
+        "sub": "https://megaplay.buzz/stream/s-2/62525/sub",
+        "dub": "https://megaplay.buzz/stream/s-2/62525/dub"
+      },
+      "updated_at": "2024-10-18 01:45:15"
+    },
+    {
+      "id": 52880,
+      "title": "Episode 31",
+      "jp_title": "Episode 31",
+      "number": 31,
+      "episode_embed_id": "62526",
+      "embed_url": {
+        "sub": "https://megaplay.buzz/stream/s-2/62526/sub",
+        "dub": "https://megaplay.buzz/stream/s-2/62526/dub"
+      },
+      "updated_at": "2024-10-18 01:45:15"
+    },
+    {
+      "id": 52881,
+      "title": "Episode 32",
+      "jp_title": "Episode 32",
+      "number": 32,
+      "episode_embed_id": "62527",
+      "embed_url": {
+        "sub": "https://megaplay.buzz/stream/s-2/62527/sub",
+        "dub": "https://megaplay.buzz/stream/s-2/62527/dub"
+      },
+      "updated_at": "2024-10-18 01:45:15"
+    },
+    {
+      "id": 52882,
+      "title": "Episode 33",
+      "jp_title": "Episode 33",
+      "number": 33,
+      "episode_embed_id": "62528",
+      "embed_url": {
+        "sub": "https://megaplay.buzz/stream/s-2/62528/sub",
+        "dub": "https://megaplay.buzz/stream/s-2/62528/dub"
+      },
+      "updated_at": "2024-10-18 01:45:15"
+    },
+    {
+      "id": 52883,
+      "title": "Episode 34",
+      "jp_title": "Episode 34",
+      "number": 34,
+      "episode_embed_id": "62529",
+      "embed_url": {
+        "dub": "https://megaplay.buzz/stream/s-2/62529/dub",
+        "sub": "https://megaplay.buzz/stream/s-2/62529/sub"
+      },
+      "updated_at": "2024-10-18 01:45:15"
+    },
+    {
+      "id": 52884,
+      "title": "Episode 35",
+      "jp_title": "Episode 35",
+      "number": 35,
+      "episode_embed_id": "62530",
+      "embed_url": {
+        "sub": "https://megaplay.buzz/stream/s-2/62530/sub",
+        "dub": "https://megaplay.buzz/stream/s-2/62530/dub"
+      },
+      "updated_at": "2024-10-18 01:45:15"
+    },
+    {
+      "id": 52885,
+      "title": "Episode 36",
+      "jp_title": "Episode 36",
+      "number": 36,
+      "episode_embed_id": "62531",
+      "embed_url": {
+        "dub": "https://megaplay.buzz/stream/s-2/62531/dub",
+        "sub": "https://megaplay.buzz/stream/s-2/62531/sub"
+      },
+      "updated_at": "2024-10-18 01:45:15"
+    },
+    {
+      "id": 52886,
+      "title": "Episode 37",
+      "jp_title": "Episode 37",
+      "number": 37,
+      "episode_embed_id": "62532",
+      "embed_url": {
+        "sub": "https://megaplay.buzz/stream/s-2/62532/sub",
+        "dub": "https://megaplay.buzz/stream/s-2/62532/dub"
+      },
+      "updated_at": "2024-10-18 01:45:15"
+    },
+    {
+      "id": 52887,
+      "title": "Episode 38",
+      "jp_title": "Episode 38",
+      "number": 38,
+      "episode_embed_id": "62533",
+      "embed_url": {
+        "sub": "https://megaplay.buzz/stream/s-2/62533/sub",
+        "dub": "https://megaplay.buzz/stream/s-2/62533/dub"
+      },
+      "updated_at": "2024-10-18 01:45:15"
+    },
+    {
+      "id": 52888,
+      "title": "Episode 39",
+      "jp_title": "Episode 39",
+      "number": 39,
+      "episode_embed_id": "62534",
+      "embed_url": {
+        "sub": "https://megaplay.buzz/stream/s-2/62534/sub",
+        "dub": "https://megaplay.buzz/stream/s-2/62534/dub"
+      },
+      "updated_at": "2024-10-18 01:45:15"
+    },
+    {
+      "id": 52889,
+      "title": "Episode 40",
+      "jp_title": "Episode 40",
+      "number": 40,
+      "episode_embed_id": "62535",
+      "embed_url": {
+        "sub": "https://megaplay.buzz/stream/s-2/62535/sub",
+        "dub": "https://megaplay.buzz/stream/s-2/62535/dub"
+      },
+      "updated_at": "2024-10-18 01:45:15"
+    },
+    {
+      "id": 52890,
+      "title": "Episode 41",
+      "jp_title": "Episode 41",
+      "number": 41,
+      "episode_embed_id": "62536",
+      "embed_url": {
+        "dub": "https://megaplay.buzz/stream/s-2/62536/dub",
+        "sub": "https://megaplay.buzz/stream/s-2/62536/sub"
+      },
+      "updated_at": "2024-10-18 01:45:15"
+    },
+    {
+      "id": 52891,
+      "title": "Episode 42",
+      "jp_title": "Episode 42",
+      "number": 42,
+      "episode_embed_id": "62537",
+      "embed_url": {
+        "dub": "https://megaplay.buzz/stream/s-2/62537/dub",
+        "sub": "https://megaplay.buzz/stream/s-2/62537/sub"
+      },
+      "updated_at": "2024-10-18 01:45:15"
+    },
+    {
+      "id": 52892,
+      "title": "Episode 43",
+      "jp_title": "Episode 43",
+      "number": 43,
+      "episode_embed_id": "62538",
+      "embed_url": {
+        "sub": "https://megaplay.buzz/stream/s-2/62538/sub",
+        "dub": "https://megaplay.buzz/stream/s-2/62538/dub"
+      },
+      "updated_at": "2024-10-18 01:45:15"
+    },
+    {
+      "id": 52893,
+      "title": "Episode 44",
+      "jp_title": "Episode 44",
+      "number": 44,
+      "episode_embed_id": "62539",
+      "embed_url": {
+        "sub": "https://megaplay.buzz/stream/s-2/62539/sub",
+        "dub": "https://megaplay.buzz/stream/s-2/62539/dub"
+      },
+      "updated_at": "2024-10-18 01:45:15"
+    },
+    {
+      "id": 52894,
+      "title": "Episode 45",
+      "jp_title": "Episode 45",
+      "number": 45,
+      "episode_embed_id": "62540",
+      "embed_url": {
+        "dub": "https://megaplay.buzz/stream/s-2/62540/dub",
+        "sub": "https://megaplay.buzz/stream/s-2/62540/sub"
+      },
+      "updated_at": "2024-10-18 01:45:15"
+    },
+    {
+      "id": 52895,
+      "title": "Episode 46",
+      "jp_title": "Episode 46",
+      "number": 46,
+      "episode_embed_id": "62541",
+      "embed_url": {
+        "dub": "https://megaplay.buzz/stream/s-2/62541/dub",
+        "sub": "https://megaplay.buzz/stream/s-2/62541/sub"
+      },
+      "updated_at": "2024-10-18 01:45:15"
+    },
+    {
+      "id": 52896,
+      "title": "Episode 47",
+      "jp_title": "Episode 47",
+      "number": 47,
+      "episode_embed_id": "62542",
+      "embed_url": {
+        "dub": "https://megaplay.buzz/stream/s-2/62542/dub",
+        "sub": "https://megaplay.buzz/stream/s-2/62542/sub"
+      },
+      "updated_at": "2024-10-18 01:45:15"
+    },
+    {
+      "id": 52897,
+      "title": "Episode 48",
+      "jp_title": "Episode 48",
+      "number": 48,
+      "episode_embed_id": "62543",
+      "embed_url": {
+        "dub": "https://megaplay.buzz/stream/s-2/62543/dub",
+        "sub": "https://megaplay.buzz/stream/s-2/62543/sub"
+      },
+      "updated_at": "2024-10-18 01:45:15"
+    },
+    {
+      "id": 52898,
+      "title": "Episode 49",
+      "jp_title": "Episode 49",
+      "number": 49,
+      "episode_embed_id": "62544",
+      "embed_url": {
+        "sub": "https://megaplay.buzz/stream/s-2/62544/sub",
+        "dub": "https://megaplay.buzz/stream/s-2/62544/dub"
+      },
+      "updated_at": "2024-10-18 01:45:15"
+    },
+    {
+      "id": 52899,
+      "title": "Episode 50",
+      "jp_title": "Episode 50",
+      "number": 50,
+      "episode_embed_id": "62545",
+      "embed_url": {
+        "sub": "https://megaplay.buzz/stream/s-2/62545/sub",
+        "dub": "https://megaplay.buzz/stream/s-2/62545/dub"
+      },
+      "updated_at": "2024-10-18 01:45:15"
+    },
+    {
+      "id": 52900,
+      "title": "Episode 51",
+      "jp_title": "Episode 51",
+      "number": 51,
+      "episode_embed_id": "62546",
+      "embed_url": {
+        "sub": "https://megaplay.buzz/stream/s-2/62546/sub",
+        "dub": "https://megaplay.buzz/stream/s-2/62546/dub"
+      },
+      "updated_at": "2024-10-18 01:45:15"
+    },
+    {
+      "id": 52901,
+      "title": "Episode 52",
+      "jp_title": "Episode 52",
+      "number": 52,
+      "episode_embed_id": "62547",
+      "embed_url": {
+        "sub": "https://megaplay.buzz/stream/s-2/62547/sub",
+        "dub": "https://megaplay.buzz/stream/s-2/62547/dub"
+      },
+      "updated_at": "2024-10-18 01:45:15"
+    },
+    {
+      "id": 52902,
+      "title": "Episode 53",
+      "jp_title": "Episode 53",
+      "number": 53,
+      "episode_embed_id": "62548",
+      "embed_url": {
+        "dub": "https://megaplay.buzz/stream/s-2/62548/dub",
+        "sub": "https://megaplay.buzz/stream/s-2/62548/sub"
+      },
+      "updated_at": "2024-10-18 01:45:15"
+    },
+    {
+      "id": 52903,
+      "title": "Episode 54",
+      "jp_title": "Episode 54",
+      "number": 54,
+      "episode_embed_id": "62549",
+      "embed_url": {
+        "sub": "https://megaplay.buzz/stream/s-2/62549/sub",
+        "dub": "https://megaplay.buzz/stream/s-2/62549/dub"
+      },
+      "updated_at": "2024-10-18 01:45:15"
+    },
+    {
+      "id": 52904,
+      "title": "Episode 55",
+      "jp_title": "Episode 55",
+      "number": 55,
+      "episode_embed_id": "62550",
+      "embed_url": {
+        "dub": "https://megaplay.buzz/stream/s-2/62550/dub",
+        "sub": "https://megaplay.buzz/stream/s-2/62550/sub"
+      },
+      "updated_at": "2024-10-18 01:45:15"
+    },
+    {
+      "id": 52905,
+      "title": "Episode 56",
+      "jp_title": "Episode 56",
+      "number": 56,
+      "episode_embed_id": "62551",
+      "embed_url": {
+        "sub": "https://megaplay.buzz/stream/s-2/62551/sub",
+        "dub": "https://megaplay.buzz/stream/s-2/62551/dub"
+      },
+      "updated_at": "2024-10-18 01:45:15"
+    },
+    {
+      "id": 52906,
+      "title": "Episode 57",
+      "jp_title": "Episode 57",
+      "number": 57,
+      "episode_embed_id": "62552",
+      "embed_url": {
+        "sub": "https://megaplay.buzz/stream/s-2/62552/sub",
+        "dub": "https://megaplay.buzz/stream/s-2/62552/dub"
+      },
+      "updated_at": "2024-10-18 01:45:15"
+    },
+    {
+      "id": 52907,
+      "title": "Episode 58",
+      "jp_title": "Episode 58",
+      "number": 58,
+      "episode_embed_id": "62553",
+      "embed_url": {
+        "dub": "https://megaplay.buzz/stream/s-2/62553/dub",
+        "sub": "https://megaplay.buzz/stream/s-2/62553/sub"
+      },
+      "updated_at": "2024-10-18 01:45:15"
+    },
+    {
+      "id": 52908,
+      "title": "Episode 59",
+      "jp_title": "Episode 59",
+      "number": 59,
+      "episode_embed_id": "62554",
+      "embed_url": {
+        "dub": "https://megaplay.buzz/stream/s-2/62554/dub",
+        "sub": "https://megaplay.buzz/stream/s-2/62554/sub"
+      },
+      "updated_at": "2024-10-18 01:45:15"
+    },
+    {
+      "id": 52909,
+      "title": "Episode 60",
+      "jp_title": "Episode 60",
+      "number": 60,
+      "episode_embed_id": "62555",
+      "embed_url": {
+        "dub": "https://megaplay.buzz/stream/s-2/62555/dub",
+        "sub": "https://megaplay.buzz/stream/s-2/62555/sub"
+      },
+      "updated_at": "2024-10-18 01:45:15"
+    },
+    {
+      "id": 52910,
+      "title": "Episode 61",
+      "jp_title": "Episode 61",
+      "number": 61,
+      "episode_embed_id": "62556",
+      "embed_url": {
+        "dub": "https://megaplay.buzz/stream/s-2/62556/dub",
+        "sub": "https://megaplay.buzz/stream/s-2/62556/sub"
+      },
+      "updated_at": "2024-10-18 01:45:15"
+    },
+    {
+      "id": 52911,
+      "title": "Episode 62",
+      "jp_title": "Episode 62",
+      "number": 62,
+      "episode_embed_id": "62557",
+      "embed_url": {
+        "sub": "https://megaplay.buzz/stream/s-2/62557/sub",
+        "dub": "https://megaplay.buzz/stream/s-2/62557/dub"
+      },
+      "updated_at": "2024-10-18 01:45:15"
+    },
+    {
+      "id": 52912,
+      "title": "Episode 63",
+      "jp_title": "Episode 63",
+      "number": 63,
+      "episode_embed_id": "62558",
+      "embed_url": {
+        "sub": "https://megaplay.buzz/stream/s-2/62558/sub",
+        "dub": "https://megaplay.buzz/stream/s-2/62558/dub"
+      },
+      "updated_at": "2024-10-18 01:45:15"
+    },
+    {
+      "id": 52913,
+      "title": "Episode 64",
+      "jp_title": "Episode 64",
+      "number": 64,
+      "episode_embed_id": "62559",
+      "embed_url": {
+        "dub": "https://megaplay.buzz/stream/s-2/62559/dub",
+        "sub": "https://megaplay.buzz/stream/s-2/62559/sub"
+      },
+      "updated_at": "2024-10-18 01:45:15"
+    },
+    {
+      "id": 52914,
+      "title": "Episode 65",
+      "jp_title": "Episode 65",
+      "number": 65,
+      "episode_embed_id": "62560",
+      "embed_url": {
+        "dub": "https://megaplay.buzz/stream/s-2/62560/dub",
+        "sub": "https://megaplay.buzz/stream/s-2/62560/sub"
+      },
+      "updated_at": "2024-10-18 01:45:15"
+    },
+    {
+      "id": 52915,
+      "title": "Episode 66",
+      "jp_title": "Episode 66",
+      "number": 66,
+      "episode_embed_id": "62561",
+      "embed_url": {
+        "sub": "https://megaplay.buzz/stream/s-2/62561/sub",
+        "dub": "https://megaplay.buzz/stream/s-2/62561/dub"
+      },
+      "updated_at": "2024-10-18 01:45:15"
+    },
+    {
+      "id": 52916,
+      "title": "Episode 67",
+      "jp_title": "Episode 67",
+      "number": 67,
+      "episode_embed_id": "62562",
+      "embed_url": {
+        "dub": "https://megaplay.buzz/stream/s-2/62562/dub",
+        "sub": "https://megaplay.buzz/stream/s-2/62562/sub"
+      },
+      "updated_at": "2024-10-18 01:45:15"
+    },
+    {
+      "id": 52917,
+      "title": "Episode 68",
+      "jp_title": "Episode 68",
+      "number": 68,
+      "episode_embed_id": "62563",
+      "embed_url": {
+        "sub": "https://megaplay.buzz/stream/s-2/62563/sub",
+        "dub": "https://megaplay.buzz/stream/s-2/62563/dub"
+      },
+      "updated_at": "2024-10-18 01:45:15"
+    },
+    {
+      "id": 52918,
+      "title": "Episode 69",
+      "jp_title": "Episode 69",
+      "number": 69,
+      "episode_embed_id": "62564",
+      "embed_url": {
+        "dub": "https://megaplay.buzz/stream/s-2/62564/dub",
+        "sub": "https://megaplay.buzz/stream/s-2/62564/sub"
+      },
+      "updated_at": "2024-10-18 01:45:15"
+    },
+    {
+      "id": 52919,
+      "title": "Episode 70",
+      "jp_title": "Episode 70",
+      "number": 70,
+      "episode_embed_id": "62565",
+      "embed_url": {
+        "sub": "https://megaplay.buzz/stream/s-2/62565/sub",
+        "dub": "https://megaplay.buzz/stream/s-2/62565/dub"
+      },
+      "updated_at": "2024-10-18 01:45:15"
+    },
+    {
+      "id": 52920,
+      "title": "Episode 71",
+      "jp_title": "Episode 71",
+      "number": 71,
+      "episode_embed_id": "62566",
+      "embed_url": {
+        "dub": "https://megaplay.buzz/stream/s-2/62566/dub",
+        "sub": "https://megaplay.buzz/stream/s-2/62566/sub"
+      },
+      "updated_at": "2024-10-18 01:45:15"
+    },
+    {
+      "id": 52921,
+      "title": "Episode 72",
+      "jp_title": "Episode 72",
+      "number": 72,
+      "episode_embed_id": "62567",
+      "embed_url": {
+        "dub": "https://megaplay.buzz/stream/s-2/62567/dub",
+        "sub": "https://megaplay.buzz/stream/s-2/62567/sub"
+      },
+      "updated_at": "2024-10-18 01:45:15"
+    },
+    {
+      "id": 52922,
+      "title": "Episode 73",
+      "jp_title": "Episode 73",
+      "number": 73,
+      "episode_embed_id": "62568",
+      "embed_url": {
+        "dub": "https://megaplay.buzz/stream/s-2/62568/dub",
+        "sub": "https://megaplay.buzz/stream/s-2/62568/sub"
+      },
+      "updated_at": "2024-10-18 01:45:15"
+    },
+    {
+      "id": 52923,
+      "title": "Episode 74",
+      "jp_title": "Episode 74",
+      "number": 74,
+      "episode_embed_id": "62569",
+      "embed_url": {
+        "dub": "https://megaplay.buzz/stream/s-2/62569/dub",
+        "sub": "https://megaplay.buzz/stream/s-2/62569/sub"
+      },
+      "updated_at": "2024-10-18 01:45:15"
+    },
+    {
+      "id": 52924,
+      "title": "Episode 75",
+      "jp_title": "Episode 75",
+      "number": 75,
+      "episode_embed_id": "62570",
+      "embed_url": {
+        "dub": "https://megaplay.buzz/stream/s-2/62570/dub",
+        "sub": "https://megaplay.buzz/stream/s-2/62570/sub"
+      },
+      "updated_at": "2024-10-18 01:45:15"
+    },
+    {
+      "id": 52925,
+      "title": "Episode 76",
+      "jp_title": "Episode 76",
+      "number": 76,
+      "episode_embed_id": "62571",
+      "embed_url": {
+        "sub": "https://megaplay.buzz/stream/s-2/62571/sub",
+        "dub": "https://megaplay.buzz/stream/s-2/62571/dub"
+      },
+      "updated_at": "2024-10-18 01:45:15"
+    },
+    {
+      "id": 52926,
+      "title": "Episode 77",
+      "jp_title": "Episode 77",
+      "number": 77,
+      "episode_embed_id": "62572",
+      "embed_url": {
+        "sub": "https://megaplay.buzz/stream/s-2/62572/sub",
+        "dub": "https://megaplay.buzz/stream/s-2/62572/dub"
+      },
+      "updated_at": "2024-10-18 01:45:15"
+    },
+    {
+      "id": 52927,
+      "title": "Episode 78",
+      "jp_title": "Episode 78",
+      "number": 78,
+      "episode_embed_id": "62573",
+      "embed_url": {
+        "sub": "https://megaplay.buzz/stream/s-2/62573/sub",
+        "dub": "https://megaplay.buzz/stream/s-2/62573/dub"
+      },
+      "updated_at": "2024-10-18 01:45:15"
+    },
+    {
+      "id": 52928,
+      "title": "Episode 79",
+      "jp_title": "Episode 79",
+      "number": 79,
+      "episode_embed_id": "62574",
+      "embed_url": {
+        "dub": "https://megaplay.buzz/stream/s-2/62574/dub",
+        "sub": "https://megaplay.buzz/stream/s-2/62574/sub"
+      },
+      "updated_at": "2024-10-18 01:45:15"
+    },
+    {
+      "id": 52929,
+      "title": "Episode 80",
+      "jp_title": "Episode 80",
+      "number": 80,
+      "episode_embed_id": "62575",
+      "embed_url": {
+        "dub": "https://megaplay.buzz/stream/s-2/62575/dub",
+        "sub": "https://megaplay.buzz/stream/s-2/62575/sub"
+      },
+      "updated_at": "2024-10-18 01:45:15"
+    },
+    {
+      "id": 52930,
+      "title": "Episode 81",
+      "jp_title": "Episode 81",
+      "number": 81,
+      "episode_embed_id": "62576",
+      "embed_url": {
+        "sub": "https://megaplay.buzz/stream/s-2/62576/sub",
+        "dub": "https://megaplay.buzz/stream/s-2/62576/dub"
+      },
+      "updated_at": "2024-10-18 01:45:15"
+    },
+    {
+      "id": 52931,
+      "title": "Episode 82",
+      "jp_title": "Episode 82",
+      "number": 82,
+      "episode_embed_id": "62577",
+      "embed_url": {
+        "sub": "https://megaplay.buzz/stream/s-2/62577/sub",
+        "dub": "https://megaplay.buzz/stream/s-2/62577/dub"
+      },
+      "updated_at": "2024-10-18 01:45:15"
+    },
+    {
+      "id": 52932,
+      "title": "Episode 83",
+      "jp_title": "Episode 83",
+      "number": 83,
+      "episode_embed_id": "62578",
+      "embed_url": {
+        "dub": "https://megaplay.buzz/stream/s-2/62578/dub",
+        "sub": "https://megaplay.buzz/stream/s-2/62578/sub"
+      },
+      "updated_at": "2024-10-18 01:45:15"
+    },
+    {
+      "id": 52933,
+      "title": "Episode 84",
+      "jp_title": "Episode 84",
+      "number": 84,
+      "episode_embed_id": "62579",
+      "embed_url": {
+        "dub": "https://megaplay.buzz/stream/s-2/62579/dub",
+        "sub": "https://megaplay.buzz/stream/s-2/62579/sub"
+      },
+      "updated_at": "2024-10-18 01:45:15"
+    },
+    {
+      "id": 52934,
+      "title": "Episode 85",
+      "jp_title": "Episode 85",
+      "number": 85,
+      "episode_embed_id": "62580",
+      "embed_url": {
+        "sub": "https://megaplay.buzz/stream/s-2/62580/sub",
+        "dub": "https://megaplay.buzz/stream/s-2/62580/dub"
+      },
+      "updated_at": "2024-10-18 01:45:15"
+    },
+    {
+      "id": 52935,
+      "title": "Episode 86",
+      "jp_title": "Episode 86",
+      "number": 86,
+      "episode_embed_id": "62581",
+      "embed_url": {
+        "dub": "https://megaplay.buzz/stream/s-2/62581/dub",
+        "sub": "https://megaplay.buzz/stream/s-2/62581/sub"
+      },
+      "updated_at": "2024-10-18 01:45:15"
+    },
+    {
+      "id": 52936,
+      "title": "Episode 87",
+      "jp_title": "Episode 87",
+      "number": 87,
+      "episode_embed_id": "62582",
+      "embed_url": {
+        "dub": "https://megaplay.buzz/stream/s-2/62582/dub",
+        "sub": "https://megaplay.buzz/stream/s-2/62582/sub"
+      },
+      "updated_at": "2024-10-18 01:45:15"
+    },
+    {
+      "id": 52937,
+      "title": "Episode 88",
+      "jp_title": "Episode 88",
+      "number": 88,
+      "episode_embed_id": "62583",
+      "embed_url": {
+        "sub": "https://megaplay.buzz/stream/s-2/62583/sub",
+        "dub": "https://megaplay.buzz/stream/s-2/62583/dub"
+      },
+      "updated_at": "2024-10-18 01:45:15"
+    },
+    {
+      "id": 52938,
+      "title": "Episode 89",
+      "jp_title": "Episode 89",
+      "number": 89,
+      "episode_embed_id": "62584",
+      "embed_url": {
+        "dub": "https://megaplay.buzz/stream/s-2/62584/dub",
+        "sub": "https://megaplay.buzz/stream/s-2/62584/sub"
+      },
+      "updated_at": "2024-10-18 01:45:15"
+    },
+    {
+      "id": 52939,
+      "title": "Episode 90",
+      "jp_title": "Episode 90",
+      "number": 90,
+      "episode_embed_id": "62585",
+      "embed_url": {
+        "sub": "https://megaplay.buzz/stream/s-2/62585/sub",
+        "dub": "https://megaplay.buzz/stream/s-2/62585/dub"
+      },
+      "updated_at": "2024-10-18 01:45:15"
+    },
+    {
+      "id": 52940,
+      "title": "Episode 91",
+      "jp_title": "Episode 91",
+      "number": 91,
+      "episode_embed_id": "62586",
+      "embed_url": {
+        "sub": "https://megaplay.buzz/stream/s-2/62586/sub",
+        "dub": "https://megaplay.buzz/stream/s-2/62586/dub"
+      },
+      "updated_at": "2024-10-18 01:45:15"
+    },
+    {
+      "id": 52941,
+      "title": "Episode 92",
+      "jp_title": "Episode 92",
+      "number": 92,
+      "episode_embed_id": "62587",
+      "embed_url": {
+        "dub": "https://megaplay.buzz/stream/s-2/62587/dub",
+        "sub": "https://megaplay.buzz/stream/s-2/62587/sub"
+      },
+      "updated_at": "2024-10-18 01:45:15"
+    },
+    {
+      "id": 52942,
+      "title": "Episode 93",
+      "jp_title": "Episode 93",
+      "number": 93,
+      "episode_embed_id": "62588",
+      "embed_url": {
+        "sub": "https://megaplay.buzz/stream/s-2/62588/sub",
+        "dub": "https://megaplay.buzz/stream/s-2/62588/dub"
+      },
+      "updated_at": "2024-10-18 01:45:15"
+    },
+    {
+      "id": 52943,
+      "title": "Episode 94",
+      "jp_title": "Episode 94",
+      "number": 94,
+      "episode_embed_id": "62589",
+      "embed_url": {
+        "sub": "https://megaplay.buzz/stream/s-2/62589/sub",
+        "dub": "https://megaplay.buzz/stream/s-2/62589/dub"
+      },
+      "updated_at": "2024-10-18 01:45:15"
+    },
+    {
+      "id": 52944,
+      "title": "Episode 95",
+      "jp_title": "Episode 95",
+      "number": 95,
+      "episode_embed_id": "62590",
+      "embed_url": {
+        "dub": "https://megaplay.buzz/stream/s-2/62590/dub",
+        "sub": "https://megaplay.buzz/stream/s-2/62590/sub"
+      },
+      "updated_at": "2024-10-18 01:45:15"
+    },
+    {
+      "id": 52945,
+      "title": "Episode 96",
+      "jp_title": "Episode 96",
+      "number": 96,
+      "episode_embed_id": "62591",
+      "embed_url": {
+        "dub": "https://megaplay.buzz/stream/s-2/62591/dub",
+        "sub": "https://megaplay.buzz/stream/s-2/62591/sub"
+      },
+      "updated_at": "2024-10-18 01:45:15"
+    },
+    {
+      "id": 52946,
+      "title": "Episode 97",
+      "jp_title": "Episode 97",
+      "number": 97,
+      "episode_embed_id": "62592",
+      "embed_url": {
+        "dub": "https://megaplay.buzz/stream/s-2/62592/dub",
+        "sub": "https://megaplay.buzz/stream/s-2/62592/sub"
+      },
+      "updated_at": "2024-10-18 01:45:15"
+    },
+    {
+      "id": 52947,
+      "title": "Episode 98",
+      "jp_title": "Episode 98",
+      "number": 98,
+      "episode_embed_id": "62593",
+      "embed_url": {
+        "sub": "https://megaplay.buzz/stream/s-2/62593/sub",
+        "dub": "https://megaplay.buzz/stream/s-2/62593/dub"
+      },
+      "updated_at": "2024-10-18 01:45:15"
+    },
+    {
+      "id": 52948,
+      "title": "Episode 99",
+      "jp_title": "Episode 99",
+      "number": 99,
+      "episode_embed_id": "62594",
+      "embed_url": {
+        "sub": "https://megaplay.buzz/stream/s-2/62594/sub",
+        "dub": "https://megaplay.buzz/stream/s-2/62594/dub"
+      },
+      "updated_at": "2024-10-18 01:45:15"
+    },
+    {
+      "id": 52949,
+      "title": "Episode 100",
+      "jp_title": "Episode 100",
+      "number": 100,
+      "episode_embed_id": "62595",
+      "embed_url": {
+        "sub": "https://megaplay.buzz/stream/s-2/62595/sub",
+        "dub": "https://megaplay.buzz/stream/s-2/62595/dub"
+      },
+      "updated_at": "2024-10-18 01:45:15"
+    },
+    {
+      "id": 52950,
+      "title": "Episode 101",
+      "jp_title": "Episode 101",
+      "number": 101,
+      "episode_embed_id": "62596",
+      "embed_url": {
+        "sub": "https://megaplay.buzz/stream/s-2/62596/sub",
+        "dub": "https://megaplay.buzz/stream/s-2/62596/dub"
+      },
+      "updated_at": "2024-10-18 01:45:15"
+    },
+    {
+      "id": 52951,
+      "title": "Episode 102",
+      "jp_title": "Episode 102",
+      "number": 102,
+      "episode_embed_id": "62597",
+      "embed_url": {
+        "sub": "https://megaplay.buzz/stream/s-2/62597/sub",
+        "dub": "https://megaplay.buzz/stream/s-2/62597/dub"
+      },
+      "updated_at": "2024-10-18 01:45:15"
+    },
+    {
+      "id": 52952,
+      "title": "Episode 103",
+      "jp_title": "Episode 103",
+      "number": 103,
+      "episode_embed_id": "62598",
+      "embed_url": {
+        "dub": "https://megaplay.buzz/stream/s-2/62598/dub",
+        "sub": "https://megaplay.buzz/stream/s-2/62598/sub"
+      },
+      "updated_at": "2024-10-18 01:45:15"
+    },
+    {
+      "id": 52953,
+      "title": "Episode 104",
+      "jp_title": "Episode 104",
+      "number": 104,
+      "episode_embed_id": "62599",
+      "embed_url": {
+        "sub": "https://megaplay.buzz/stream/s-2/62599/sub",
+        "dub": "https://megaplay.buzz/stream/s-2/62599/dub"
+      },
+      "updated_at": "2024-10-18 01:45:15"
+    },
+    {
+      "id": 52954,
+      "title": "Episode 105",
+      "jp_title": "Episode 105",
+      "number": 105,
+      "episode_embed_id": "62600",
+      "embed_url": {
+        "sub": "https://megaplay.buzz/stream/s-2/62600/sub",
+        "dub": "https://megaplay.buzz/stream/s-2/62600/dub"
+      },
+      "updated_at": "2024-10-18 01:45:15"
+    },
+    {
+      "id": 52955,
+      "title": "Episode 106",
+      "jp_title": "Episode 106",
+      "number": 106,
+      "episode_embed_id": "62601",
+      "embed_url": {
+        "dub": "https://megaplay.buzz/stream/s-2/62601/dub",
+        "sub": "https://megaplay.buzz/stream/s-2/62601/sub"
+      },
+      "updated_at": "2024-10-18 01:45:15"
+    },
+    {
+      "id": 52956,
+      "title": "Episode 107",
+      "jp_title": "Episode 107",
+      "number": 107,
+      "episode_embed_id": "62602",
+      "embed_url": {
+        "dub": "https://megaplay.buzz/stream/s-2/62602/dub",
+        "sub": "https://megaplay.buzz/stream/s-2/62602/sub"
+      },
+      "updated_at": "2024-10-18 01:45:15"
+    },
+    {
+      "id": 52957,
+      "title": "Episode 108",
+      "jp_title": "Episode 108",
+      "number": 108,
+      "episode_embed_id": "62603",
+      "embed_url": {
+        "dub": "https://megaplay.buzz/stream/s-2/62603/dub",
+        "sub": "https://megaplay.buzz/stream/s-2/62603/sub"
+      },
+      "updated_at": "2024-10-18 01:45:15"
+    },
+    {
+      "id": 52958,
+      "title": "Episode 109",
+      "jp_title": "Episode 109",
+      "number": 109,
+      "episode_embed_id": "62604",
+      "embed_url": {
+        "dub": "https://megaplay.buzz/stream/s-2/62604/dub",
+        "sub": "https://megaplay.buzz/stream/s-2/62604/sub"
+      },
+      "updated_at": "2024-10-18 01:45:15"
+    },
+    {
+      "id": 52959,
+      "title": "Episode 110",
+      "jp_title": "Episode 110",
+      "number": 110,
+      "episode_embed_id": "62605",
+      "embed_url": {
+        "dub": "https://megaplay.buzz/stream/s-2/62605/dub",
+        "sub": "https://megaplay.buzz/stream/s-2/62605/sub"
+      },
+      "updated_at": "2024-10-18 01:45:15"
+    },
+    {
+      "id": 52960,
+      "title": "Episode 111",
+      "jp_title": "Episode 111",
+      "number": 111,
+      "episode_embed_id": "62606",
+      "embed_url": {
+        "sub": "https://megaplay.buzz/stream/s-2/62606/sub",
+        "dub": "https://megaplay.buzz/stream/s-2/62606/dub"
+      },
+      "updated_at": "2024-10-18 01:45:15"
+    },
+    {
+      "id": 52961,
+      "title": "Episode 112",
+      "jp_title": "Episode 112",
+      "number": 112,
+      "episode_embed_id": "62607",
+      "embed_url": {
+        "sub": "https://megaplay.buzz/stream/s-2/62607/sub",
+        "dub": "https://megaplay.buzz/stream/s-2/62607/dub"
+      },
+      "updated_at": "2024-10-18 01:45:15"
+    },
+    {
+      "id": 52962,
+      "title": "Episode 113",
+      "jp_title": "Episode 113",
+      "number": 113,
+      "episode_embed_id": "62608",
+      "embed_url": {
+        "dub": "https://megaplay.buzz/stream/s-2/62608/dub",
+        "sub": "https://megaplay.buzz/stream/s-2/62608/sub"
+      },
+      "updated_at": "2024-10-18 01:45:15"
+    },
+    {
+      "id": 52963,
+      "title": "Episode 114",
+      "jp_title": "Episode 114",
+      "number": 114,
+      "episode_embed_id": "62609",
+      "embed_url": {
+        "sub": "https://megaplay.buzz/stream/s-2/62609/sub",
+        "dub": "https://megaplay.buzz/stream/s-2/62609/dub"
+      },
+      "updated_at": "2024-10-18 01:45:15"
+    },
+    {
+      "id": 52964,
+      "title": "Episode 115",
+      "jp_title": "Episode 115",
+      "number": 115,
+      "episode_embed_id": "62610",
+      "embed_url": {
+        "dub": "https://megaplay.buzz/stream/s-2/62610/dub",
+        "sub": "https://megaplay.buzz/stream/s-2/62610/sub"
+      },
+      "updated_at": "2024-10-18 01:45:15"
+    },
+    {
+      "id": 52965,
+      "title": "Episode 116",
+      "jp_title": "Episode 116",
+      "number": 116,
+      "episode_embed_id": "62611",
+      "embed_url": {
+        "dub": "https://megaplay.buzz/stream/s-2/62611/dub",
+        "sub": "https://megaplay.buzz/stream/s-2/62611/sub"
+      },
+      "updated_at": "2024-10-18 01:45:15"
+    },
+    {
+      "id": 52966,
+      "title": "Episode 117",
+      "jp_title": "Episode 117",
+      "number": 117,
+      "episode_embed_id": "62612",
+      "embed_url": {
+        "sub": "https://megaplay.buzz/stream/s-2/62612/sub",
+        "dub": "https://megaplay.buzz/stream/s-2/62612/dub"
+      },
+      "updated_at": "2024-10-18 01:45:15"
+    },
+    {
+      "id": 52967,
+      "title": "Episode 118",
+      "jp_title": "Episode 118",
+      "number": 118,
+      "episode_embed_id": "62613",
+      "embed_url": {
+        "dub": "https://megaplay.buzz/stream/s-2/62613/dub",
+        "sub": "https://megaplay.buzz/stream/s-2/62613/sub"
+      },
+      "updated_at": "2024-10-18 01:45:15"
+    },
+    {
+      "id": 52968,
+      "title": "Episode 119",
+      "jp_title": "Episode 119",
+      "number": 119,
+      "episode_embed_id": "62614",
+      "embed_url": {
+        "dub": "https://megaplay.buzz/stream/s-2/62614/dub",
+        "sub": "https://megaplay.buzz/stream/s-2/62614/sub"
+      },
+      "updated_at": "2024-10-18 01:45:15"
+    },
+    {
+      "id": 52969,
+      "title": "Episode 120",
+      "jp_title": "Episode 120",
+      "number": 120,
+      "episode_embed_id": "62615",
+      "embed_url": {
+        "sub": "https://megaplay.buzz/stream/s-2/62615/sub",
+        "dub": "https://megaplay.buzz/stream/s-2/62615/dub"
+      },
+      "updated_at": "2024-10-18 01:45:15"
+    },
+    {
+      "id": 52970,
+      "title": "Episode 121",
+      "jp_title": "Episode 121",
+      "number": 121,
+      "episode_embed_id": "62616",
+      "embed_url": {
+        "sub": "https://megaplay.buzz/stream/s-2/62616/sub",
+        "dub": "https://megaplay.buzz/stream/s-2/62616/dub"
+      },
+      "updated_at": "2024-10-18 01:45:15"
+    },
+    {
+      "id": 52971,
+      "title": "Episode 122",
+      "jp_title": "Episode 122",
+      "number": 122,
+      "episode_embed_id": "62617",
+      "embed_url": {
+        "dub": "https://megaplay.buzz/stream/s-2/62617/dub",
+        "sub": "https://megaplay.buzz/stream/s-2/62617/sub"
+      },
+      "updated_at": "2024-10-18 01:45:15"
+    },
+    {
+      "id": 52972,
+      "title": "Episode 123",
+      "jp_title": "Episode 123",
+      "number": 123,
+      "episode_embed_id": "62618",
+      "embed_url": {
+        "dub": "https://megaplay.buzz/stream/s-2/62618/dub",
+        "sub": "https://megaplay.buzz/stream/s-2/62618/sub"
+      },
+      "updated_at": "2024-10-18 01:45:15"
+    },
+    {
+      "id": 52973,
+      "title": "Episode 124",
+      "jp_title": "Episode 124",
+      "number": 124,
+      "episode_embed_id": "62619",
+      "embed_url": {
+        "dub": "https://megaplay.buzz/stream/s-2/62619/dub",
+        "sub": "https://megaplay.buzz/stream/s-2/62619/sub"
+      },
+      "updated_at": "2024-10-18 01:45:15"
+    },
+    {
+      "id": 52974,
+      "title": "Episode 125",
+      "jp_title": "Episode 125",
+      "number": 125,
+      "episode_embed_id": "62620",
+      "embed_url": {
+        "sub": "https://megaplay.buzz/stream/s-2/62620/sub",
+        "dub": "https://megaplay.buzz/stream/s-2/62620/dub"
+      },
+      "updated_at": "2024-10-18 01:45:15"
+    },
+    {
+      "id": 52975,
+      "title": "Episode 126",
+      "jp_title": "Episode 126",
+      "number": 126,
+      "episode_embed_id": "62621",
+      "embed_url": {
+        "dub": "https://megaplay.buzz/stream/s-2/62621/dub",
+        "sub": "https://megaplay.buzz/stream/s-2/62621/sub"
+      },
+      "updated_at": "2024-10-18 01:45:15"
+    },
+    {
+      "id": 52976,
+      "title": "Episode 127",
+      "jp_title": "Episode 127",
+      "number": 127,
+      "episode_embed_id": "62622",
+      "embed_url": {
+        "sub": "https://megaplay.buzz/stream/s-2/62622/sub",
+        "dub": "https://megaplay.buzz/stream/s-2/62622/dub"
+      },
+      "updated_at": "2024-10-18 01:45:15"
+    },
+    {
+      "id": 52977,
+      "title": "Episode 128",
+      "jp_title": "Episode 128",
+      "number": 128,
+      "episode_embed_id": "62623",
+      "embed_url": {
+        "sub": "https://megaplay.buzz/stream/s-2/62623/sub",
+        "dub": "https://megaplay.buzz/stream/s-2/62623/dub"
+      },
+      "updated_at": "2024-10-18 01:45:15"
+    },
+    {
+      "id": 52978,
+      "title": "Episode 129",
+      "jp_title": "Episode 129",
+      "number": 129,
+      "episode_embed_id": "62624",
+      "embed_url": {
+        "sub": "https://megaplay.buzz/stream/s-2/62624/sub",
+        "dub": "https://megaplay.buzz/stream/s-2/62624/dub"
+      },
+      "updated_at": "2024-10-18 01:45:15"
+    },
+    {
+      "id": 52979,
+      "title": "Episode 130",
+      "jp_title": "Episode 130",
+      "number": 130,
+      "episode_embed_id": "62625",
+      "embed_url": {
+        "sub": "https://megaplay.buzz/stream/s-2/62625/sub",
+        "dub": "https://megaplay.buzz/stream/s-2/62625/dub"
+      },
+      "updated_at": "2024-10-18 01:45:15"
+    },
+    {
+      "id": 52980,
+      "title": "Episode 131",
+      "jp_title": "Episode 131",
+      "number": 131,
+      "episode_embed_id": "62626",
+      "embed_url": {
+        "dub": "https://megaplay.buzz/stream/s-2/62626/dub",
+        "sub": "https://megaplay.buzz/stream/s-2/62626/sub"
+      },
+      "updated_at": "2024-10-18 01:45:15"
+    },
+    {
+      "id": 52981,
+      "title": "Episode 132",
+      "jp_title": "Episode 132",
+      "number": 132,
+      "episode_embed_id": "62627",
+      "embed_url": {
+        "dub": "https://megaplay.buzz/stream/s-2/62627/dub",
+        "sub": "https://megaplay.buzz/stream/s-2/62627/sub"
+      },
+      "updated_at": "2024-10-18 01:45:15"
+    },
+    {
+      "id": 52982,
+      "title": "Episode 133",
+      "jp_title": "Episode 133",
+      "number": 133,
+      "episode_embed_id": "62628",
+      "embed_url": {
+        "dub": "https://megaplay.buzz/stream/s-2/62628/dub",
+        "sub": "https://megaplay.buzz/stream/s-2/62628/sub"
+      },
+      "updated_at": "2024-10-18 01:45:15"
+    },
+    {
+      "id": 52983,
+      "title": "Episode 134",
+      "jp_title": "Episode 134",
+      "number": 134,
+      "episode_embed_id": "62629",
+      "embed_url": {
+        "dub": "https://megaplay.buzz/stream/s-2/62629/dub",
+        "sub": "https://megaplay.buzz/stream/s-2/62629/sub"
+      },
+      "updated_at": "2024-10-18 01:45:15"
+    },
+    {
+      "id": 52984,
+      "title": "Episode 135",
+      "jp_title": "Episode 135",
+      "number": 135,
+      "episode_embed_id": "62630",
+      "embed_url": {
+        "dub": "https://megaplay.buzz/stream/s-2/62630/dub",
+        "sub": "https://megaplay.buzz/stream/s-2/62630/sub"
+      },
+      "updated_at": "2024-10-18 01:45:15"
+    },
+    {
+      "id": 52985,
+      "title": "Episode 136",
+      "jp_title": "Episode 136",
+      "number": 136,
+      "episode_embed_id": "62631",
+      "embed_url": {
+        "sub": "https://megaplay.buzz/stream/s-2/62631/sub",
+        "dub": "https://megaplay.buzz/stream/s-2/62631/dub"
+      },
+      "updated_at": "2024-10-18 01:45:15"
+    },
+    {
+      "id": 52986,
+      "title": "Episode 137",
+      "jp_title": "Episode 137",
+      "number": 137,
+      "episode_embed_id": "62632",
+      "embed_url": {
+        "dub": "https://megaplay.buzz/stream/s-2/62632/dub",
+        "sub": "https://megaplay.buzz/stream/s-2/62632/sub"
+      },
+      "updated_at": "2024-10-18 01:45:15"
+    },
+    {
+      "id": 52987,
+      "title": "Episode 138",
+      "jp_title": "Episode 138",
+      "number": 138,
+      "episode_embed_id": "62633",
+      "embed_url": {
+        "dub": "https://megaplay.buzz/stream/s-2/62633/dub",
+        "sub": "https://megaplay.buzz/stream/s-2/62633/sub"
+      },
+      "updated_at": "2024-10-18 01:45:15"
+    },
+    {
+      "id": 52988,
+      "title": "Episode 139",
+      "jp_title": "Episode 139",
+      "number": 139,
+      "episode_embed_id": "62634",
+      "embed_url": {
+        "dub": "https://megaplay.buzz/stream/s-2/62634/dub",
+        "sub": "https://megaplay.buzz/stream/s-2/62634/sub"
+      },
+      "updated_at": "2024-10-18 01:45:15"
+    },
+    {
+      "id": 52989,
+      "title": "Episode 140",
+      "jp_title": "Episode 140",
+      "number": 140,
+      "episode_embed_id": "62635",
+      "embed_url": {
+        "sub": "https://megaplay.buzz/stream/s-2/62635/sub",
+        "dub": "https://megaplay.buzz/stream/s-2/62635/dub"
+      },
+      "updated_at": "2024-10-18 01:45:15"
+    },
+    {
+      "id": 52990,
+      "title": "Episode 141",
+      "jp_title": "Episode 141",
+      "number": 141,
+      "episode_embed_id": "62636",
+      "embed_url": {
+        "sub": "https://megaplay.buzz/stream/s-2/62636/sub",
+        "dub": "https://megaplay.buzz/stream/s-2/62636/dub"
+      },
+      "updated_at": "2024-10-18 01:45:15"
+    },
+    {
+      "id": 52991,
+      "title": "Episode 142",
+      "jp_title": "Episode 142",
+      "number": 142,
+      "episode_embed_id": "62637",
+      "embed_url": {
+        "sub": "https://megaplay.buzz/stream/s-2/62637/sub",
+        "dub": "https://megaplay.buzz/stream/s-2/62637/dub"
+      },
+      "updated_at": "2024-10-18 01:45:15"
+    },
+    {
+      "id": 52992,
+      "title": "Episode 143",
+      "jp_title": "Episode 143",
+      "number": 143,
+      "episode_embed_id": "62638",
+      "embed_url": {
+        "dub": "https://megaplay.buzz/stream/s-2/62638/dub",
+        "sub": "https://megaplay.buzz/stream/s-2/62638/sub"
+      },
+      "updated_at": "2024-10-18 01:45:15"
+    },
+    {
+      "id": 52993,
+      "title": "Episode 144",
+      "jp_title": "Episode 144",
+      "number": 144,
+      "episode_embed_id": "62639",
+      "embed_url": {
+        "dub": "https://megaplay.buzz/stream/s-2/62639/dub",
+        "sub": "https://megaplay.buzz/stream/s-2/62639/sub"
+      },
+      "updated_at": "2024-10-18 01:45:15"
+    },
+    {
+      "id": 52994,
+      "title": "Episode 145",
+      "jp_title": "Episode 145",
+      "number": 145,
+      "episode_embed_id": "62640",
+      "embed_url": {
+        "sub": "https://megaplay.buzz/stream/s-2/62640/sub",
+        "dub": "https://megaplay.buzz/stream/s-2/62640/dub"
+      },
+      "updated_at": "2024-10-18 01:45:15"
+    }
+  ]
+}

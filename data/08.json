@@ -1,0 +1,583 @@
+{
+  "season_id": 421,
+  "title": "Pokémon the Series: XYZ",
+  "description": "The journey of Satoshi and his friends through the Kalos region continues! After Satoshi obtains his seventh gym badge, the group is moving toward the next town when Eureka discovers a mysterious Pokemon resting in her pochette. Soon given the name Puni-chan, it is one that even Satoshi and Serena's new Pokemon Zukan cannot identify. However, it quickly becomes apparent that Puni-chan is the target of a mysterious group clad in bright red suits known as Team Flare, aiming to capture the new Pokemon to further their agenda. But when Satoshi and the gang realize that the enigmatic organization has no intention of treating Puni-chan with any decency, they take a stand in opposition to Team Flare's plans, daring to fight back.\r\n\r\nWith Gojika's predictions looming above them, Satoshi aims for his final gym badge while Serena contests for her last Princess Key in order to be able to compete at the TriPokalon Master Class. But as Team Flare begins to move in search of the mysterious Z, the stories of Pokemon XY and Pokemon XY: Mega Evolution cross paths as Satoshi and his friends, along with Team Rocket, get caught up in a scheme that could put Kalos in great danger.\r\n\r\n[Written by MAL Rewrite]",
+  "episodes": [
+    {
+      "id": 7242,
+      "title": "From A to Z!",
+      "jp_title": "Z Bakutan! Kalos ni Hisomu Mono!!",
+      "number": 1,
+      "episode_embed_id": "17626",
+      "embed_url": {
+        "dub": "https://megaplay.buzz/stream/s-2/17626/dub",
+        "sub": "https://megaplay.buzz/stream/s-2/17626/sub"
+      },
+      "updated_at": "2024-10-17 19:25:20"
+    },
+    {
+      "id": 7243,
+      "title": "Love Strikes! Eevee, Yikes!",
+      "jp_title": "Nekketsu Hariborg! Nerawareta Puni-chan!!",
+      "number": 2,
+      "episode_embed_id": "17627",
+      "embed_url": {
+        "sub": "https://megaplay.buzz/stream/s-2/17627/sub",
+        "dub": "https://megaplay.buzz/stream/s-2/17627/dub"
+      },
+      "updated_at": "2024-10-17 19:25:20"
+    },
+    {
+      "id": 7244,
+      "title": "A Giga Battle with Mega Results!",
+      "jp_title": "Mega Tabunne vs. Giga Giga Nyarth!!",
+      "number": 3,
+      "episode_embed_id": "17628",
+      "embed_url": {
+        "sub": "https://megaplay.buzz/stream/s-2/17628/sub",
+        "dub": "https://megaplay.buzz/stream/s-2/17628/dub"
+      },
+      "updated_at": "2024-10-17 19:25:20"
+    },
+    {
+      "id": 7245,
+      "title": "A Fiery Rite of Passage!",
+      "jp_title": "Shishiko to Kaenjishi! Honoo no Tabidachi!!",
+      "number": 4,
+      "episode_embed_id": "17629",
+      "embed_url": {
+        "sub": "https://megaplay.buzz/stream/s-2/17629/sub",
+        "dub": "https://megaplay.buzz/stream/s-2/17629/dub"
+      },
+      "updated_at": "2024-10-17 19:25:20"
+    },
+    {
+      "id": 7246,
+      "title": "Dream a Little Dream from Me!",
+      "jp_title": "Pikachuu, Puni-chan no Yume wo Miru!",
+      "number": 5,
+      "episode_embed_id": "17630",
+      "embed_url": {
+        "sub": "https://megaplay.buzz/stream/s-2/17630/sub",
+        "dub": "https://megaplay.buzz/stream/s-2/17630/dub"
+      },
+      "updated_at": "2024-10-17 19:25:20"
+    },
+    {
+      "id": 7247,
+      "title": "The Legend of the Ninja Hero!",
+      "jp_title": "Youkoso Ninja Mura e! Eiyuu Gekkouga no Densetsu!!",
+      "number": 6,
+      "episode_embed_id": "17631",
+      "embed_url": {
+        "dub": "https://megaplay.buzz/stream/s-2/17631/dub",
+        "sub": "https://megaplay.buzz/stream/s-2/17631/sub"
+      },
+      "updated_at": "2024-10-17 19:25:20"
+    },
+    {
+      "id": 7248,
+      "title": "A Festival of Decisions!",
+      "jp_title": "Ninja Mura Kessen! Gekogashira tai Kirikizan!!",
+      "number": 7,
+      "episode_embed_id": "17632",
+      "embed_url": {
+        "dub": "https://megaplay.buzz/stream/s-2/17632/dub",
+        "sub": "https://megaplay.buzz/stream/s-2/17632/sub"
+      },
+      "updated_at": "2024-10-17 19:25:20"
+    },
+    {
+      "id": 7249,
+      "title": "A Dancing Debut!",
+      "jp_title": "Odore Eievui! TriPokalon Debut!!",
+      "number": 8,
+      "episode_embed_id": "17633",
+      "embed_url": {
+        "sub": "https://megaplay.buzz/stream/s-2/17633/sub",
+        "dub": "https://megaplay.buzz/stream/s-2/17633/dub"
+      },
+      "updated_at": "2024-10-17 19:25:20"
+    },
+    {
+      "id": 7250,
+      "title": "Meeting at Terminus Cave!",
+      "jp_title": "Tsui no Doukutsu! Ugokidashita Z no Nazo!!",
+      "number": 9,
+      "episode_embed_id": "17634",
+      "embed_url": {
+        "dub": "https://megaplay.buzz/stream/s-2/17634/dub",
+        "sub": "https://megaplay.buzz/stream/s-2/17634/sub"
+      },
+      "updated_at": "2024-10-17 19:25:20"
+    },
+    {
+      "id": 7251,
+      "title": "A Cellular Connection!",
+      "jp_title": "Eureka to Puni-chan!",
+      "number": 10,
+      "episode_embed_id": "17635",
+      "embed_url": {
+        "sub": "https://megaplay.buzz/stream/s-2/17635/sub",
+        "dub": "https://megaplay.buzz/stream/s-2/17635/dub"
+      },
+      "updated_at": "2024-10-17 19:25:20"
+    },
+    {
+      "id": 7252,
+      "title": "A Windswept Encounter!",
+      "jp_title": "Onbat to Flaette! Kaze no Naka no Meguriai!!",
+      "number": 11,
+      "episode_embed_id": "17636",
+      "embed_url": {
+        "dub": "https://megaplay.buzz/stream/s-2/17636/dub",
+        "sub": "https://megaplay.buzz/stream/s-2/17636/sub"
+      },
+      "updated_at": "2024-10-17 19:25:20"
+    },
+    {
+      "id": 7253,
+      "title": "Party Dancecapades!",
+      "jp_title": "Satoshi to Serena! Dance Party de Get Daze!!",
+      "number": 12,
+      "episode_embed_id": "17637",
+      "embed_url": {
+        "sub": "https://megaplay.buzz/stream/s-2/17637/sub",
+        "dub": "https://megaplay.buzz/stream/s-2/17637/dub"
+      },
+      "updated_at": "2024-10-17 19:25:20"
+    },
+    {
+      "id": 7254,
+      "title": "A Meeting of Two Journeys!",
+      "jp_title": "Saikyou Mega Battle! Gekkouga vs. Mega Lizardon!!",
+      "number": 13,
+      "episode_embed_id": "17638",
+      "embed_url": {
+        "sub": "https://megaplay.buzz/stream/s-2/17638/sub",
+        "dub": "https://megaplay.buzz/stream/s-2/17638/dub"
+      },
+      "updated_at": "2024-10-17 19:25:20"
+    },
+    {
+      "id": 7255,
+      "title": "An Explosive Operation!",
+      "jp_title": "Bakuretsu Ground Force! Zygarde Hokaku Sakusen!!",
+      "number": 14,
+      "episode_embed_id": "17639",
+      "embed_url": {
+        "sub": "https://megaplay.buzz/stream/s-2/17639/sub",
+        "dub": "https://megaplay.buzz/stream/s-2/17639/dub"
+      },
+      "updated_at": "2024-10-17 19:25:20"
+    },
+    {
+      "id": 7256,
+      "title": "A Watershed Moment!",
+      "jp_title": "Kouya no Brigarron! Ki wo Ueru Tobon!!",
+      "number": 15,
+      "episode_embed_id": "17640",
+      "embed_url": {
+        "sub": "https://megaplay.buzz/stream/s-2/17640/sub",
+        "dub": "https://megaplay.buzz/stream/s-2/17640/dub"
+      },
+      "updated_at": "2024-10-17 19:25:20"
+    },
+    {
+      "id": 7257,
+      "title": "Master Class Choices!",
+      "jp_title": "Master Class e no Shiren! Dou Suru Serena!?",
+      "number": 16,
+      "episode_embed_id": "17641",
+      "embed_url": {
+        "dub": "https://megaplay.buzz/stream/s-2/17641/dub",
+        "sub": "https://megaplay.buzz/stream/s-2/17641/sub"
+      },
+      "updated_at": "2024-10-17 19:25:20"
+    },
+    {
+      "id": 7258,
+      "title": "An Electrifying Rage!",
+      "jp_title": "Thunder to Onvern! Ikari no Raigeki!!",
+      "number": 17,
+      "episode_embed_id": "17642",
+      "embed_url": {
+        "sub": "https://megaplay.buzz/stream/s-2/17642/sub",
+        "dub": "https://megaplay.buzz/stream/s-2/17642/dub"
+      },
+      "updated_at": "2024-10-17 19:25:20"
+    },
+    {
+      "id": 7259,
+      "title": "Unlocking Some Respect!",
+      "jp_title": "Left to Right! Yureru Kokoro no Kametete!!",
+      "number": 18,
+      "episode_embed_id": "17643",
+      "embed_url": {
+        "sub": "https://megaplay.buzz/stream/s-2/17643/sub",
+        "dub": "https://megaplay.buzz/stream/s-2/17643/dub"
+      },
+      "updated_at": "2024-10-17 19:25:20"
+    },
+    {
+      "id": 7260,
+      "title": "Master Class Is in Session!",
+      "jp_title": "Master Class Kaimaku! Hibana Chiru Otome no Gekitou!!",
+      "number": 19,
+      "episode_embed_id": "17644",
+      "embed_url": {
+        "dub": "https://megaplay.buzz/stream/s-2/17644/dub",
+        "sub": "https://megaplay.buzz/stream/s-2/17644/sub"
+      },
+      "updated_at": "2024-10-17 19:25:20"
+    },
+    {
+      "id": 7261,
+      "title": "Performing a Pathway to the Future!",
+      "jp_title": "Elle vs. Serena! Hirake Mirai e no Tobira!!",
+      "number": 20,
+      "episode_embed_id": "17645",
+      "embed_url": {
+        "sub": "https://megaplay.buzz/stream/s-2/17645/sub",
+        "dub": "https://megaplay.buzz/stream/s-2/17645/dub"
+      },
+      "updated_at": "2024-10-17 19:25:20"
+    },
+    {
+      "id": 7262,
+      "title": "A Keeper for Keeps?",
+      "jp_title": "Citron no Hanayome!? Eureka no S&#39;il Vous Plait Panic!!",
+      "number": 21,
+      "episode_embed_id": "17646",
+      "embed_url": {
+        "sub": "https://megaplay.buzz/stream/s-2/17646/sub",
+        "dub": "https://megaplay.buzz/stream/s-2/17646/dub"
+      },
+      "updated_at": "2024-10-17 19:25:20"
+    },
+    {
+      "id": 7263,
+      "title": "Battling at Full Volume!",
+      "jp_title": "Serena, Satoshi ni Naru! Saikyou Pikachu Taiketsu!!",
+      "number": 22,
+      "episode_embed_id": "17647",
+      "embed_url": {
+        "sub": "https://megaplay.buzz/stream/s-2/17647/sub",
+        "dub": "https://megaplay.buzz/stream/s-2/17647/dub"
+      },
+      "updated_at": "2024-10-17 19:25:20"
+    },
+    {
+      "id": 7264,
+      "title": "The Synchronicity Test!",
+      "jp_title": "Satoshi to Alan! Gekkouga vs. Mega Lizardon Futatabi!!",
+      "number": 23,
+      "episode_embed_id": "17648",
+      "embed_url": {
+        "sub": "https://megaplay.buzz/stream/s-2/17648/sub",
+        "dub": "https://megaplay.buzz/stream/s-2/17648/dub"
+      },
+      "updated_at": "2024-10-17 19:25:20"
+    },
+    {
+      "id": 7265,
+      "title": "Making Friends and Influencing Villains! (The Forest&#39;s Curse and the White Bokurei!)",
+      "jp_title": "Mori no Noroi to Shiroi Bokurei!",
+      "number": 24,
+      "episode_embed_id": "17649",
+      "embed_url": {
+        "sub": "https://megaplay.buzz/stream/s-2/17649/sub",
+        "dub": "https://megaplay.buzz/stream/s-2/17649/dub"
+      },
+      "updated_at": "2024-10-17 19:25:20"
+    },
+    {
+      "id": 7266,
+      "title": "Championing a Research Battle! (Satoshi VS Champion Carnet! VS Mega Sirnight!!)",
+      "jp_title": "Satoshi tai Champion Carnet! Vs. Mega Sirnight!!",
+      "number": 25,
+      "episode_embed_id": "17650",
+      "embed_url": {
+        "dub": "https://megaplay.buzz/stream/s-2/17650/dub",
+        "sub": "https://megaplay.buzz/stream/s-2/17650/sub"
+      },
+      "updated_at": "2024-10-17 19:25:20"
+    },
+    {
+      "id": 7267,
+      "title": "A Full Strength Battle Surprise! (Rival Showdown! Satoshi VS Shouta!!)",
+      "jp_title": "Rival Taiketsu! Satoshi vs. Shouta!!",
+      "number": 26,
+      "episode_embed_id": "17651",
+      "embed_url": {
+        "sub": "https://megaplay.buzz/stream/s-2/17651/sub",
+        "dub": "https://megaplay.buzz/stream/s-2/17651/dub"
+      },
+      "updated_at": "2024-10-17 19:25:20"
+    },
+    {
+      "id": 7268,
+      "title": "All Hail the Ice Battlefield! (Eisetsu Gym Battle! Battlefield of Ice!!)",
+      "jp_title": "Eisetsu Gym-sen! Koori no Battlefield!!",
+      "number": 27,
+      "episode_embed_id": "17652",
+      "embed_url": {
+        "sub": "https://megaplay.buzz/stream/s-2/17652/sub",
+        "dub": "https://megaplay.buzz/stream/s-2/17652/dub"
+      },
+      "updated_at": "2024-10-17 19:25:20"
+    },
+    {
+      "id": 7269,
+      "title": "Seeing the Forest For the Trees! (The Winding Woods...The Dawn of Evolution!!)",
+      "jp_title": "Mayoi no Mori... Shinka no Yoake!",
+      "number": 28,
+      "episode_embed_id": "17653",
+      "embed_url": {
+        "sub": "https://megaplay.buzz/stream/s-2/17653/sub",
+        "dub": "https://megaplay.buzz/stream/s-2/17653/dub"
+      },
+      "updated_at": "2024-10-17 19:25:20"
+    },
+    {
+      "id": 7270,
+      "title": "A Real Icebreaker! (Satoshi-Gekkouga VS Mega Yukinooh! The Giant Water Shuriken Triggers!!)",
+      "jp_title": "Satoshi Gekkouga vs. Mega Yukinooh! Hatsudou Kyodai Mizu Shuriken!!",
+      "number": 29,
+      "episode_embed_id": "17654",
+      "embed_url": {
+        "sub": "https://megaplay.buzz/stream/s-2/17654/sub",
+        "dub": "https://megaplay.buzz/stream/s-2/17654/dub"
+      },
+      "updated_at": "2024-10-17 19:25:20"
+    },
+    {
+      "id": 7271,
+      "title": "A Diamond in the Rough! (Find Melecie! Numelgon and Dedenne!!)",
+      "jp_title": "Melecie wo Sagase! Numelgon to Dedenne!!",
+      "number": 30,
+      "episode_embed_id": "17655",
+      "embed_url": {
+        "dub": "https://megaplay.buzz/stream/s-2/17655/dub",
+        "sub": "https://megaplay.buzz/stream/s-2/17655/sub"
+      },
+      "updated_at": "2024-10-17 19:25:20"
+    },
+    {
+      "id": 7272,
+      "title": "A Gaggle of Gadget Greatness! (The Explosive Heat at the Mechanical Festival!!)",
+      "jp_title": "Bakunetsu no Karakuri Festival!",
+      "number": 31,
+      "episode_embed_id": "17656",
+      "embed_url": {
+        "sub": "https://megaplay.buzz/stream/s-2/17656/sub",
+        "dub": "https://megaplay.buzz/stream/s-2/17656/dub"
+      },
+      "updated_at": "2024-10-17 19:25:20"
+    },
+    {
+      "id": 7273,
+      "title": "A League of His Own! (The Kalos League Begins! The Mega Lizardon Showdown: X VS Y!!)",
+      "jp_title": "Kalos League Kaimaku! Mega Lizardon Taiketsu: X tai Y!!",
+      "number": 32,
+      "episode_embed_id": "17657",
+      "embed_url": {
+        "dub": "https://megaplay.buzz/stream/s-2/17657/dub",
+        "sub": "https://megaplay.buzz/stream/s-2/17657/sub"
+      },
+      "updated_at": "2024-10-17 19:25:20"
+    },
+    {
+      "id": 7274,
+      "title": "Valuable Experience for All! (Mega Jukain VS Raichu! Received Some Experience Points!!)",
+      "jp_title": "Mega Jukain tai Raichuu! Keikenchi Itadakimasu!!",
+      "number": 33,
+      "episode_embed_id": "17658",
+      "embed_url": {
+        "sub": "https://megaplay.buzz/stream/s-2/17658/sub",
+        "dub": "https://megaplay.buzz/stream/s-2/17658/dub"
+      },
+      "updated_at": "2024-10-17 19:25:20"
+    },
+    {
+      "id": 7275,
+      "title": "Analysis Versus Passion! (The Semifinal Full Battle! Satoshi Vs Shota!!)",
+      "jp_title": "Junkesshou Full Battle! Satoshi tai Shouta!!",
+      "number": 34,
+      "episode_embed_id": "17659",
+      "embed_url": {
+        "sub": "https://megaplay.buzz/stream/s-2/17659/sub",
+        "dub": "https://megaplay.buzz/stream/s-2/17659/dub"
+      },
+      "updated_at": "2024-10-17 19:25:20"
+    },
+    {
+      "id": 7276,
+      "title": "A Riveting Rivalry! (Decisive Rival Battle! Satoshi-Gekkouga Vs Mega Jukain!!)",
+      "jp_title": "Rival Kessen! Satoshi Gekkouga vs. Mega Jukain!!",
+      "number": 35,
+      "episode_embed_id": "17660",
+      "embed_url": {
+        "dub": "https://megaplay.buzz/stream/s-2/17660/dub",
+        "sub": "https://megaplay.buzz/stream/s-2/17660/sub"
+      },
+      "updated_at": "2024-10-17 19:25:20"
+    },
+    {
+      "id": 7277,
+      "title": "Down to the Fiery Finish!",
+      "jp_title": "Kalos League Yuushou! Satoshi Choujou Kessen!!",
+      "number": 36,
+      "episode_embed_id": "17661",
+      "embed_url": {
+        "sub": "https://megaplay.buzz/stream/s-2/17661/sub",
+        "dub": "https://megaplay.buzz/stream/s-2/17661/dub"
+      },
+      "updated_at": "2024-10-17 19:25:20"
+    },
+    {
+      "id": 7278,
+      "title": "A Towering Takeover!",
+      "jp_title": "Episode 37",
+      "number": 37,
+      "episode_embed_id": "50462",
+      "embed_url": {
+        "dub": "https://megaplay.buzz/stream/s-2/50462/dub",
+        "sub": "https://megaplay.buzz/stream/s-2/50462/sub"
+      },
+      "updated_at": "2024-10-17 19:25:20"
+    },
+    {
+      "id": 7279,
+      "title": "Down to the Fiery Finish!",
+      "jp_title": "Kalos League Yuushou! Satoshi Choujou Kessen!!",
+      "number": 38,
+      "episode_embed_id": "50845",
+      "embed_url": {
+        "sub": "https://megaplay.buzz/stream/s-2/50845/sub",
+        "dub": "https://megaplay.buzz/stream/s-2/50845/dub"
+      },
+      "updated_at": "2024-10-17 19:25:20"
+    },
+    {
+      "id": 7280,
+      "title": "A Towering Takeover!",
+      "jp_title": "A Towering Takeover!",
+      "number": 39,
+      "episode_embed_id": "55815",
+      "embed_url": {
+        "dub": "https://megaplay.buzz/stream/s-2/55815/dub",
+        "sub": "https://megaplay.buzz/stream/s-2/55815/sub"
+      },
+      "updated_at": "2024-10-17 19:25:20"
+    },
+    {
+      "id": 7281,
+      "title": "Coming Apart at the Dreams!",
+      "jp_title": "Coming Apart at the Dreams!",
+      "number": 40,
+      "episode_embed_id": "55816",
+      "embed_url": {
+        "sub": "https://megaplay.buzz/stream/s-2/55816/sub",
+        "dub": "https://megaplay.buzz/stream/s-2/55816/dub"
+      },
+      "updated_at": "2024-10-17 19:25:20"
+    },
+    {
+      "id": 7282,
+      "title": "The Right Hero for the Right Job!",
+      "jp_title": "The Right Hero for the Right Job!",
+      "number": 41,
+      "episode_embed_id": "55817",
+      "embed_url": {
+        "dub": "https://megaplay.buzz/stream/s-2/55817/dub",
+        "sub": "https://megaplay.buzz/stream/s-2/55817/sub"
+      },
+      "updated_at": "2024-10-17 19:25:20"
+    },
+    {
+      "id": 7283,
+      "title": "Rocking Kalos Defenses!",
+      "jp_title": "Rocking Kalos Defenses!",
+      "number": 42,
+      "episode_embed_id": "55818",
+      "embed_url": {
+        "dub": "https://megaplay.buzz/stream/s-2/55818/dub",
+        "sub": "https://megaplay.buzz/stream/s-2/55818/sub"
+      },
+      "updated_at": "2024-10-17 19:25:20"
+    },
+    {
+      "id": 7284,
+      "title": "Forming a More Perfect Union!",
+      "jp_title": "Forming a More Perfect Union!",
+      "number": 43,
+      "episode_embed_id": "55819",
+      "embed_url": {
+        "sub": "https://megaplay.buzz/stream/s-2/55819/sub",
+        "dub": "https://megaplay.buzz/stream/s-2/55819/dub"
+      },
+      "updated_at": "2024-10-17 19:25:20"
+    },
+    {
+      "id": 7285,
+      "title": "Battling with a Clean Slate!",
+      "jp_title": "Battling with a Clean Slate!",
+      "number": 44,
+      "episode_embed_id": "55820",
+      "embed_url": {
+        "sub": "https://megaplay.buzz/stream/s-2/55820/sub",
+        "dub": "https://megaplay.buzz/stream/s-2/55820/dub"
+      },
+      "updated_at": "2024-10-17 19:25:20"
+    },
+    {
+      "id": 7286,
+      "title": "The First Day of the Rest of Your Life!",
+      "jp_title": "The First Day of the Rest of Your Life!",
+      "number": 45,
+      "episode_embed_id": "55821",
+      "embed_url": {
+        "sub": "https://megaplay.buzz/stream/s-2/55821/sub",
+        "dub": "https://megaplay.buzz/stream/s-2/55821/dub"
+      },
+      "updated_at": "2024-10-17 19:25:20"
+    },
+    {
+      "id": 7287,
+      "title": "Facing the Needs of the Many!",
+      "jp_title": "Facing the Needs of the Many!",
+      "number": 46,
+      "episode_embed_id": "55822",
+      "embed_url": {
+        "sub": "https://megaplay.buzz/stream/s-2/55822/sub",
+        "dub": "https://megaplay.buzz/stream/s-2/55822/dub"
+      },
+      "updated_at": "2024-10-17 19:25:20"
+    },
+    {
+      "id": 7288,
+      "title": "Till We Compete Again!",
+      "jp_title": "Till We Compete Again!",
+      "number": 47,
+      "episode_embed_id": "55823",
+      "embed_url": {
+        "sub": "https://megaplay.buzz/stream/s-2/55823/sub",
+        "dub": "https://megaplay.buzz/stream/s-2/55823/dub"
+      },
+      "updated_at": "2024-10-17 19:25:20"
+    },
+    {
+      "id": 7289,
+      "title": "The Legend of X, Y, and Z!",
+      "jp_title": "The Legend of X, Y, and Z!",
+      "number": 48,
+      "episode_embed_id": "55824",
+      "embed_url": {
+        "dub": "https://megaplay.buzz/stream/s-2/55824/dub",
+        "sub": "https://megaplay.buzz/stream/s-2/55824/sub"
+      },
+      "updated_at": "2024-10-17 19:25:20"
+    }
+  ]
+}
