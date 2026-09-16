@@ -1,0 +1,93 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#E2300B">
+  <title>My Anime Watch — Pokémon</title>
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='15' fill='%23E2300B'/%3E%3Crect x='8' y='8' width='16' height='16' fill='%23F4ECDD'/%3E%3C/svg%3E">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Press+Start+2P&family=Space+Grotesk:wght@400;500;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <div class="app">
+
+    <header class="brandbar">
+      <div class="brand">
+        <span class="brand-mark" aria-hidden="true"></span>
+        <p class="brand-name">My Anime Watch</p>
+      </div>
+      <p class="brand-tag" id="brand-tag">Pokémon archive</p>
+    </header>
+
+    <section class="season-hero" id="season-hero">
+      <div class="hero-inner">
+        <div class="hero-copy swap-cell" id="hero-copy">
+          <div class="hero-index"><span id="hero-index">01</span></div>
+          <div class="hero-text">
+            <p class="hero-kicker" id="hero-kicker" role="status">Season 01 · 276 episodes</p>
+            <h1 class="hero-title" id="hero-title">Pokémon</h1>
+          </div>
+        </div>
+
+        <div class="player" id="player">
+          <div class="player-stage" id="player-stage">
+            <iframe id="player-frame" title="Video player" width="100%" height="100%" frameborder="0" scrolling="no" allowfullscreen allow="autoplay; fullscreen; encrypted-media"></iframe>
+            <p class="player-placeholder" id="player-placeholder">
+              <span class="player-placeholder-text" id="placeholder-text">Pick an episode, then press Sub or Dub.</span>
+            </p>
+            <span class="player-status" id="player-status" data-state="standby">STANDBY</span>
+          </div>
+          <div class="player-bar">
+            <span class="player-episode" id="player-episode">No episode selected</span>
+            <span class="player-controls">
+              <button type="button" class="player-track is-sub" data-track="sub" id="track-sub" aria-pressed="false" disabled>SUB</button>
+              <button type="button" class="player-track is-dub" data-track="dub" id="track-dub" aria-pressed="false" disabled>DUB</button>
+            </span>
+          </div>
+        </div>
+
+        <div class="hero-desc-wrap swap-cell" id="hero-desc-wrap">
+          <p class="hero-desc" id="hero-desc"></p>
+          <button type="button" class="hero-toggle" id="hero-toggle" hidden>Show full synopsis</button>
+        </div>
+      </div>
+    </section>
+
+    <main class="columns">
+      <nav class="panel panel-seasons" aria-labelledby="seasons-head">
+        <div class="panel-head">
+          <h2 class="panel-title" id="seasons-head">Seasons</h2>
+          <span class="panel-count" id="season-count">…</span>
+        </div>
+        <ul class="season-list" id="season-list"></ul>
+      </nav>
+
+      <section class="panel panel-episodes" aria-labelledby="episodes-head">
+        <div class="panel-head">
+          <h2 class="panel-title" id="episodes-head">Episodes</h2>
+          <span class="panel-count" id="episode-count">…</span>
+        </div>
+        <ul class="episode-list" id="episode-list"></ul>
+      </section>
+    </main>
+
+  </div>
+
+  <div class="overlay" id="load-error" hidden>
+    <p class="overlay-title">COULD NOT LOAD SEASON DATA</p>
+    <p>The season files in <code>data/</code> could not be read. If you opened <code>index.html</code> directly from disk, browsers block reads of local JSON files — serve this folder over HTTP instead:</p>
+    <pre>python3 -m http.server 8000</pre>
+    <p>then open <code>http://localhost:8000</code> in your browser.</p>
+    <button type="button" class="overlay-retry" id="retry">Try again</button>
+  </div>
+
+  <noscript>
+    <p class="noscript">This page needs JavaScript to read the season files in data/ and build the episode lists.</p>
+  </noscript>
+
+  <script src="js/main.js"></script>
+</body>
+</html>
