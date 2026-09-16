@@ -1,2 +1,11 @@
 # my-anime-watch
-Play anime using &lt;iframe> tags.
+
+A static Pokémon anime season/episode browser that streams episodes inline via `<iframe>`, deployed on GitHub Page.
+
+## Live URL
+
+**<https://DThanhTrung.github.io/my-anime-watch/>**
+
+## Notes
+
+- **Episode 6 of _Sun & Moon_** is the only one missing. It will be added down the road ~~if it's even possible~~.
