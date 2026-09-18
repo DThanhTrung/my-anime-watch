@@ -60,6 +60,8 @@
     playerEpisode: $("player-episode"),
     trackSub: $("track-sub"),
     trackDub: $("track-dub"),
+    navPrev: $("nav-prev"),
+    navNext: $("nav-next"),
     error: $("load-error"),
     retry: $("retry"),
   };
@@ -245,7 +247,7 @@
     if (!season.episodes.length) {
       return `<li class="note">No episodes listed for this season.</li>`;
     }
-    return season.episodes.map((ep) => {
+    return season.episodes.map((ep, idx) => {
       const dupJp =
         !ep.jpTitle ||
         ep.jpTitle.toLowerCase() === ep.title.toLowerCase() ||
@@ -267,6 +269,20 @@
     }).join("");
   }
 
+  function navigate(direction) {
+    const episode = getEpisode(state.ep);
+    const episodes = list()[state.current].episodes;
+    const idx = episodes.findIndex((ep) => ep.number === episode?.number);
+    if (idx < 0) return;
+    const target = direction === "next" ? episodes[idx + 1] : episodes[idx - 1];
+    if (!target) return;
+    const playing = state.video && state.video.number === episode.number;
+    selectEpisode(target, playing);
+    Array.from(els.episodeList.querySelectorAll(".episode-item"))
+      .find((row) => Number(row.dataset.num) === target.number)
+      ?.scrollIntoView({ behavior: reduceMotion ? "auto" : "smooth", block: "nearest" });
+  }
+
   function getEpisode(number) {
     const season = list()[state.current];
     return (season && season.episodes.find((ep) => ep.number === number)) || null;
@@ -286,6 +302,7 @@
 
   function syncPlayer(episode, autoplay) {
     updatePlayerControls(episode);
+    updateNavControls(episode);
     if (autoplay) {
       loadVideo(episode);
       return;
@@ -335,12 +352,25 @@
     });
   }
 
+  function updateNavControls(episode) {
+    if (!episode) {
+      els.navPrev.disabled = true;
+      els.navNext.disabled = true;
+      return;
+    }
+    const episodes = list()[state.current].episodes;
+    const idx = episodes.findIndex((ep) => ep.number === episode.number);
+    els.navPrev.disabled = idx <= 0;
+    els.navNext.disabled = idx < 0 || idx >= episodes.length - 1;
+  }
+
   function resetPlayer() {
     stopVideo();
     state.ep = null;
     els.playerEpisode.textContent = "No episode selected";
     els.placeholderText.textContent = "Pick an episode, then press Sub or Dub.";
     updatePlayerControls({ sub: null, dub: null });
+    updateNavControls(null);
   }
 
   /* ---------- selection + motion ---------- */
@@ -412,6 +442,10 @@
     } else {
       selectEpisode(episode, false);
     }
+  });
+
+  [els.navPrev, els.navNext].forEach((btn) => {
+    btn.addEventListener("click", () => navigate(btn.dataset.nav));
   });
 
   Object.values(trackButtons).forEach((btn) => {

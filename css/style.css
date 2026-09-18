@@ -185,15 +185,21 @@ body {
 /* ---------- video player ---------- */
 
 .player {
-  max-width: 640px;
-  margin-bottom: 16px;
+  max-width: 720px;
+  margin: 0 auto 18px;
+  border: var(--line);
+  border-radius: 2px;
+  background: var(--red);
+  padding: 6px;
 }
 
 .player-stage {
   position: relative;
   aspect-ratio: 16 / 9;
+  max-height: 480px;
   background: var(--ink);
   border: var(--line);
+  border-radius: 2px;
   overflow: hidden;
 }
 
@@ -244,10 +250,11 @@ body {
   justify-content: space-between;
   gap: 12px;
   flex-wrap: wrap;
-  margin-top: 8px;
+  margin-top: 6px;
   padding: 9px 12px;
   background: var(--ink);
   border: var(--line);
+  border-radius: 2px;
 }
 
 .player-episode {
@@ -304,6 +311,29 @@ body {
 .player-track[aria-pressed="true"].is-dub {
   background: #ff7150;
   color: var(--ink);
+}
+
+.player-nav {
+  font-family: var(--font-px);
+  font-size: 0.78rem;
+  line-height: 1.4;
+  padding: 4px 10px;
+  border: 1.5px solid #6f6d60;
+  border-radius: 2px;
+  background: transparent;
+  color: var(--paper);
+  cursor: pointer;
+  flex: none;
+}
+
+.player-nav:hover:not(:disabled) {
+  background: #6f6d60;
+  color: var(--ink);
+}
+
+.player-nav:disabled {
+  opacity: 0.35;
+  cursor: default;
 }
 
 .player-track:disabled {
