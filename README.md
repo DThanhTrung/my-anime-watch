@@ -1,6 +1,6 @@
 # my-anime-watch
 
-A static Pokémon anime season/episode browser that streams episodes inline via `<iframe>`, deployed on GitHub Page.
+A static Pokémon anime season/episode browser that streams episodes and movies inline via `<iframe>`, deployed on GitHub Pages.
 
 ## Live URL
 

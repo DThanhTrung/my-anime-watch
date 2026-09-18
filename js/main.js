@@ -19,16 +19,23 @@
     .sort((a, b) => parseInt(a, 10) - parseInt(b, 10))
     .map((n) => `data/${n}.json`);
 
+  const MOVIES_FILE = "data/movies.json";
+
   const FRANCHISE = "Pokémon";
 
   const state = {
     seasons: [],
+    movies: [],
+    collection: "seasons", /* "seasons" | "movies" */
     current: 0,
     loaded: false,
-    ep: null,      /* selected episode number in current season */
+    ep: null,      /* selected episode number in current list */
     track: null,   /* preferred audio track: "sub" | "dub" | null */
     video: null,   /* { number, track } of the video currently in the iframe */
   };
+
+  /* Movies act as "seasons" with a single episode (the film itself). */
+  const list = () => (state.collection === "movies" ? state.movies : state.seasons);
 
   const $ = (id) => document.getElementById(id);
 
@@ -130,6 +137,29 @@
       .filter((r) => r.status === "fulfilled")
       .map((r) => r.value);
 
+    const movieResult = (await Promise.allSettled([
+      fetch(MOVIES_FILE, { cache: "no-store", headers: { Accept: "application/json" } }).then((res) => {
+        if (!res.ok) throw new Error(`${MOVIES_FILE} → HTTP ${res.status}`);
+        return res.json();
+      }),
+    ]))[0];
+    if (movieResult.status === "fulfilled") {
+      const data = Array.isArray(movieResult.value) ? movieResult.value : [];
+      state.movies = data.map((movie) => ({
+        file: MOVIES_FILE,
+        seasonId: movie.id,
+        title: cleanText(movie.title),
+        description: "",
+        episodes: [{
+          number: 1,
+          title: cleanText(movie.title),
+          jpTitle: null,
+          sub: movie.embed_url ? movie.embed_url.sub : null,
+          dub: movie.embed_url ? movie.embed_url.dub : null,
+        }],
+      }));
+    }
+
     if (state.seasons.length === 0) {
       els.error.hidden = false;
       return false;
@@ -139,13 +169,15 @@
 
   /* ---------- rendering ---------- */
 
-  function renderSeasonList() {
+  function renderList() {
+    const items = list();
     const totalEpisodes = state.seasons.reduce((sum, s) => sum + s.episodes.length, 0);
-    els.brandTag.textContent =
-      `${FRANCHISE} · ${state.seasons.length} seasons · ${fmt(totalEpisodes)} episodes`;
-    els.seasonCount.textContent = String(state.seasons.length);
+    let tag = `${FRANCHISE} · ${state.seasons.length} seasons · ${fmt(totalEpisodes)} episodes`;
+    if (state.movies.length) tag += ` · ${fmt(state.movies.length)} movies`;
+    els.brandTag.textContent = tag;
+    els.seasonCount.textContent = String(items.length);
 
-    els.seasonList.innerHTML = state.seasons.map((season, i) => {
+    els.seasonList.innerHTML = items.map((season, i) => {
       const active = i === state.current;
       return [
         `<li><button type="button" class="season-item${active ? " is-active" : ""}" data-i="${i}"`,
@@ -156,7 +188,7 @@
         `<span class="season-count">${season.episodes.length}</span>`,
         `</button></li>`,
       ].join("");
-    }).join("");
+    }).join("") || `<li class="note">The ${state.collection} list is empty.</li>`;
 
     Array.from(els.seasonList.querySelectorAll(".season-item")).forEach((btn) => {
       btn.addEventListener("click", () => selectSeason(Number(btn.dataset.i)));
@@ -176,15 +208,22 @@
   }
 
   function updateHero() {
-    const season = state.seasons[state.current];
+    const season = list()[state.current];
     const index = pad(state.current + 1);
     const clamped = season.description.length > 520;
 
     swapIn([els.heroCopy, els.heroDescWrap], () => {
       els.heroIndex.textContent = index;
-      els.heroKicker.textContent = `Season ${index} · ${season.episodes.length} episodes`;
+      els.heroKicker.textContent =
+        state.collection === "movies"
+          ? `Movie ${index}`
+          : `Season ${index} · ${season.episodes.length} episodes`;
       els.heroTitle.textContent = season.title;
-      els.heroDesc.textContent = season.description || "No synopsis available for this season.";
+      els.heroDesc.textContent =
+        season.description ||
+        (state.collection === "movies"
+          ? "No synopsis available for this movie."
+          : "No synopsis available for this season.");
       els.heroDesc.classList.toggle("is-clamped", clamped);
       els.heroToggle.hidden = !clamped;
       els.heroToggle.textContent = "Show full synopsis";
@@ -192,7 +231,7 @@
   }
 
   function updateEpisodeList() {
-    const season = state.seasons[state.current];
+    const season = list()[state.current];
     els.episodeCount.textContent = fmt(season.episodes.length);
 
     swapIn(els.episodeList, () => {
@@ -229,7 +268,7 @@
   }
 
   function getEpisode(number) {
-    const season = state.seasons[state.current];
+    const season = list()[state.current];
     return (season && season.episodes.find((ep) => ep.number === number)) || null;
   }
 
@@ -319,8 +358,27 @@
     }, 160);
   }
 
+  function setCollection(view) {
+    if (view === state.collection) return;
+    state.collection = view;
+    state.current = 0;
+    state.loaded = false;
+    resetPlayer();
+    updateViewSwitch();
+    renderList();
+    selectSeason(0);
+  }
+
+  function updateViewSwitch() {
+    Array.from(document.querySelectorAll(".view-tab")).forEach((btn) => {
+      const active = btn.dataset.view === state.collection;
+      btn.classList.toggle("is-active", active);
+      btn.setAttribute("aria-pressed", String(active));
+    });
+  }
+
   function selectSeason(i) {
-    if (i < 0 || i >= state.seasons.length || (i === state.current && state.loaded)) return;
+    if (i < 0 || i >= list().length || (i === state.current && state.loaded)) return;
     const seasonChanged = i !== state.current;
     state.current = i;
     state.loaded = true;
@@ -328,6 +386,13 @@
     updateSeasonList();
     updateHero();
     updateEpisodeList();
+
+    /* A single-episode item (a movie) is its own episode: auto-select it
+       so the player is ready to play without an extra click. */
+    const season = list()[state.current];
+    if (season.episodes.length === 1 && !state.ep) {
+      selectEpisode(season.episodes[0], false);
+    }
   }
 
   /* ---------- init ---------- */
@@ -358,6 +423,10 @@
     });
   });
 
+  Array.from(document.querySelectorAll(".view-tab")).forEach((btn) => {
+    btn.addEventListener("click", () => setCollection(btn.dataset.view));
+  });
+
   els.retry.addEventListener("click", () => {
     els.error.hidden = true;
     els.seasonList.innerHTML = `<li class="note">Loading seasons…</li>`;
@@ -375,7 +444,7 @@
   async function init() {
     const ok = await loadSeasons();
     if (!ok) return;
-    renderSeasonList();
+    renderList();
     selectSeason(0);
   }
 

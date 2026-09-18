@@ -393,6 +393,36 @@ body {
   color: var(--red-deep);
 }
 
+/* ---------- seasons / movies switch ---------- */
+
+.view-switch {
+  display: inline-flex;
+  gap: 6px;
+  padding: 3px;
+  border: 1.5px solid var(--ink);
+  border-radius: 3px;
+  background: var(--paper);
+}
+
+.view-tab {
+  font-family: var(--font-px);
+  font-size: 0.78rem;
+  line-height: 1.4;
+  padding: 4px 10px;
+  border: 0;
+  border-radius: 2px;
+  background: transparent;
+  color: var(--ink-soft);
+  cursor: pointer;
+}
+
+.view-tab:hover { color: var(--ink); }
+
+.view-tab.is-active {
+  background: var(--red);
+  color: #fff;
+}
+
 /* ---------- season list (left column) ---------- */
 
 .season-list {

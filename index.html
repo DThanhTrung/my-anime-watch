@@ -57,9 +57,12 @@
     </section>
 
     <main class="columns">
-      <nav class="panel panel-seasons" aria-labelledby="seasons-head">
+      <nav class="panel panel-seasons" aria-label="Seasons and movies">
         <div class="panel-head">
-          <h2 class="panel-title" id="seasons-head">Seasons</h2>
+          <div class="view-switch" role="group" aria-label="List type">
+            <button type="button" class="view-tab is-active" data-view="seasons" aria-pressed="true">Seasons</button>
+            <button type="button" class="view-tab" data-view="movies" aria-pressed="false">Movies</button>
+          </div>
           <span class="panel-count" id="season-count">…</span>
         </div>
         <ul class="season-list" id="season-list"></ul>
