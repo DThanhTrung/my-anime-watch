@@ -1790,6 +1790,18 @@
         "dub": "https://megaplay.buzz/stream/s-2/908254/dub"
       },
       "updated_at": "2026-09-12 05:31:55"
+    },
+    {
+      "id": 135399,
+      "title": "Episode 150",
+      "jp_title": "Episode 150",
+      "number": 150,
+      "episode_embed_id": "601860",
+      "embed_url": {
+        "sub": "https://megaplay.buzz/stream/s-2/601860/sub",
+        "dub": "https://megaplay.buzz/stream/s-2/601860/dub"
+      },
+      "updated_at": "2026-09-19 05:38:33"
     }
   ]
 }
