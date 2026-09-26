@@ -1802,6 +1802,18 @@
         "dub": "https://megaplay.buzz/stream/s-2/601860/dub"
       },
       "updated_at": "2026-09-19 05:38:33"
+    },
+    {
+      "id": 135505,
+      "title": "Episode 151",
+      "jp_title": "Episode 151",
+      "number": 151,
+      "episode_embed_id": "393017",
+      "embed_url": {
+        "sub": "https://megaplay.buzz/stream/s-2/393017/sub",
+        "dub": "https://megaplay.buzz/stream/s-2/393017/dub"
+      },
+      "updated_at": "2026-09-26 04:44:22"
     }
   ]
 }
