@@ -1814,6 +1814,18 @@
         "dub": "https://megaplay.buzz/stream/s-2/393017/dub"
       },
       "updated_at": "2026-09-26 04:44:22"
+    },
+    {
+      "id": 135738,
+      "title": "Episode 152",
+      "jp_title": "Episode 152",
+      "number": 152,
+      "episode_embed_id": "768889",
+      "embed_url": {
+        "sub": "https://megaplay.buzz/stream/s-2/768889/sub",
+        "dub": "https://megaplay.buzz/stream/s-2/768889/dub"
+      },
+      "updated_at": "2026-10-10 06:48:13"
     }
   ]
 }
