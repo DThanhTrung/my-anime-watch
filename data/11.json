@@ -1826,6 +1826,18 @@
         "dub": "https://megaplay.buzz/stream/s-2/768889/dub"
       },
       "updated_at": "2026-10-10 06:48:13"
+    },
+    {
+      "id": 135882,
+      "title": "Episode 153",
+      "jp_title": "Episode 153",
+      "number": 153,
+      "episode_embed_id": "142255",
+      "embed_url": {
+        "sub": "https://megaplay.buzz/stream/s-2/142255/sub",
+        "dub": "https://megaplay.buzz/stream/s-2/142255/dub"
+      },
+      "updated_at": "2026-10-17 05:09:47"
     }
   ]
 }
