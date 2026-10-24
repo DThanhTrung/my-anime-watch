@@ -1838,6 +1838,18 @@
         "dub": "https://megaplay.buzz/stream/s-2/142255/dub"
       },
       "updated_at": "2026-10-17 05:09:47"
+    },
+    {
+      "id": 135987,
+      "title": "Episode 154",
+      "jp_title": "Episode 154",
+      "number": 154,
+      "episode_embed_id": "194601",
+      "embed_url": {
+        "sub": "https://megaplay.buzz/stream/s-2/194601/sub",
+        "dub": "https://megaplay.buzz/stream/s-2/194601/dub"
+      },
+      "updated_at": "2026-10-24 03:03:24"
     }
   ]
 }
