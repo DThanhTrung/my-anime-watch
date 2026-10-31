@@ -1850,6 +1850,18 @@
         "dub": "https://megaplay.buzz/stream/s-2/194601/dub"
       },
       "updated_at": "2026-10-24 03:03:24"
+    },
+    {
+      "id": 136466,
+      "title": "Episode 155",
+      "jp_title": "Episode 155",
+      "number": 155,
+      "episode_embed_id": "635069",
+      "embed_url": {
+        "sub": "https://megaplay.buzz/stream/s-2/635069/sub",
+        "dub": "https://megaplay.buzz/stream/s-2/635069/dub"
+      },
+      "updated_at": "2026-10-31 04:00:54"
     }
   ]
 }
