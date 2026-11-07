@@ -1862,6 +1862,18 @@
         "dub": "https://megaplay.buzz/stream/s-2/635069/dub"
       },
       "updated_at": "2026-10-31 04:00:54"
+    },
+    {
+      "id": 138691,
+      "title": "Episode 156",
+      "jp_title": "Episode 156",
+      "number": 156,
+      "episode_embed_id": "274317",
+      "embed_url": {
+        "sub": "https://megaplay.buzz/stream/s-2/274317/sub",
+        "dub": "https://megaplay.buzz/stream/s-2/274317/dub"
+      },
+      "updated_at": "2026-11-07 05:43:09"
     }
   ]
 }
