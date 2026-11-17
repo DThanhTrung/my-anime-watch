@@ -94,8 +94,8 @@
       "number": 8,
       "episode_embed_id": "101611",
       "embed_url": {
-        "dub": "https://megaplay.buzz/stream/s-2/101611/dub",
-        "sub": "https://megaplay.buzz/stream/s-2/101611/sub"
+        "sub": "https://megaplay.buzz/stream/s-2/101611/sub",
+        "dub": "https://megaplay.buzz/stream/s-2/101611/dub"
       },
       "updated_at": "2026-07-10 08:40:18"
     },
@@ -130,8 +130,8 @@
       "number": 11,
       "episode_embed_id": "102069",
       "embed_url": {
-        "dub": "https://megaplay.buzz/stream/s-2/102069/dub",
-        "sub": "https://megaplay.buzz/stream/s-2/102069/sub"
+        "sub": "https://megaplay.buzz/stream/s-2/102069/sub",
+        "dub": "https://megaplay.buzz/stream/s-2/102069/dub"
       },
       "updated_at": "2026-07-10 08:40:18"
     },
@@ -214,8 +214,8 @@
       "number": 18,
       "episode_embed_id": "105835",
       "embed_url": {
-        "dub": "https://megaplay.buzz/stream/s-2/105835/dub",
-        "sub": "https://megaplay.buzz/stream/s-2/105835/sub"
+        "sub": "https://megaplay.buzz/stream/s-2/105835/sub",
+        "dub": "https://megaplay.buzz/stream/s-2/105835/dub"
       },
       "updated_at": "2026-07-10 08:40:18"
     },
@@ -286,8 +286,8 @@
       "number": 24,
       "episode_embed_id": "108457",
       "embed_url": {
-        "dub": "https://megaplay.buzz/stream/s-2/108457/dub",
-        "sub": "https://megaplay.buzz/stream/s-2/108457/sub"
+        "sub": "https://megaplay.buzz/stream/s-2/108457/sub",
+        "dub": "https://megaplay.buzz/stream/s-2/108457/dub"
       },
       "updated_at": "2026-07-10 08:40:18"
     },
@@ -502,8 +502,8 @@
       "number": 42,
       "episode_embed_id": "121848",
       "embed_url": {
-        "dub": "https://megaplay.buzz/stream/s-2/121848/dub",
-        "sub": "https://megaplay.buzz/stream/s-2/121848/sub"
+        "sub": "https://megaplay.buzz/stream/s-2/121848/sub",
+        "dub": "https://megaplay.buzz/stream/s-2/121848/dub"
       },
       "updated_at": "2026-07-10 08:40:18"
     },
@@ -1874,6 +1874,18 @@
         "dub": "https://megaplay.buzz/stream/s-2/274317/dub"
       },
       "updated_at": "2026-11-07 05:43:09"
+    },
+    {
+      "id": 138823,
+      "title": "Episode 157",
+      "jp_title": "Episode 157",
+      "number": 157,
+      "episode_embed_id": "786884",
+      "embed_url": {
+        "sub": "https://megaplay.buzz/stream/s-2/786884/sub",
+        "dub": "https://megaplay.buzz/stream/s-2/786884/dub"
+      },
+      "updated_at": "2026-11-14 05:32:16"
     }
   ]
 }
