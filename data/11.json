@@ -1886,6 +1886,18 @@
         "dub": "https://megaplay.buzz/stream/s-2/786884/dub"
       },
       "updated_at": "2026-11-14 05:32:16"
+    },
+    {
+      "id": 139114,
+      "title": "Episode 158",
+      "jp_title": "Episode 158",
+      "number": 158,
+      "episode_embed_id": "557753",
+      "embed_url": {
+        "sub": "https://megaplay.buzz/stream/s-2/557753/sub",
+        "dub": "https://megaplay.buzz/stream/s-2/557753/dub"
+      },
+      "updated_at": "2026-11-21 04:21:43"
     }
   ]
 }
